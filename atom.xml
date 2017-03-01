@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://z.arlmy.me/"/>
-  <updated>2017-03-01T06:10:03.000Z</updated>
+  <updated>2017-03-01T08:24:11.000Z</updated>
   <id>http://z.arlmy.me/</id>
   
   <author>
@@ -14,6 +14,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo Maupassant 增加字数统计</title>
+    <link href="http://z.arlmy.me/uncategorized/HexoAddWordCount.html"/>
+    <id>http://z.arlmy.me/uncategorized/HexoAddWordCount.html</id>
+    <published>2017-03-01T08:11:44.000Z</published>
+    <updated>2017-03-01T08:24:11.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>网上没有增加这个功能的教程，琢磨了下 jade 的格式，调试成功，分享出来</p>
+<h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p><code>hexo-wordcount</code> <a href="https://www.npmjs.com/package/hexo-wordcount" target="_blank" rel="external">npm 链接</a></p>
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p><code>npm install hexo-wordcount --save</code></p>
+<h2 id="修改-jade-文件"><a href="#修改-jade-文件" class="headerlink" title="修改 jade 文件"></a>修改 jade 文件</h2><p><code>\themes\maupassant\layout</code> 路径下找到 <code>post.jade</code></p>
+<p>在 <code>.post-meta</code> 下 <code>span= &#39; &#39; + __(&#39;Hits&#39;)</code> 后面增加：</p>
+<figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">span= <span class="string">' |  本文共计 '</span></div><div class="line"><span class="selector-tag">span</span>.post-count= wordcount(page.<span class="attribute">content</span>)</div><div class="line">span= <span class="string">' 字  |  阅读约需 '</span></div><div class="line"><span class="selector-tag">span</span>.post-count= min2read(page.<span class="attribute">content</span>)</div><div class="line">span= <span class="string">' 分钟 '</span></div></pre></td></tr></table></figure>
+<p>最终显示即为本文效果</p>
+<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>官方文档中写的是 <code>post.content</code>，但 Maupassant 主题下此项应为 <code>page.content</code></p>
+]]></content>
+    
+    <summary type="html">
+    
+      网上没有增加这个功能的教程，分享一下
+    
+    </summary>
+    
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/tags/Hexo/"/>
+    
+      <category term="Maupassant" scheme="http://z.arlmy.me/tags/Maupassant/"/>
+    
+      <category term="WordCount" scheme="http://z.arlmy.me/tags/WordCount/"/>
+    
+      <category term="jade" scheme="http://z.arlmy.me/tags/jade/"/>
+    
+  </entry>
   
   <entry>
     <title>认识发生论：主体与客体的分界</title>
@@ -312,10 +346,10 @@
   
   <entry>
     <title>在 Github 上搭建 Hexo 博客</title>
-    <link href="http://z.arlmy.me/uncategorized/HexoBlog.html"/>
-    <id>http://z.arlmy.me/uncategorized/HexoBlog.html</id>
+    <link href="http://z.arlmy.me/uncategorized/HexoBlogSetup.html"/>
+    <id>http://z.arlmy.me/uncategorized/HexoBlogSetup.html</id>
     <published>2017-01-03T14:31:28.000Z</published>
-    <updated>2017-03-01T05:56:07.000Z</updated>
+    <updated>2017-03-01T08:15:27.000Z</updated>
     
     <content type="html"><![CDATA[<p>Tips：非 Mac 系统可能不一样，重点参考下思路。<a href="https://github.com/jerry011235/hexoblog/blob/master/source/_posts/windows%E4%B8%8B%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%B0%86%E5%85%B6%E9%83%A8%E7%BD%B2%E5%88%B0GitCafe%E5%92%8CGithub%E7%BB%88%E6%9E%81%E6%95%99%E7%A8%8B.md" target="_blank" rel="external">Windows 配置参考</a></p>
 <h2 id="思路梳理"><a href="#思路梳理" class="headerlink" title="思路梳理"></a>思路梳理</h2><ol>
@@ -362,10 +396,18 @@
     
     <summary type="html">
     
-      &lt;p&gt;Tips：非 Mac 系统可能不一样，重点参考下思路。&lt;a href=&quot;https://github.com/jerry011235/hexoblog/blob/master/source/_posts/windows%E4%B8%8B%E6%90%AD%E5%BB%BAh
+      用 Github Pages 部署 Hexo 博客，思路及操作步骤
     
     </summary>
     
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/tags/Hexo/"/>
+    
+      <category term="Github" scheme="http://z.arlmy.me/tags/Github/"/>
+    
+      <category term="教程" scheme="http://z.arlmy.me/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="折腾" scheme="http://z.arlmy.me/tags/%E6%8A%98%E8%85%BE/"/>
     
   </entry>
   

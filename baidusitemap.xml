@@ -4,6 +4,53 @@
 
     
   <url>
+    <loc>http://z.arlmy.me/uncategorized/HexoAddWordCount.html</loc>
+    <lastmod>2017-03-01T08:24:11.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo Maupassant 增加字数统计</title>
+        <pubTime>2017-03-01T08:11:44.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Maupassant</tag>
+         
+        <tag>WordCount</tag>
+         
+        <tag>jade</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://z.arlmy.me/uncategorized/HexoBlogSetup.html</loc>
+    <lastmod>2017-03-01T08:15:27.000Z</lastmod>
+    <data>
+        <display>
+        <title>在 Github 上搭建 Hexo 博客</title>
+        <pubTime>2017-01-03T14:31:28.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Github</tag>
+         
+        <tag>教程</tag>
+         
+        <tag>折腾</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
     <loc>http://z.arlmy.me/uncategorized/GallupStrengthsFinder6-4.html</loc>
     <lastmod>2017-03-01T06:16:54.000Z</lastmod>
     <data>
@@ -115,21 +162,6 @@
          
         <tag>剥离</tag>
          
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/HexoBlog.html</loc>
-    <lastmod>2017-03-01T05:56:07.000Z</lastmod>
-    <data>
-        <display>
-        <title>在 Github 上搭建 Hexo 博客</title>
-        <pubTime>2017-01-03T14:31:28.000Z</pubTime>
-        
          
            
         </display>
