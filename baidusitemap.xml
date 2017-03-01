@@ -4,58 +4,21 @@
 
     
   <url>
-    <loc>http://z.arlmy.me/uncategorized/HexoBlog.html</loc>
-    <lastmod>2017-03-01T05:27:36.000Z</lastmod>
-    <data>
-        <display>
-        <title>在 Github 上搭建 Hexo 博客</title>
-        <pubTime>2017-01-03T14:31:28.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/ZhihuLiveLiSongWei-170220.html</loc>
-    <lastmod>2017-03-01T05:17:05.000Z</lastmod>
-    <data>
-        <display>
-        <title>认识发生论： 主体与客体的分界</title>
-        <pubTime>2017-02-28T09:21:21.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://z.arlmy.me/uncategorized/GallupStrengthsFinder6-4.html</loc>
-    <lastmod>2017-02-21T15:09:39.000Z</lastmod>
+    <lastmod>2017-03-01T06:16:54.000Z</lastmod>
     <data>
         <display>
-        <title>审慎</title>
+        <title>盖洛普优势识别系列之四：审慎</title>
         <pubTime>2017-02-21T15:08:37.000Z</pubTime>
         
+        <tag>盖洛普</tag>
          
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/1GallupStrengthsFinder6-4.html</loc>
-    <lastmod>2017-02-09T05:24:51.000Z</lastmod>
-    <data>
-        <display>
-        <title></title>
-        <pubTime>2017-02-09T02:25:00.000Z</pubTime>
-        
+        <tag>Gallup</tag>
+         
+        <tag>StrengthsFinder</tag>
+         
+        <tag>审慎</tag>
+         
          
            
         </display>
@@ -65,12 +28,20 @@
     
   <url>
     <loc>http://z.arlmy.me/uncategorized/GallupStrengthsFinder6-3.html</loc>
-    <lastmod>2017-01-11T05:05:13.000Z</lastmod>
+    <lastmod>2017-03-01T06:16:32.000Z</lastmod>
     <data>
         <display>
-        <title>搜集</title>
+        <title>盖洛普优势识别系列之三：搜集</title>
         <pubTime>2017-01-11T05:04:24.000Z</pubTime>
         
+        <tag>盖洛普</tag>
+         
+        <tag>Gallup</tag>
+         
+        <tag>StrengthsFinder</tag>
+         
+        <tag>搜集</tag>
+         
          
            
         </display>
@@ -80,12 +51,20 @@
     
   <url>
     <loc>http://z.arlmy.me/uncategorized/GallupStrengthsFinder6-2.html</loc>
-    <lastmod>2017-01-07T15:57:41.000Z</lastmod>
+    <lastmod>2017-03-01T06:16:20.000Z</lastmod>
     <data>
         <display>
-        <title>理念</title>
+        <title>盖洛普优势识别系列之二：理念</title>
         <pubTime>2017-01-07T15:57:17.000Z</pubTime>
         
+        <tag>盖洛普</tag>
+         
+        <tag>Gallup</tag>
+         
+        <tag>StrengthsFinder</tag>
+         
+        <tag>理念</tag>
+         
          
            
         </display>
@@ -95,12 +74,20 @@
     
   <url>
     <loc>http://z.arlmy.me/uncategorized/GallupStrengthsFinder6-1.html</loc>
-    <lastmod>2017-01-05T15:22:50.000Z</lastmod>
+    <lastmod>2017-03-01T06:15:40.000Z</lastmod>
     <data>
         <display>
-        <title>盖洛普优势识别 系列之一</title>
+        <title>盖洛普优势识别系列之一：概述</title>
         <pubTime>2017-01-05T15:22:01.000Z</pubTime>
         
+        <tag>盖洛普</tag>
+         
+        <tag>Gallup</tag>
+         
+        <tag>StrengthsFinder</tag>
+         
+        <tag>概述</tag>
+         
          
            
         </display>
@@ -109,12 +96,39 @@
 
     
   <url>
-    <loc>http://z.arlmy.me/uncategorized/blog.html</loc>
-    <lastmod>2017-01-03T14:55:05.000Z</lastmod>
+    <loc>http://z.arlmy.me/uncategorized/ZhihuLive_LiSongWei.html</loc>
+    <lastmod>2017-03-01T06:10:03.000Z</lastmod>
     <data>
         <display>
-        <title>blog</title>
-        <pubTime>2017-01-03T14:55:05.000Z</pubTime>
+        <title>认识发生论：主体与客体的分界</title>
+        <pubTime>2017-02-28T09:21:21.000Z</pubTime>
+        
+        <tag>客体永存</tag>
+         
+        <tag>知觉恒常性</tag>
+         
+        <tag>互动</tag>
+         
+        <tag>打破观念</tag>
+         
+        <tag>重复</tag>
+         
+        <tag>剥离</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://z.arlmy.me/uncategorized/HexoBlog.html</loc>
+    <lastmod>2017-03-01T05:56:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>在 Github 上搭建 Hexo 博客</title>
+        <pubTime>2017-01-03T14:31:28.000Z</pubTime>
         
          
            
@@ -145,51 +159,6 @@
         <display>
         <title>Daily161227</title>
         <pubTime>2017-01-03T08:55:10.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/Blog170102.html</loc>
-    <lastmod>2017-01-03T07:00:18.000Z</lastmod>
-    <data>
-        <display>
-        <title>Blog170102</title>
-        <pubTime>2017-01-03T07:00:18.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/Blog170103.html</loc>
-    <lastmod>2017-01-03T06:52:49.000Z</lastmod>
-    <data>
-        <display>
-        <title>Blog170103</title>
-        <pubTime>2017-01-03T06:52:49.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://z.arlmy.me/uncategorized/hello-world.html</loc>
-    <lastmod>2017-01-03T06:44:21.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2017-01-03T06:44:21.000Z</pubTime>
         
          
            
