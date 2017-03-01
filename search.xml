@@ -410,16 +410,16 @@
   
     
     <entry>
-      <title></title>
+      <title><![CDATA[许愿墙]]></title>
       <url>http://z.arlmy.me/2017/index.html</url>
-      <content type="html"><![CDATA[<h2 id="许愿墙"><a href="#许愿墙" class="headerlink" title="许愿墙"></a>许愿墙</h2><ul>
+      <content type="html"><![CDATA[<ul>
 <li>[ ] 用作品集取代简历</li>
 <li>[ ] 优势识别学习：Top5 对我意味着什么？<ul>
 <li>[x] 综述</li>
 <li>[x] Ideation</li>
 <li>[x] Input</li>
 <li>[x] Deliberative</li>
-<li>[ ] Connectedness</li>
+<li>[x] Connectedness</li>
 <li>[ ] Learner</li>
 </ul>
 </li>
