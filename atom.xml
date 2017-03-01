@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://z.arlmy.me/"/>
-  <updated>2017-02-28T09:21:42.000Z</updated>
+  <updated>2017-03-01T05:17:05.000Z</updated>
   <id>http://z.arlmy.me/</id>
   
   <author>
@@ -16,14 +16,14 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>ZhihuLiveLiSongWei_170220</title>
+    <title>认识发生论： 主体与客体的分界</title>
     <link href="http://z.arlmy.me/uncategorized/ZhihuLiveLiSongWei-170220.html"/>
     <id>http://z.arlmy.me/uncategorized/ZhihuLiveLiSongWei-170220.html</id>
     <published>2017-02-28T09:21:21.000Z</published>
-    <updated>2017-02-28T09:21:42.000Z</updated>
+    <updated>2017-03-01T05:17:05.000Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="认识发生论：-主体与客体的分界"><a href="#认识发生论：-主体与客体的分界" class="headerlink" title="认识发生论： 主体与客体的分界"></a>认识发生论： 主体与客体的分界</h1><blockquote>
-<p>为李松蔚「七堂课，学会心理学思维」系列知乎 Live 的第一课</p>
+    <content type="html"><![CDATA[<blockquote>
+<p>李松蔚「七堂课，学会心理学思维」系列知乎 Live 第一课的笔记</p>
 </blockquote>
 <p>关键词：客体永存、知觉恒常性、互动、打破观念、重复与剥离、重塑、成长</p>
 <h2 id="先按概要来回忆一下-Live-的内容"><a href="#先按概要来回忆一下-Live-的内容" class="headerlink" title="先按概要来回忆一下 Live 的内容"></a>先按概要来回忆一下 Live 的内容</h2><h3 id="皮亚杰的婴儿观察和客体永存概念"><a href="#皮亚杰的婴儿观察和客体永存概念" class="headerlink" title="皮亚杰的婴儿观察和客体永存概念"></a>皮亚杰的婴儿观察和客体永存概念</h3><p>客体永存，其他的叫法还有：客体永久性，客体恒常性，英文为 object permanance。意思是，以 9-12 个月为分界点，在此之前，婴儿没有“客体”的概念，物体在眼前消失了就是消失了，物体在眼前出现就是出现了，没有预期和预判，只对出现的物体作出反应，因而很多逗孩子的小戏法在这一阶段奏效。</p>
@@ -75,8 +75,11 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;认识发生论：-主体与客体的分界&quot;&gt;&lt;a href=&quot;#认识发生论：-主体与客体的分界&quot; class=&quot;headerlink&quot; title=&quot;认识发生论： 主体与客体的分界&quot;&gt;&lt;/a&gt;认识发生论： 主体与客体的分界&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;为李松蔚「
+      &lt;blockquote&gt;
+&lt;p&gt;李松蔚「七堂课，学会心理学思维」系列知乎 Live 第一课的笔记&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;关键词：客体永存、知觉恒常性、互动、打破观念、重复与剥离、重塑、成长&lt;/p&gt;
+&lt;h2 id=&quot;先按概要来回忆一下-Live-的内容&quot;&gt;&lt;a 
     
     </summary>
     
@@ -339,7 +342,7 @@
     <link href="http://z.arlmy.me/uncategorized/HexoBlog.html"/>
     <id>http://z.arlmy.me/uncategorized/HexoBlog.html</id>
     <published>2017-01-03T14:31:28.000Z</published>
-    <updated>2017-01-03T14:48:58.000Z</updated>
+    <updated>2017-03-01T05:27:36.000Z</updated>
     
     <content type="html"><![CDATA[<p>Tips：非 Mac 系统可能不一样，重点参考下思路。<a href="https://github.com/jerry011235/hexoblog/blob/master/source/_posts/windows%E4%B8%8B%E6%90%AD%E5%BB%BAhexo%E5%8D%9A%E5%AE%A2%E5%B9%B6%E5%B0%86%E5%85%B6%E9%83%A8%E7%BD%B2%E5%88%B0GitCafe%E5%92%8CGithub%E7%BB%88%E6%9E%81%E6%95%99%E7%A8%8B.md" target="_blank" rel="external">Windows 配置参考</a></p>
 <h2 id="思路梳理"><a href="#思路梳理" class="headerlink" title="思路梳理"></a>思路梳理</h2><ol>
@@ -359,19 +362,22 @@
 <ul>
 <li><figure class="highlight plain"><figcaption><span>new draft [Blogname]``` 新建草稿</span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">- ```hexo new [Blogname]``` 直接新建文章</div><div class="line">- ```hexo generate``` 生成 HTML 静态页面，可简写为 ```hexo g</div></pre></td></tr></table></figure>
 </li>
-<li><figure class="highlight plain"><figcaption><span>deploy```  部署至服务器，可简写为 ```hexo d``` ，连着上一步写作 ```hexo g -d``` </span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line">   - 检查效果 ```hexo server``` ，浏览器打开 ```http://localhost:4000/```  查看效果</div><div class="line">2. 文件夹内安装 git</div><div class="line">   - 确认已安装 [Git](https://git-scm.com/)</div><div class="line">   - ```cd hexo</div></pre></td></tr></table></figure>
+<li><figure class="highlight plain"><figcaption><span>deploy```  部署至服务器，可简写为 ```hexo d``` ，连着上一步写作 ```hexo g -d``` </span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div></pre></td><td class="code"><pre><div class="line">  - 检查效果 ```hexo server``` ，浏览器打开 http://localhost:4000/ 查看效果</div><div class="line"></div><div class="line">2. 文件夹内安装 git</div><div class="line"></div><div class="line">  - 确认已安装  [Git](https://git-scm.com/)</div><div class="line">  - ```cd hexo</div></pre></td></tr></table></figure>
 </li>
 </ul>
 </li>
-<li><figure class="highlight plain"><figcaption><span>init``` </span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">3. git 与 Github 连接</div><div class="line">   - [git publickey 认证](http://stackoverflow.com/questions/2643502/git-permission-denied-publickey) &amp; [publickey 拷贝至 Github](https://github.com/ResetSpacetime/zhaochuanyang.github.io/settings/keys) </div><div class="line">     - 思路：获取 key，拷贝至 Github，提交，代码行确认认证</div><div class="line">   - 在  Github Repository 的 Code 内创建新的 Branch  ```gh-pages```  （点击 Branch: master ，敲入 ```gh-pages``` ）</div><div class="line">4. 部署代码</div><div class="line">   - 修改 ```_config.yml```  最好用 https，在  Github Repository 的 Code 内点击 Clone or download -&gt; use https -&gt; copy 链接，填写进 ```_config.yml``` </div><div class="line">     -</div></pre></td></tr></table></figure>
-<p>  deploy<br>   type: git<br>   repo: <a href="https://github.com/[RepositoryNmae]/XXX.github.io.git" target="_blank" rel="external">https://github.com/[RepositoryNmae]/XXX.github.io.git</a><br>   branch: gh-pages```</p>
+<li><figure class="highlight plain"><figcaption><span>init``` </span></figcaption><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">3. git 与 Github 连接</div><div class="line"></div><div class="line">  - [git publickey 认证](http://stackoverflow.com/questions/2643502/git-permission-denied-publickey) &amp; [publickey 拷贝至 Github](https://github.com/ResetSpacetime/zhaochuanyang.github.io/settings/keys) </div><div class="line">    - 思路：获取 key，拷贝至 Github，提交，代码行确认认证</div><div class="line">  - 在  Github Repository 的 Code 内创建新的 Branch  ```gh-pages```  （点击 Branch: master ，敲入 ```gh-pages``` ）</div><div class="line"></div><div class="line">4. 部署代码</div><div class="line"></div><div class="line">  - 修改 ```_config.yml```  最好用 https，在  Github Repository 的 Code 内点击 Clone or download -&gt; use https -&gt; copy 链接，填写进 ```_config.yml``` </div><div class="line">  -</div></pre></td></tr></table></figure>
 </li>
+</ul>
+<p>deploy<br>type: git<br>repo: <a href="https://github.com/[RepositoryNmae]/XXX.github.io.git" target="_blank" rel="external">https://github.com/[RepositoryNmae]/XXX.github.io.git</a><br>branch: gh-pages<br>```</p>
+<ul>
 <li><code>npm install hexo-deployer-git --save</code>  安装 git deploy 包</li>
 <li><code>hexo generate</code>  生成页面</li>
 <li><code>hexo deploy</code> 部署至 Github</li>
 </ul>
 </li>
-<li>更换主题<ul>
+<li><p>更换主题</p>
+<ul>
 <li>我用的：<a href="https://github.com/tufu9441/maupassant-hexo" target="_blank" rel="external">maupassant-hexo</a> （含配置方法）<ul>
 <li><code>npm install hexo-renderer-sass —save</code>  这一步如果报错，需要换为 <code>cnpm</code> （<a href="https://npm.taobao.org/" target="_blank" rel="external">淘宝 NPM 镜像</a> ）：<ul>
 <li><code>npm uninstall  hexo-renderer-sass —save</code> </li>
@@ -379,7 +385,7 @@
 <li><code>cnpm install hexo-renderer-sass —save</code> </li>
 </ul>
 </li>
-<li>有自己域名的，配置 CNAME 文件（文件名 CNAME 无后缀，内容为指向的域名链接）放入 hexo 下的 source 文件夹，在 DNSPod 上配置解析（日后 favicon.ico、images 也都要放在这里），配置后记得 generate 和 deploy</li>
+<li>如果有自己的域名，配置 CNAME 文件（文件名 CNAME 无后缀，内容为指向的域名链接）放入 hexo 下的 source 文件夹，在 DNSPod 上配置解析（日后 favicon.ico、images 也都要放在这里），配置后记得 generate 和 deploy</li>
 </ul>
 </li>
 </ul>
