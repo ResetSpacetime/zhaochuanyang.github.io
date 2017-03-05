@@ -441,6 +441,169 @@
   </entry>
   
   <entry>
+    <title>如何用 Markdown 语言写作</title>
+    <link href="http://z.arlmy.me/uncategorized/How2UseMarkdown.html"/>
+    <id>http://z.arlmy.me/uncategorized/How2UseMarkdown.html</id>
+    <published>2017-02-11T13:11:44.000Z</published>
+    <updated>2017-03-05T23:42:49.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="什么是-Markdown"><a href="#什么是-Markdown" class="headerlink" title="什么是 Markdown ?"></a>什么是 Markdown ?</h2><p>Markdown 是一种标记语言，在撰写文本时插入符号，即可生成相应格式的文档。</p>
+<p>符号与格式间的对应关系，是提前约定好的，而且简明、易记，从而将很多工作从“写作”中抽离出去。</p>
+<p>Markdown 文档的后缀名为：.md</p>
+<h2 id="为什么要用-Markdown-写作"><a href="#为什么要用-Markdown-写作" class="headerlink" title="为什么要用 Markdown 写作 ?"></a>为什么要用 Markdown 写作 ?</h2><p>大多数人首先接触到的文档编辑器，都是 Word，Word 无论怎样改版，缺点永远罄竹难书。</p>
+<ul>
+<li>写文档的时候，总是会被各种符号和功能打扰，惹人烦闷的页边距、拼写更正、自动格式，无时无刻不在分散着你的注意力；</li>
+<li>写完之后，为了让文章再漂亮一些，还要花费大量时间去排版，很多功能根本不是设计给人类使用的，偶尔遇到软件崩溃，也将大大影响写作效率；</li>
+<li>修订、审阅功能，极其难用且低效。</li>
+</ul>
+<p>为什么 Markdown 可以让你摆脱这些烦恼？原因就在于：它将很多工作从“写作”中抽离出去，从而让写作更加专注。</p>
+<p>这种在功能上的分解处理，是一种被称为“解耦”的编程思想。</p>
+<p>关于输出格式，你能想象到的所有格式的文档，Markdown 都可以转换，可以直接生成网页、PDF、epub、mobi，可以一键通过 Markdown 生成论文，并生成目录。还可以通过 CSS 自定义输出格式。</p>
+<p>当你熟悉了 Markdown 的写作格式，直接给你一份 md 文档的原始代码，你甚至能自动脑补出格式。</p>
+<h2 id="怎样学习-Markdown-写作"><a href="#怎样学习-Markdown-写作" class="headerlink" title="怎样学习 Markdown 写作 ?"></a>怎样学习 Markdown 写作 ?</h2><p>5 分钟就能学会！</p>
+<p>必备技能清单：</p>
+<ol>
+<li>如何添加链接</li>
+<li>如何添加图片</li>
+<li>如何添加引用</li>
+<li>如何添加有序列表、无序列表</li>
+<li>1-5 级标题如何编辑</li>
+<li>如何加粗、显示斜体</li>
+<li>如何高亮显示文字、代码</li>
+<li>显示待办事项</li>
+</ol>
+<p>在线工具（Markdown 文档实时预览）</p>
+<p><strong>请务必直接上手练习</strong>：</p>
+<ul>
+<li>基础版：<a href="http://mahua.jser.me/" target="_blank" rel="external">MaHua Markdown 编辑器</a></li>
+<li>进阶版：<a href="https://www.zybuluo.com/mdeditor" target="_blank" rel="external">Cmd Markdown 编辑器</a> 含插入 LaTeX 公式、添加流程图、序列图等功能</li>
+</ul>
+<h2 id="结合-Github-来写作"><a href="#结合-Github-来写作" class="headerlink" title="结合 Github 来写作"></a>结合 Github 来写作</h2><p>由于简洁和高效，甫一开始 Markdown 就受到很多社区的支持，如 Stackoverflow、Github 等代码社区，快速撰写协作文档、科技文本，并交付。</p>
+<p>Github 能够托管你撰写的文本（代码、文字、图片等），社区成员基于此，先后开发出了 Octopress、Jekyll、Hexo 等静态网站生成工具。只要你有 Markdown 的文本，选好一个模板，外加一点个性化设置，就可以快速生成一个属于自己的博客了。</p>
+<p>不想学习写代码，也可以通过 Github 的<a href="https://desktop.github.com/" target="_blank" rel="external">客户端</a>来同步 Markdown 文档，文本的更改记录在 Github 网站上即可对比、查看。</p>
+<p>生成 Hexo 博客教程详见：<a href="https://github.com/YUE-Inc/Training/blob/master/How2BuildHexoBlog.md" target="_blank" rel="external">Training/How2BuildHexoBlog.md</a></p>
+<h2 id="结合-Gitbook-来写作"><a href="#结合-Gitbook-来写作" class="headerlink" title="结合 Gitbook 来写作"></a>结合 Gitbook 来写作</h2><p>一句话概括：<a href="https://www.gitbook.com/" target="_blank" rel="external">GitBook</a> 能帮你写书。</p>
+<p>通过 Gitbook 可以生成、编辑目录，协同编写文档，生成电子书，绑定域名后还可以在线发布。</p>
+<p>可参考 <a href="https://www.gitbook.com/book/yuzeshan/gitbook-studying/details" target="_blank" rel="external">Gitbook 入门教程</a></p>
+<h2 id="工具推荐"><a href="#工具推荐" class="headerlink" title="工具推荐"></a>工具推荐</h2><h3 id="写作工具"><a href="#写作工具" class="headerlink" title="写作工具"></a>写作工具</h3><ul>
+<li><a href="https://typora.io/" target="_blank" rel="external">Typora</a> | macOS/Windows/Linux</li>
+<li><a href="https://atom.io/" target="_blank" rel="external">Atom</a> | macOS/Windows</li>
+<li><a href="http://zh.mweb.im/" target="_blank" rel="external">MWeb</a> | Web/macOS/iOS</li>
+<li><a href="https://2appstudio.com/jotterpad/" target="_blank" rel="external">JotterPad</a> | Android</li>
+<li><a href="http://www.smartisan.com/apps/notes" target="_blank" rel="external">锤子便签</a> | Android</li>
+<li><a href="https://bywordapp.com/" target="_blank" rel="external">Byword</a> | macOS/iOS</li>
+<li><a href="https://macdown.uranusjr.com/" target="_blank" rel="external">MacDown</a> | macOS</li>
+<li><a href="http://markdownpad.com/" target="_blank" rel="external">MarkdownPad</a> | Windows</li>
+<li><a href="http://25.io/mou/" target="_blank" rel="external">Mou</a> | macOS</li>
+<li><a href="https://www.zybuluo.com/cmd/" target="_blank" rel="external">Cmd Markdown</a> | Web/macOS/Windows/Linux</li>
+<li><a href="http://mazimd.com/" target="_blank" rel="external">码字</a> | Web</li>
+<li><a href="http://www.jianshu.com/writer#/" target="_blank" rel="external">简书</a> | Web/iOS/Android</li>
+<li><a href="http://marked2app.com/" target="_blank" rel="external">Marked</a> | macOS</li>
+</ul>
+<h3 id="其他工具"><a href="#其他工具" class="headerlink" title="其他工具"></a>其他工具</h3><ul>
+<li><a href="https://pilotmoon.com/popclip/" target="_blank" rel="external">PopClip</a><ul>
+<li>macOS，其中有一个插件<code>md2mm</code>，可以将 Markdown 无序列表直接转换为 mindmap 格式</li>
+</ul>
+</li>
+<li><a href="http://pandoc.org/" target="_blank" rel="external">Pandoc</a><ul>
+<li>macOS/Windows/Linux，Markdown、Word、PDF 多种文档格式互转</li>
+</ul>
+</li>
+<li><a href="https://github.com/googlesamples/md2googleslides" target="_blank" rel="external">md2googleslides</a><ul>
+<li>Generate Google Slides from Markdown</li>
+</ul>
+</li>
+<li><a href="https://github.com/adam-p/markdown-here" target="_blank" rel="external">Markdown Here</a><ul>
+<li>Chrome、Safari 等浏览器插件，用 Markdown 格式撰写，一键转格式（CSS 格式可自定义）</li>
+</ul>
+</li>
+<li><a href="http://www.literatureandlatte.com/scrivener.php" target="_blank" rel="external">Scrivener</a><ul>
+<li>macOS/Windows/iOS，书籍、论文、剧本等专业写作工具</li>
+</ul>
+</li>
+<li><a href="http://fletcherpenney.net/multimarkdown/features/" target="_blank" rel="external">MultiMarkdown</a><ul>
+<li>Markdown 进阶版，支持公式、脚注、引用等高级格式</li>
+</ul>
+</li>
+<li><a href="https://chrome.google.com/webstore/detail/copy-as-markdown/fkeaekngjflipcockcnpobkpbbfbhmdn" target="_blank" rel="external">Copy as Markdown</a><ul>
+<li>Chrome 插件，点击即可将当前网页的标题和链接以 Markdown 格式输出</li>
+</ul>
+</li>
+</ul>
+<h2 id="练习题"><a href="#练习题" class="headerlink" title="练习题"></a>练习题</h2><p>点击链接：<a href="https://github.com/YUE-Inc/Training/issues/1" target="_blank" rel="external">测试题</a></p>
+<hr>
+<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><ul>
+<li><a href="https://www.wikiwand.com/zh-hans/Markdown" target="_blank" rel="external">Markdown - Wikiwand</a></li>
+<li><a href="http://www.yangzhiping.com/tech/r-markdown-knitr.html" target="_blank" rel="external">Markdown写作浅谈</a></li>
+<li><a href="https://www.v2ex.com/go/markdown" target="_blank" rel="external">V2EX Markdown 节点</a></li>
+</ul>
+<h3 id="CHANGELOG"><a href="#CHANGELOG" class="headerlink" title="CHANGELOG"></a>CHANGELOG</h3><ul>
+<li>20170210 Arlmy 创建</li>
+<li>20170211 Arlmy 写作完成</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      自己整理的一份 Markdown 写作教程
+    
+    </summary>
+    
+    
+      <category term="教程" scheme="http://z.arlmy.me/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="Markdown" scheme="http://z.arlmy.me/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>备份：哪些东西买了之后，会让人因生活质量和幸福感提升而感觉相见恨晚？</title>
+    <link href="http://z.arlmy.me/uncategorized/BuyBuyBuy.html"/>
+    <id>http://z.arlmy.me/uncategorized/BuyBuyBuy.html</id>
+    <published>2017-02-09T13:11:44.000Z</published>
+    <updated>2017-03-05T23:49:21.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><a href="https://www.zhihu.com/question/20840874/answer/17114237" target="_blank" rel="external">原文链接</a></p>
+<p><strong>（2017年2月9日有删改，下划线处为近期改动）</strong></p>
+<p>用了之后再不想戒掉的伟大发明们：</p>
+<p>我的公众号：折腾人生（微信搜arlmy1987），二维码太丑不放了</p>
+<p>恨晚：出国旅行（我的第一个国外旅行地：意大利，下一个可能是波兰）<br>启示：了解另一种文化的同时，反思中国的文化（从人生的“不自觉”到人生的“自觉”），四川师范大学《非构思写作学》中老师讲到“旅行，是一种文化阅读”，大认同。</p>
+<p>提醒：软件永远不是最终解决方案，它们都无法超越时间，在本地保护好自己的文本、自己的创造，一切网站和软件都不应成为储存载体（国内更甚）。</p>
+<p>（把之前写在最后的一句提到最前）<br>最后，写博客、写日记、多总结自己、记录自己的历程、做生产者少做非消费者、深入学习认知方法、搭建自己的知识框架、多分享并帮助他人、探索人生的无限可能</p>
+<p>看书、看电影、听音乐……任何信息的载体最重要的不是它的表现形式，而是它想表达的信息，即话外之音。<br>请牢记：“探索自己的更多可能”才是你人生最重要的目标，要自命不凡。</p>
+<p>找到或创建学习共同体，唯有在群体中学习，才能提升效率和愉悦感，这与找工作要看团队和氛围同理</p>
+<h2 id="实物"><a href="#实物" class="headerlink" title="实物"></a>实物</h2><p>豆浆机、喵星人（确认要养一辈子再养，任何宠物同理）、吸尘器、保暖内衣、30 元以上的软毛牙刷和云南白药牙膏、至少 500 元以上的耳机、移动硬盘、每年一本日程本、冲锋衣、匡威、海魂衫、Kindle Paperwhite、Macbook（预算不够可以考虑二手）、普洱茶、狮峰龙井/绿杨春、花裤衩、紫标 North Face、理光 GR、摩卡壶 + LAVAZZA 咖啡粉 + 草饲黄油 + 椰油（对，防弹咖啡的套路）、牙线、BOOKDARTS 书签、滤水壶、铸铁锅（记得查查怎么开锅）、丹麦 Rain 雨衣、意大利 <a href="http://AT.P.CO" target="_blank" rel="external">http://AT.P.CO</a> 男装</p>
+<h2 id="网站"><a href="#网站" class="headerlink" title="网站"></a>网站</h2><p>Google（全线在线产品）、TLF 字幕组（不占地方且高质量片源首选）、诸神字幕组、大家字幕组、动漫首选 WOLF 字幕组、豆瓣（工具功能而非社交功能）、花瓣、饭否、codecademy、<a href="http://Bilibili.com、http://trello.com（项目管理）、孔夫子旧书网、界面的&quot;正午&quot;栏目、http://subhd.com（替代射手网）、可汗学院、OFFLINE" target="_blank" rel="external">http://Bilibili.com、http://trello.com（项目管理）、孔夫子旧书网、界面的&quot;正午&quot;栏目、http://subhd.com（替代射手网）、可汗学院、OFFLINE</a> 及 利器（<a href="http://liqi.io）、http://WolframAlpha.com、石墨（在线文档）、Github" target="_blank" rel="external">http://liqi.io）、http://WolframAlpha.com、石墨（在线文档）、Github</a> &amp; Gitbook、<a href="http://Pandora.com" target="_blank" rel="external">http://Pandora.com</a></p>
+<h2 id="全平台软件"><a href="#全平台软件" class="headerlink" title="全平台软件"></a>全平台软件</h2><p>百度云(大文件云储存)、坚果云/Dropbox(小文件云储存+文档历史管理)、Rescuetime（时间统计）、为知笔记 + Zotero（知识管理）、Workflowy（To-do List &amp; 写作，点此邀请链接注册得双倍空间：WorkFlowy - Organize your brain. ）、伙伴云表格（善用表单，结构化输入）</p>
+<h2 id="移动端软件"><a href="#移动端软件" class="headerlink" title="移动端软件"></a>移动端软件</h2><p>豆瓣阅读、航旅纵横、Google Play（需安装Google Mobile Service）、Airbnb、动漫之家、（OFFTIME）、Uber、许鲜、Elevate（大脑训练）、Within &amp; Spotlight（VR 内容）、萝卜书摘（看书的同时文字识别，省下的时间写笔记）、罗塞塔石碑（背单词从声音识别开始）</p>
+<h2 id="Mac系统软件"><a href="#Mac系统软件" class="headerlink" title="Mac系统软件"></a>Mac系统软件</h2><p>Reeder、Alfred、Popclip（配合插件）、Omnifocus、自定义输入法推荐 <a href="http://rime.im（Mac上叫鼠须管）、WhatPulse（鼠标键盘点击统计）、TextMate（写作）、iTerm（命令行）、Scrivener（写作）、Sketch、Notational" target="_blank" rel="external">http://rime.im（Mac上叫鼠须管）、WhatPulse（鼠标键盘点击统计）、TextMate（写作）、iTerm（命令行）、Scrivener（写作）、Sketch、Notational</a> Velocity（笔记 + 全文检索）</p>
+<h2 id="另"><a href="#另" class="headerlink" title="另"></a>另</h2><p>输入方案：小鹤双拼（半个小时就学会）<br>写作方案：Markdown（十分钟就学会）<br>Hexo 博客系统，结合 Github 即可搭建</p>
+<h2 id="书籍"><a href="#书籍" class="headerlink" title="书籍"></a>书籍</h2><p>《荒原狼》、《金蔷薇》、《把时间当做朋友》、《高效能人士的七个习惯》、《金字塔原理》（第二册是关键）、《毛姆读书随笔》、《横道世之介》（台版）、《集异璧》、三联生活周刊（杂志）、新知（杂志）、读库、新知文库、海豚文存、《文学回忆录》+李劼《论木心》、《古代汉语》（王力编）、《艺术的故事》（要搭配范景中《艺术的故事笺注》来看）、《素描的诀窍》、《意大利古建筑散记》、《第三次浪潮》、《经验的疆界》、《十九札》或《致青年学者》、《黑天鹅》、《新編諸子集成》、《千高原》、《月亮与六便士》、《国史大纲》、《赫尔佐格谈赫尔佐格》、《明式家具研究》、《万物：创世》（2016年出第二本）、布鲁诺舒兹（林蔚昀译本，广西师大已出大陆版）、DK出版社“人类的思想”百科丛书、《什么是教育》、《总体艺术论》、《浮生六记》、《看》、《中国文化冷风景》、《复杂》、《修辞感觉》、《抵岸》（绘本）、《形式综合论》、《巴托比症候群》、《新千年文学备忘录》、OFFLINE/离线、《追时间的人》、《阿兰的战争》+《阿兰的童年》、《科学革命的结构》、《先人祭》、《有限与无限的游戏》、《教养的迷思》、《火花》、《穷查理宝典》</p>
+<h2 id="节目"><a href="#节目" class="headerlink" title="节目"></a>节目</h2><p>东吴相对论、中国好歌曲（限S1+S2）、英国达人、白云出岫的“中国古典文学全文朗读”、易中天“先秦诸子百家争鸣”、阿城“中国造型史”或《洛书河图》、中国好歌曲、国立清华大学《科幻概论》公开课、一席、耶鲁公开课“罗马建筑”、国立台湾大学公开课“庄子寓言文学”、可汗学院《宏观经济学》《金融学》、非正式会谈、看理想之《局部》+《号外》、壁下观、四川师范大学《非构思写作学》</p>
+<h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>英剧、IMDB TOP250 优先（电影别瞎看）、个人整理【那些我曾错过的好电影】、出版社优先选择三联/中华书局/南京大学出版社/广西师范大学出版社&amp;/后浪图书/海豚出版社/企鹅出版社/中央编译/漓江出版社/果麦/重庆大学出版社、力量金属、中国独立民谣、农业文明/拾柒贰肆/兵马司厂牌/风潮唱片、Decca Ultimate 系列唱片、国家图书馆、下象棋、玩拼图、博物学、碧山共同体</p>
+<h2 id="剧集私荐"><a href="#剧集私荐" class="headerlink" title="剧集私荐"></a>剧集私荐</h2><p>HOUSE、Bojack Horseman、Coupling、True Detective(only S1)、Yes, Minister、Black Books、Fargo(S1+S2)、Dexter、Chef’s Table(S1+S2)、火花、百年酒馆、美国恐怖故事(only S2)、家族的形式、只有吉祥寺是想住的街道吗</p>
+<p>啤酒：CHIMAY蓝帽<br>RSS订阅工具推荐：Feedspot、inoreader<br>人：阳志平、阮一峰、邱志杰</p>
+<p>软件推荐整理成了3个豆列：Macbook软件推荐、iOS好应用、Android好应用（2015年7月2日更新）</p>
+<p>2016年邂逅的佳作们：佳 2016（附往年：佳 2015、 佳 2014、佳 2013 ）<br>记录我的2017：2017 观影 、2017 阅读</p>
+<p>来点音乐：MUZIC电台</p>
+<p>–</p>
+<p>博客：<a href="http://z.arlmy.me">http://z.arlmy.me</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      在知乎的这份答案，维护了好几年了
+    
+    </summary>
+    
+    
+      <category term="知乎" scheme="http://z.arlmy.me/tags/%E7%9F%A5%E4%B9%8E/"/>
+    
+      <category term="答案备份" scheme="http://z.arlmy.me/tags/%E7%AD%94%E6%A1%88%E5%A4%87%E4%BB%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>盖洛普优势识别系列之三：搜集</title>
     <link href="http://z.arlmy.me/%E7%9B%96%E6%B4%9B%E6%99%AE%E4%BC%98%E5%8A%BF%E8%AF%86%E5%88%AB%E5%99%A8/GallupStrengthsFinder6-3.html"/>
     <id>http://z.arlmy.me/盖洛普优势识别器/GallupStrengthsFinder6-3.html</id>
@@ -1026,107 +1189,6 @@
       <category term="童年" scheme="http://z.arlmy.me/tags/%E7%AB%A5%E5%B9%B4/"/>
     
       <category term="记忆" scheme="http://z.arlmy.me/tags/%E8%AE%B0%E5%BF%86/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>佳 2015</title>
-    <link href="http://z.arlmy.me/%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89/YearlyBest_2015.html"/>
-    <id>http://z.arlmy.me/年度精选/YearlyBest_2015.html</id>
-    <published>2016-01-01T04:15:21.000Z</published>
-    <updated>2017-03-05T01:14:23.000Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="书"><a href="#书" class="headerlink" title="书"></a>书</h2><p>《赫尔佐格谈赫尔佐格》<br>《好心眼儿巨人》<br>《万物·创世》<br>《鳄鱼街》<br>《什么是教育》<br>《幻之光》<br>《达维多维奇之墓》</p>
-<h2 id="影"><a href="#影" class="headerlink" title="影"></a>影</h2><p>《万物一体》<br>《无声婚礼》<br>《二楼传来的歌声》<br>《邮差》<br>《鸟人》<br>《爱很怪》<br>《陆上行舟》<br>《索拉里斯》<br>《蛮荒故事》<br>《迷失东京》</p>
-<h2 id="剧集"><a href="#剧集" class="headerlink" title="剧集"></a>剧集</h2><p>《主厨的餐桌》<br>《冰血暴》S1+S2<br>《真探》S1<br>《贪嘴意大利》S1+S2<br>《你所不知道的资本主义》<br>《Bojack Horseman》S2<br>《问题餐厅》</p>
-]]></content>
-    
-    <summary type="html">
-    
-      2015 年度自选
-    
-    </summary>
-    
-      <category term="年度精选" scheme="http://z.arlmy.me/categories/%E5%B9%B4%E5%BA%A6%E7%B2%BE%E9%80%89/"/>
-    
-    
-      <category term="年度最佳" scheme="http://z.arlmy.me/tags/%E5%B9%B4%E5%BA%A6%E6%9C%80%E4%BD%B3/"/>
-    
-      <category term="书影" scheme="http://z.arlmy.me/tags/%E4%B9%A6%E5%BD%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>摘录：《收获》周黎明专访姜文、述平、危笑</title>
-    <link href="http://z.arlmy.me/%E7%AC%94%E8%AE%B0/Note_JangWenInterview.html"/>
-    <id>http://z.arlmy.me/笔记/Note_JangWenInterview.html</id>
-    <published>2015-02-14T14:50:21.000Z</published>
-    <updated>2017-03-05T01:13:22.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>那是自从我大学阅读朱光潜之后最接近艺术真谛的一次。艺术的实践者，尤其是影视界的，往往只关注细节和技巧，造成见树不见林；但姜文不同，他能高屋建瓴，并能用极其戏剧化的方式说出来。</p>
-<p>姜文：哎，你错了能有多大损失啊？我就说《太阳》好，跳着脚说，有多大损失啊？没有损失。我看当年那几个说好的，比如以戴锦华为代表的，有什么损失啊？她若今年回来跟我说，老姜我觉得你的片儿不好，我都愿意听。没有损失啊，反倒有尊严。</p>
-<p>我不觉得历史仅仅只是由他们的这一个系统来解释，那算一个政治系统或者历史系统，但是艺术家有他们自己对历史的解释。</p>
-<p>我们翻译成的就是这样一个故事，我们在这一年的讨论中并没有说这篇离远了还是离近了</p>
-<p>里面就是说，谁是骗子，葛优的角色是一个江湖骗子，但是张牧之是个更大的精神骗子</p>
-<p>站在一旁评判的话，我觉得张牧之活得比另外两个精彩，他不掉在钱里面，他不掉在女人里面，他甚至都不掉在成功里面。就因为这点，我推崇他一下，但并不是说我要做他那样的人。</p>
-<p>举过一个例子，我们的画很难画好，因为我们形容颜色的词儿太少，他们到内蒙古插队的时候碰到一问题，汉人喊：“把那白马套过来。”蒙古人说：“这哪有白马？”“那那！”“那不是白的，那是灰的。”咱们大量是这样的，很多东西似是而非，还以为可以看出什么隐喻来，完全给简化了。</p>
-<p>如果拍电影像谈恋爱，我给一个女孩子说了一句话，她不应该问我这句话是不是证明我要跟她结婚。这就是谈恋爱的过程。这句话是给你感受的，你可以回去跟你妈说，我从这句话里面听见了爱情，我觉得我这一辈子都会幸福，但是你不能来问我是不是要结婚。很多影评不是失败在前十分之九，而是失败在最后一句，他最后十分之一就像是径直在追问是不是要结婚。这就不是游戏的规则和快乐了。</p>
-<p>男女之间有很多很多方面可以享受，结婚只是一种。</p>
-<p>人的想象跟他的知识积累是有关系的，也是互相补充的</p>
-<p>魔幻我没有追求过，对于我来说这就是现实。我看好多艺术品太现实了，就不是件艺术品。</p>
-<p>姜文：这分两方面来说，第一，如果有足够的宣传经费宣传攻势，《太阳》卖十个亿票房，我一点都不奇怪。你是不是能动员、煽动起那么多人进影院？《太阳》显然不足够。第二，进影院可能被大家洗脑，误读成某种格式，大家说我懂了，那也可以说是懂。《太阳》不是一个懂不懂的东西，永远会有人说不懂，因为它不是一个故事，它是一个感受。如果一个人没有感受力，那他的眼睛对他也没有什么作用。我觉得《太阳》是一个你能不能感动的电影。有人会说，如果我都不懂，我怎么感动呢？那你这个人从来没有感动过，大量的感动是建立在你其实不懂的事情上，我们去西藏感动，你其实不懂西藏为什么是这样。你可以从地理学来解释，从宗教解释，那都是对西藏的一个解释而已，种种解释不能解释清你为什么会感动。你看见一个美女会感动，你解释不清，最后只能用学过的概念说，我爱上她了。这多苍白啊！你要是不会说话，没人教你你就没法表达。我觉得它显然比《子弹》更容易被人家说不容易理解，但《子弹》也有人说不懂。我应该说什么呢？我不知道我说什么，我只能把《太阳》翻译成《子弹》，给大家再放一遍，翻译翻译什么叫惊喜，就是这么来的。这个惊喜都不懂？那翻译翻译吧，翻译成一百万银子。这他妈听懂了。所以我觉得这两个片子联系起来聊是有意思的。</p>
-<p>拍《太阳》我们恰恰不想那么做，我们很朴素，拿出来是一颗心，是一特别真诚的东西。</p>
-<p>我过分解读一下</p>
-<p>为什么说很多片子讲现实的问题，我觉得是他们拍片子的态度问题，大部分导演拍片子的态度是拜年，不是去谈恋爱，姜老的片子一直是在跟观众谈恋爱。</p>
-<p>比划。我还是这句话：拍个挣钱的电影是容易的。我觉得好笑的是，拍了个挣钱电影的导演在那总结经验，聊什么规则，什么规则？简单！那是简单的！你真想麻烦你拍个《太阳》，我佩服你！拍个挣钱片儿，没什么。</p>
-<p>斯皮尔伯格从来不敢小瞧库布里克，但是库布里克倒是可以反过来，我懒得见你就见你，不见你就没有什么必要，你就一斯皮尔伯格而已。斯皮尔伯格自己也知道，他的《紫色》是他心目中的好东西。不是说我反对人们去拍挣钱的电影。可以，这都是好的，那个泡妞法，妞也喜欢，很好嘛，但你别把它说成是一牛逼的事儿，这不牛逼!</p>
-<p>既然我们都在地上，我们能不能拔高点看看，我们活一辈子，看看还能看多远，站得高才能看得远嘛，我们对自己才能有多少认识和了解。我觉得这是值得推崇和支持的。</p>
-<p>而不是说，我们既然不是上帝，那就当一堆猪得了。既然人一思考，上帝就发笑，那就是上帝的特权。我不是上帝，那我们都拔拔高，反正你已经是人，要死去的。你不能说既然要死，咱就瞎混混吧，出溜会儿。我只是说，这事容易，不是妥协。</p>
-<p>我简单说吧，《太阳》是遵照生活的本质去拍的，《子弹》很简单，是遵照了某种电影本质</p>
-<p>但是如果你拍一个精神世界，去追寻某种精神的感受，第一，你精神有没有这么大的世界，能不能表达出来是另一回事儿。</p>
-<p>很少。当然，斯科塞斯我是喜欢的，尤其是前几年，我到美国见过他两次……</p>
-<p>我年轻时候特别狂妄，而且不是装的，是真的。他片儿我喜欢，节奏特别喜欢，都是德尼罗演的。</p>
-<p>我得说人是分族的，电影族跟国籍和什么背景关系不大。</p>
-<p>而且他有卖弄感、手艺感，我不喜欢那种手艺感。其实我的电影心意更多，他手艺更多，我不太欣赏那种手艺感。当然不能说我没有受过他电影的影响。在我的认识当中，一个影迷成不了好导演。</p>
-<p>姜文：他自己说的话你千万别相信，我更相信那句话是真的：有几个德国导演，包括法斯宾德，以及帮我做过《阳光灿烂的日子》的史隆多夫（Schlondorff），他们在法国电影圈混，混完了回到德国，说了一句掷地有声的话：“德国没有电影，我教你们拍电影吧！”这样的心情和冲动是造就一个导演的根本原因。他成事儿了，就说“其实大家都给过我营养”，这是骗人的、冠冕堂皇的话儿。我的理解，说真话一定是这样，“这什么破电影拍成这样，老子来一个！”这时候出来一个好导演或者一批导演。没有说，看见这个不错，那样的人也许能拍，那绝对不会是一个好导演。我想斯科塞斯他们会说谁谁（帮过我），比如说，他现在没钱了，中国刚好有那么多游资、闲钱，咱哥儿几个整点给他，就像他们当年帮黑泽明。但是最根本的冲动，尤其是当一个导演面对他喜爱的作品、剧本的时候，他不觉得前边儿有人，全跑后边去了。什么这个大哥、那个大哥，什么奥逊·威尔斯，走吧，我超过你了！所以我们经常说，不是向谁致敬，是向谁致歉。哎呀，这场戏写的，那得向费里尼致歉了吧。</p>
-<p>述平：本来就应该站着挣钱。谁愿意跪着挣钱？对于这句话敏感的人，拿这个来说事儿的人，是跪习惯了。<br>姜文：跪着也挣不了多少钱。</p>
-<p>姜文：咱们这么说吧，每个人无论他已经或者还没有获得多少尊严，都是希望自己有尊严的，从人的本性或者劣性来讲，都希望得到更大的资源。这里面确实有一个比例，你是想多得，还是想为了多得付出丧失尊严的代价？其实每个人的心里都藏着，我要尊严，我也都……这句话为什么被大家记住，我的理解是大家都想站着把钱挣了，或者是我站着你给我把钱送来。这是一个人的心理吧。只是现实中，被逼无奈，被教育得无奈，成了黄四郎坐着挣钱，葛优跪着挣钱，刘嘉玲躺着挣钱，粉贩是挨揍挣钱，他们也是不愿意的。</p>
-<p>艺术不能等同于生活，有一种范儿在里面，你看了会感动。</p>
-<p>电影牛逼就牛逼在每一个好电影都应该是单独的规则和超越规则的。</p>
-<p>简单、单纯不是可以炫耀的东西。我们可以怀念它。说这话的人是希望你单纯，我不单纯，我好收拾你。</p>
-<p>姜文：《红楼梦》就没必要拍。拍不了，很难。你说博尔赫斯能拍吗，也不要拍。他的文字的组合已经那么奇妙，电影只能给他往下拽。其实电影是个门槛低的东西，电影不能拍太牛逼的作品，只能拍二牛逼三牛逼的故事。最牛逼的故事不适合拍电影，或者也没必要拍电影。</p>
-<p>我觉得昆丁一言以蔽之，通俗小说是最适合拍电影的，有可能拍出很棒的电影。</p>
-<p>姜文：比如说述平的小说，一个叫《有话好好说》，是晚报新闻改编的。一个是《赵先生》。吕乐拍的。他好多小说写得特别好，而且特别色。那个色让你看得怦然心动，我有一次看他的小说，看着看着，看有没有人看着我，色情到这种程度。</p>
-<p>周黎明：你为什么不拍现代的题材？这四部影片离现在最近的也有三十多年。<br>姜文：我觉得这就是现在。我好像跟谁说过，你就算拍现在的拍出来也是过去，那有什么意义？而且，一旦拍成电影，过去的都是现实。我觉得历史和现在没有界限。</p>
-<p>周黎明：你会接受别人对你的顶礼膜拜吗？<br>姜文：我不会，我觉得那样很可笑。我最幻想的是大家都很牛逼，都很有尊严，都很有主见。</p>
-<p>姜文：肯定不是。艺术家永远不是好政治家。而且我也不打算从政，艺术家从政容易变成法西斯。或者说法西斯本身也是个艺术家。就像我跟他们说的导演互相看不上，文人相轻，都是好的，因为他不这样怎么会有他自己的东西，怎么会有一个叫李白一个叫杜甫的呢，他俩可以一起喝酒，但是想，你要写成那样，那样写多没劲，这样多来劲，这才能让我们后人看到不同的东西。政治上另外一回事，要哄着大伙过日子。我不知道怎么弄。</p>
-<p>媒体嘛，基本上都是你家长我家短，大部分是八卦。你没必要跟他着这个急。第二，世界是被误读所建立起来的，你怎么能跟别人说你别这么误读我呢。第三，我都不知怎么描述我自己，我怎么能要求别人怎么描述我自己，所以我觉得只要有人愿意描述我就行了，你爱怎么写就怎么写吧。他必是带有自己的情感和需求来写我的。他写我干吗呀，他就是要表达这事儿，才写到我了。表达对名人的态度写到我了。这里面其实跟我个人没有关系。</p>
-<p>王朔同志给我一个启发，我拍《阳关灿烂的日子》时，他住在我们组里，有个地儿我不知道怎么剪，吃不准，我就想了一个办法，我说王朔你觉得这样行吗？他说挺好啊。我说，但是我可没看别人做过。他说我不知道你们拍电影的都怎么想的，要是我写小说的时候别人没这么写过的才牛逼呢。</p>
-<p>姜文：我从来都感到孤独，每时每刻。你不是吗？人都一直在孤独，也不知道为什么，所以你就得聊天、说话，所以有宗教。像他（述平）的小说，就告诉你怎么享受孤独。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      姜文：「《太阳》是遵照生活的本质去拍的，《子弹》很简单，是遵照了某种电影本质。如果你拍一个精神世界，去追寻某种精神的感受，首先，你精神有没有这么大的世界，能不能表达出来是另一回事儿。」
-    
-    </summary>
-    
-      <category term="笔记" scheme="http://z.arlmy.me/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-      <category term="摘录" scheme="http://z.arlmy.me/tags/%E6%91%98%E5%BD%95/"/>
-    
-      <category term="访谈" scheme="http://z.arlmy.me/tags/%E8%AE%BF%E8%B0%88/"/>
-    
-      <category term="姜文" scheme="http://z.arlmy.me/tags/%E5%A7%9C%E6%96%87/"/>
-    
-      <category term="周黎明" scheme="http://z.arlmy.me/tags/%E5%91%A8%E9%BB%8E%E6%98%8E/"/>
-    
-      <category term="采访" scheme="http://z.arlmy.me/tags/%E9%87%87%E8%AE%BF/"/>
-    
-      <category term="述平" scheme="http://z.arlmy.me/tags/%E8%BF%B0%E5%B9%B3/"/>
-    
-      <category term="危笑" scheme="http://z.arlmy.me/tags/%E5%8D%B1%E7%AC%91/"/>
     
   </entry>
   
