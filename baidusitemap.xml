@@ -4,11 +4,64 @@
 
     
   <url>
-    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
-    <lastmod>2017-03-05T03:35:23.000Z</lastmod>
+    <loc>http://z.arlmy.me/uncategorized/Original_FengZiKai_ChildEducation_2.html</loc>
+    <lastmod>2017-03-05T13:53:29.000Z</lastmod>
     <data>
         <display>
-        <title>Hexo Maupassant 主题增加 GrowingIO 统计代码</title>
+        <title>丰子恺：关于儿童教育（下）童心的培养</title>
+        <pubTime>2017-03-05T14:01:34.000Z</pubTime>
+        
+        <tag>丰子恺</tag>
+         
+        <tag>儿童教育</tag>
+         
+        <tag>绝缘</tag>
+         
+        <tag>童心的培养</tag>
+         
+        <tag>艺术教育</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://z.arlmy.me/uncategorized/Original_FengZiKai_ChildEducation_1.html</loc>
+    <lastmod>2017-03-05T13:53:20.000Z</lastmod>
+    <data>
+        <display>
+        <title>丰子恺：关于儿童教育（上）儿童的大人化</title>
+        <pubTime>2017-03-05T13:01:34.000Z</pubTime>
+        
+        <tag>丰子恺</tag>
+         
+        <tag>儿童教育</tag>
+         
+        <tag>绝缘</tag>
+         
+        <tag>儿童的大人化</tag>
+         
+        <tag>童心</tag>
+         
+        <tag>艺术的世界</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
+    <lastmod>2017-03-05T06:36:52.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo Maupassant 增加 GrowingIO 统计代码</title>
         <pubTime>2017-03-05T02:47:28.000Z</pubTime>
         
         <tag>Hexo</tag>
@@ -30,6 +83,7 @@
     </data>
     </url>
 
+    
     
   <url>
     <loc>http://z.arlmy.me/Hexo/Hexo_AddWordCount.html</loc>
@@ -56,8 +110,6 @@
     </data>
     </url>
 
-    
-    
     
   <url>
     <loc>http://z.arlmy.me/%E7%AC%94%E8%AE%B0/Note_CanXueArtical.html</loc>
