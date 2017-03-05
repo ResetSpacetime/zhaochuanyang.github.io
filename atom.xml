@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://z.arlmy.me/"/>
-  <updated>2017-03-05T01:12:53.000Z</updated>
+  <updated>2017-03-05T03:35:23.000Z</updated>
   <id>http://z.arlmy.me/</id>
   
   <author>
@@ -16,11 +16,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hexo Maupassant 增加字数统计</title>
-    <link href="http://z.arlmy.me/Hexo/HexoAddWordCount.html"/>
-    <id>http://z.arlmy.me/Hexo/HexoAddWordCount.html</id>
+    <title>Hexo Maupassant 主题增加 GrowingIO 统计代码</title>
+    <link href="http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html"/>
+    <id>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</id>
+    <published>2017-03-05T02:47:28.000Z</published>
+    <updated>2017-03-05T03:35:23.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Maupassant theme 的设置里有 Google Analytics 的统计代码，只要将跟踪 ID 填入即可。</p>
+<p>为什么要推荐 GrowingIO ？三个理由：</p>
+<ol>
+<li>页面直观，有很多适合 marketing 的可视化工具</li>
+<li>国内公司，纯中文页面</li>
+<li>免翻墙</li>
+</ol>
+<h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><h3 id="注册-GrowingIO-帐号"><a href="#注册-GrowingIO-帐号" class="headerlink" title="注册 GrowingIO 帐号"></a>注册 GrowingIO 帐号</h3><p><a href="https://www.growingio.com" target="_blank" rel="external">GrowingIO</a></p>
+<h3 id="安装-SDK"><a href="#安装-SDK" class="headerlink" title="安装 SDK"></a>安装 SDK</h3><p>新建 - 添加新应用 - 网站，得到你的项目 id 和相应的 js 代码</p>
+<p><code>你应该看到了，还有很多平台可供选择，任君折腾</code></p>
+<h3 id="转换-JS-格式"><a href="#转换-JS-格式" class="headerlink" title="转换 JS 格式"></a>转换 JS 格式</h3><p>打开 <a href="http://html2Jade.org/" target="_blank" rel="external">HTML2jade</a></p>
+<p>将代码复制至左栏，替换 <code>&lt;script type=&#39;text/javascript&#39;&gt;</code> 和 <code>&lt;/script&gt;</code> 之间的内容，将右栏变动了的代码复制下来</p>
+<h3 id="编辑-jade-文档"><a href="#编辑-jade-文档" class="headerlink" title="编辑 .jade 文档"></a>编辑 .jade 文档</h3><p>在路径 <code>Hexo\themes\layout</code> 下找到 <code>base.jade</code>，打开</p>
+<p>在<br><figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"><span class="function"><span class="title">html</span><span class="params">(lang=<span class="string">'#&#123;config.language&#125;'</span>)</span></span></div><div class="line">  head</div><div class="line">    meta(http-equiv=<span class="string">'content-type'</span>, <span class="attribute">content</span>=<span class="string">'text/html; charset=utf-8'</span>)</div></pre></td></tr></table></figure></p>
+<p>之后的任意位置粘贴 jade 代码</p>
+<p>注意：jade 对格式要求非常严格，请务必注意格式，粘贴的 js 代码前，应有两次缩进（四个空格）</p>
+<p><code>cmd + s</code> 保存</p>
+<h3 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h3><p>终端内运行：<code>hexo g -d</code></p>
+<h2 id="增长黑客？"><a href="#增长黑客？" class="headerlink" title="增长黑客？"></a>增长黑客？</h2><p>增长黑客，或者称 Growth Hacker，从事的工作为：Growth Hacking，意指数据驱动的营销思维。</p>
+<p>这个工种会越来越流行，因为：</p>
+<ol>
+<li>互联网产品越来越需要 branding 和 marketing 的配合，此前很多年，市场部在一家技术驱动的公司里，</li>
+<li>大数据，信息技术越来越普及</li>
+<li>AI 的收集信息的需要和数据解读的能力</li>
+</ol>
+]]></content>
+    
+    <summary type="html">
+    
+      为博客增加了 GrowingIO 的 js 统计代码
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/tags/Hexo/"/>
+    
+      <category term="Maupassant" scheme="http://z.arlmy.me/tags/Maupassant/"/>
+    
+      <category term="jade" scheme="http://z.arlmy.me/tags/jade/"/>
+    
+      <category term="GrowthHacker" scheme="http://z.arlmy.me/tags/GrowthHacker/"/>
+    
+      <category term="增长黑客" scheme="http://z.arlmy.me/tags/%E5%A2%9E%E9%95%BF%E9%BB%91%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Maupassant 主题增加字数统计</title>
+    <link href="http://z.arlmy.me/Hexo/Hexo_AddWordCount.html"/>
+    <id>http://z.arlmy.me/Hexo/Hexo_AddWordCount.html</id>
     <published>2017-03-01T08:11:44.000Z</published>
-    <updated>2017-03-05T01:12:53.000Z</updated>
+    <updated>2017-03-05T03:25:50.000Z</updated>
     
     <content type="html"><![CDATA[<p>网上没有增加这个功能的教程，琢磨了下 jade 的格式，调试成功，分享出来</p>
 <h2 id="工具"><a href="#工具" class="headerlink" title="工具"></a>工具</h2><p><code>hexo-wordcount</code> <a href="https://www.npmjs.com/package/hexo-wordcount" target="_blank" rel="external">npm 链接</a></p>
@@ -29,6 +84,7 @@
 <p>在 <code>.post-meta</code> 下 <code>span= &#39; &#39; + __(&#39;Hits&#39;)</code> 后面增加：</p>
 <figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div></pre></td><td class="code"><pre><div class="line">span= <span class="string">' |  本文共计 '</span></div><div class="line"><span class="selector-tag">span</span>.post-count= wordcount(page.<span class="attribute">content</span>)</div><div class="line">span= <span class="string">' 字  |  阅读约需 '</span></div><div class="line"><span class="selector-tag">span</span>.post-count= min2read(page.<span class="attribute">content</span>)</div><div class="line">span= <span class="string">' 分钟 '</span></div></pre></td></tr></table></figure>
 <p>最终显示即为本文效果</p>
+<h2 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h2><p>终端内执行：<code>hexo g -d</code></p>
 <h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>官方文档中写的是 <code>post.content</code>，但 Maupassant 主题下此项应为 <code>page.content</code></p>
 ]]></content>
     
@@ -424,8 +480,8 @@
   
   <entry>
     <title>在 Github 上搭建 Hexo 博客</title>
-    <link href="http://z.arlmy.me/Hexo/HexoBlogSetup.html"/>
-    <id>http://z.arlmy.me/Hexo/HexoBlogSetup.html</id>
+    <link href="http://z.arlmy.me/Hexo/Hexo_BlogSetup.html"/>
+    <id>http://z.arlmy.me/Hexo/Hexo_BlogSetup.html</id>
     <published>2017-01-03T14:31:28.000Z</published>
     <updated>2017-03-05T01:13:02.000Z</updated>
     
@@ -638,7 +694,7 @@
     <link href="http://z.arlmy.me/%E8%AF%BB%E5%90%8E/Review_LEnfancedAlan.html"/>
     <id>http://z.arlmy.me/读后/Review_LEnfancedAlan.html</id>
     <published>2016-09-25T15:23:21.000Z</published>
-    <updated>2017-03-05T01:13:45.000Z</updated>
+    <updated>2017-03-05T01:18:27.000Z</updated>
     
     <content type="html"><![CDATA[<p>记忆太多，更适合独自享受；回忆太多，不知选谁来叙旧。</p>
 <p>读完《阿兰的童年》，自然对他的成长好奇，文字里漂浮着的悲伤琢磨不定，没有形状，无从捕捉。失而复得的友人，无法言说的旅程，在读者看来似乎是奇迹，却是阿兰痛苦的重新面对和审视。这一切的源头，人生图卷的“每个部分”，都要重回童年时光，细细搜寻。</p>

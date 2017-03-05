@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
+    
+    <lastmod>2017-03-05T03:35:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Hexo/Hexo_AddWordCount.html</loc>
+    
+    <lastmod>2017-03-05T03:25:50.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/2017/index.html</loc>
     
     <lastmod>2017-03-05T01:57:42.000Z</lastmod>
@@ -19,6 +33,13 @@
     <loc>http://z.arlmy.me/%E7%AC%94%E8%AE%B0/Note_CanXueArtical.html</loc>
     
     <lastmod>2017-03-05T01:21:46.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/%E8%AF%BB%E5%90%8E/Review_LEnfancedAlan.html</loc>
+    
+    <lastmod>2017-03-05T01:18:27.000Z</lastmod>
     
   </url>
   
@@ -65,13 +86,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/%E8%AF%BB%E5%90%8E/Review_LEnfancedAlan.html</loc>
-    
-    <lastmod>2017-03-05T01:13:45.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/uncategorized/OMCWriter_004InfoCoachReflection.html</loc>
     
     <lastmod>2017-03-05T01:13:33.000Z</lastmod>
@@ -86,16 +100,9 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Hexo/HexoBlogSetup.html</loc>
+    <loc>http://z.arlmy.me/Hexo/Hexo_BlogSetup.html</loc>
     
     <lastmod>2017-03-05T01:13:02.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Hexo/HexoAddWordCount.html</loc>
-    
-    <lastmod>2017-03-05T01:12:53.000Z</lastmod>
     
   </url>
   
