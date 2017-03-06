@@ -3,6 +3,35 @@
 
 
     
+    
+  <url>
+    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
+    <lastmod>2017-03-06T02:52:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo Maupassant 主题增加 GrowingIO 统计代码</title>
+        <pubTime>2017-03-05T02:47:28.000Z</pubTime>
+        
+        <tag>Hexo</tag>
+         
+        <tag>Maupassant</tag>
+         
+        <tag>jade</tag>
+         
+        <tag>GrowthHacker</tag>
+         
+        <tag>增长黑客</tag>
+         
+         
+           
+             
+              <breadCrumb title="Hexo" url="http://z.arlmy.me/categories/Hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
   <url>
     <loc>http://z.arlmy.me/uncategorized/BuyBuyBuy.html</loc>
     <lastmod>2017-03-05T23:49:21.000Z</lastmod>
@@ -141,35 +170,6 @@
     </data>
     </url>
 
-    
-  <url>
-    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
-    <lastmod>2017-03-05T06:36:52.000Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo Maupassant 增加 GrowingIO 统计代码</title>
-        <pubTime>2017-03-05T02:47:28.000Z</pubTime>
-        
-        <tag>Hexo</tag>
-         
-        <tag>Maupassant</tag>
-         
-        <tag>jade</tag>
-         
-        <tag>GrowthHacker</tag>
-         
-        <tag>增长黑客</tag>
-         
-         
-           
-             
-              <breadCrumb title="Hexo" url="http://z.arlmy.me/categories/Hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
     
   <url>
     <loc>http://z.arlmy.me/Hexo/Hexo_AddWordCount.html</loc>

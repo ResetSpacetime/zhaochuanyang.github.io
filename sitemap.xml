@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/about/index.html</loc>
+    
+    <lastmod>2017-03-06T03:05:20.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
+    
+    <lastmod>2017-03-06T02:52:49.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/uncategorized/BuyBuyBuy.html</loc>
     
     <lastmod>2017-03-05T23:49:21.000Z</lastmod>
@@ -47,20 +61,6 @@
     <loc>http://z.arlmy.me/uncategorized/Original_FengZiKai_ChildEducation_1.html</loc>
     
     <lastmod>2017-03-05T13:53:20.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Hexo/Hexo_GrowthHacker.html</loc>
-    
-    <lastmod>2017-03-05T06:36:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/about/index.html</loc>
-    
-    <lastmod>2017-03-05T05:11:51.000Z</lastmod>
     
   </url>
   
