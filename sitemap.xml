@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/project/Cogwriter/draft.html</loc>
+    
+    <lastmod>2017-03-09T00:41:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/uncategorized/Original_FengZiKai_ChildEducation_2.html</loc>
     
     <lastmod>2017-03-08T15:45:23.000Z</lastmod>
@@ -180,6 +187,34 @@
     <loc>http://z.arlmy.me/uncategorized/Daily161226.html</loc>
     
     <lastmod>2017-03-05T01:12:09.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/GameOfLife/plan.html</loc>
+    
+    <lastmod>2017-03-01T15:30:40.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/GameOfLife/gameoflife.html</loc>
+    
+    <lastmod>2017-03-01T01:48:51.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/GameOfLife/life.js</loc>
+    
+    <lastmod>2017-03-01T01:48:39.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/GameOfLife/life.css</loc>
+    
+    <lastmod>2017-02-26T14:38:22.000Z</lastmod>
     
   </url>
   
