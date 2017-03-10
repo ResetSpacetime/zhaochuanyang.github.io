@@ -56,9 +56,9 @@
         
         <tags>
             
-            <tag> 写作 </tag>
-            
             <tag> 认知写作学 </tag>
+            
+            <tag> 写作 </tag>
             
             <tag> 随笔 </tag>
             
@@ -589,9 +589,9 @@
         
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Markdown </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
         
@@ -907,11 +907,11 @@
         
         <tags>
             
+            <tag> 教程 </tag>
+            
             <tag> Hexo </tag>
             
             <tag> Github </tag>
-            
-            <tag> 教程 </tag>
             
             <tag> 折腾 </tag>
             
@@ -4002,19 +4002,6 @@
   
     
     <entry>
-      <title><![CDATA[Wiki]]></title>
-      <url>http://z.arlmy.me/Wiki/index.html</url>
-      <content type="html"><![CDATA[<h2 id="好文存档"><a href="#好文存档" class="headerlink" title="好文存档"></a>好文存档</h2><ul>
-<li><a href="/Wiki/library/Original_FengZiKai_ChildEducation_1.html">丰子恺：关于儿童教育（上）儿童的大人化</a></li>
-<li><a href="/Wiki/library/Original_FengZiKai_ChildEducation_2.html">丰子恺：关于儿童教育（下）童心的培养</a></li>
-</ul>
-<h2 id="关于自己"><a href="#关于自己" class="headerlink" title="关于自己"></a>关于自己</h2><ul>
-<li><a href="/Wiki/self/Self_BigFiveTest_160524.html">大五测试 160524</a></li>
-</ul>
-]]></content>
-    </entry>
-    
-    <entry>
       <title><![CDATA[许愿墙]]></title>
       <url>http://z.arlmy.me/2017/index.html</url>
       <content type="html"><![CDATA[<ul>
@@ -4096,6 +4083,19 @@
     </entry>
     
     <entry>
+      <title><![CDATA[Wiki]]></title>
+      <url>http://z.arlmy.me/Wiki/index.html</url>
+      <content type="html"><![CDATA[<h2 id="好文存档"><a href="#好文存档" class="headerlink" title="好文存档"></a>好文存档</h2><ul>
+<li><a href="/Wiki/library/Original_FengZiKai_ChildEducation_1.html">丰子恺：关于儿童教育（上）儿童的大人化</a></li>
+<li><a href="/Wiki/library/Original_FengZiKai_ChildEducation_2.html">丰子恺：关于儿童教育（下）童心的培养</a></li>
+</ul>
+<h2 id="关于自己"><a href="#关于自己" class="headerlink" title="关于自己"></a>关于自己</h2><ul>
+<li><a href="/Wiki/self/Self_BigFiveTest_160524.html">大五测试 160524</a></li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[About Arlmy]]></title>
       <url>http://z.arlmy.me/about/index.html</url>
       <content type="html"><![CDATA[<h2 id="绝缘儿"><a href="#绝缘儿" class="headerlink" title="绝缘儿"></a>绝缘儿</h2><p>天蝎座<br>萝莉控<br>生而减熵<br>渴望生活</p>
@@ -4106,19 +4106,123 @@
     </entry>
     
     <entry>
+      <title><![CDATA[普鲁斯特问卷 140726]]></title>
+      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_140726.html</url>
+      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
+<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>有爱的人和喜欢的人在身边</p>
+<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>停滞不前，失去好奇心</p>
+<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老子</p>
+<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>采铜、北岛、黄钟</p>
+<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>易怒，对不喜欢的人态度不友善</p>
+<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>不守公德</p>
+<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>得到认知世界的方式</p>
+<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>目前的是去云南的旅行，期待的是去意大利</p>
+<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>要乐观，要有正能量</p>
+<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>不想看到对方的失望</p>
+<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>没有</p>
+<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>失去自己的人</p>
+<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>么么哒</p>
+<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>没有早些读大量书籍，并开始找自己</p>
+<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lili &amp; Demo</p>
+<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>听懂自然的言语</p>
+<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>工作时差，不工作时好</p>
+<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>不要催促或要求我做任何事情</p>
+<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>目前是对知识体系的搭建</p>
+<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>植物的话是一朵野花，动物的话是一条深海的鱼</p>
+<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>书</p>
+<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>被拒绝</p>
+<p>23，你希望住在哪里？<br>Where would you like to live?<br>目前是大理</p>
+<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>匠人（广义上的）</p>
+<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>在路上</p>
+<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>真实</p>
+<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>优雅</p>
+<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>懂得生活</p>
+<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>黑塞</p>
+<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>堂吉诃德</p>
+<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>没有</p>
+<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>Zooey、Sherlock、Emma、Eve……</p>
+<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>不自由</p>
+<p>34，你希望以何种方式死去？<br>How would you like to die?<br>海啸的巨浪下，与周遭一道快速死去</p>
+<p>35，你的座右铭是什么？<br>What is your motto?<br>Lust for life</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title></title>
-      <url>http://z.arlmy.me/Wiki/self/Self_BigFiveTest_160524.html</url>
-      <content type="html"><![CDATA[<h1 id="大五测试-160524"><a href="#大五测试-160524" class="headerlink" title="大五测试 160524"></a>大五测试 160524</h1><p>2016 年 5 月 24 日</p>
-<p><a href="http://similarminds.com/big5.html" target="_blank" rel="external">Take Free Big Five Personality Test</a></p>
-<p><a href="http://similarminds.com/personality_tests.html" target="_blank" rel="external">Personality Test</a> by <a href="http://similarminds.com/" target="_blank" rel="external">SimilarMinds.com</a></p>
-<p>Big Five Test Results</p>
-<ul>
-<li>Extroversion (38%) moderately low which suggests you are reclusive, quiet, unassertive, and private.</li>
-<li>Accommodation (34%) moderately low which suggests you are, at times, overly selfish, uncooperative, and difficult at the expense of the well being of others.</li>
-<li>Orderliness (32%) moderately low which suggests you are, at times, overly flexible, random, scattered, and fun seeking at the expense of structure, reliability, work ethic, and long term accomplishment.</li>
-<li>Emotional Stability (36%) moderately low which suggests you are worrying, insecure, emotional, and anxious.</li>
-<li>Inquisitiveness (66%) moderately high which suggests you are intellectual, curious, imaginative but possibly not very practical.</li>
-</ul>
+      <url>http://z.arlmy.me/Wiki/library/Original_FengZiKai_ChildEducation_2.html</url>
+      <content type="html"><![CDATA[<h1 id="丰子恺：关于儿童教育（下）童心的培养"><a href="#丰子恺：关于儿童教育（下）童心的培养" class="headerlink" title="丰子恺：关于儿童教育（下）童心的培养"></a>丰子恺：关于儿童教育（下）童心的培养</h1><p>全文出自 1990 年出版的《丰子恺文集》，楔子即本篇的一句「这是儿童本来具有的心，不必父母与先生教他。只要父母与先生不去摧残它而培养它，就够了。」</p>
+<blockquote>
+<p>本篇选自《艺术教育》一书。其中《儿童的大人化》曾连载于 1927 年的《教育杂志》第 19 卷 7 月号、8 月号，《童心的培养》曾载同卷 12 月号，收入书中时略有改动。</p>
+</blockquote>
+<h2 id="二、童心的培养"><a href="#二、童心的培养" class="headerlink" title="二、童心的培养"></a>二、童心的培养</h2><p>家里的孩子们常常突发一种使我惊异感动的说话或行为。我每每抛弃了书卷或停止了工作，费良久的时光来仔细吟味他们的说话或行为的意味，终于得到深的憧憬的启示。</p>
+<p>有一天，一个孩子从我衣袋里拿了一块洋钱去玩，不久，他又找得了一条红线，拿了跑来，对我说：“给我在洋钱上凿一个洞，把线穿进去，挂在头颈里。” 我记得了：他曾经艳羡一个客人胸前的金的鸡心，又艳羡他弟弟胸前的银锁片。现在这块袁世凯浮雕像的又新又亮的洋钱，的确很像他们的胸章。如果凿一个洞，把红线穿起来，挂在头颈里，的确是很好看的装饰品。这时候我正在编什么讲义，起初讨嫌他的累赞，然而听完了他的话一想，我不得不搁笔了。我惊佩他的发见，我愧我自己的被习惯所支配了的头脑，天天习见洋钱，而从来不曾认识洋钱的真面目，今天才被这孩子提醒了。我们平日讲起或看到洋钱，总是立刻想起这洋钱的来路、去处、效用及其他的旁的关系，有谁注意“洋钱”的本体呢？孩子独能见到事物的本体。这是我所惊奇感动的一点。</p>
+<p>他们在吃东西的时候，更多美丽的诗料流露出来。把一颗花生米劈分为两瓣，其附连着胚粒的一瓣，他们想象作一个“老头子”。如果把下端稍咬去一点，老头子就能立在凳子上了。有一次，他们叫我去看花生米老头子吃酒。我看见凳子上一只纸折的小方桌，四周围着四个花生米老头子，神气真个个活现，我又惊佩他们的见识不置。一向我吃花生米，总是两颗三颗地塞进嘴里去，有谁高兴细看花生米的形状？更有谁高兴把一颗花生米劈开来，看它的内部呢？他们发见了，告诉我，我才晓得仔细玩赏。我觉得这想象真微妙！缩头缩颈的姿势，伛偻的腰，长而硬的胡须，倘能加一支杖，宛如中国画里的点景人物了。</p>
+<p><img src="/pics/Original_FengZiKai_ChildEducation_4.png" alt=""></p>
+<p>他们吃藕，用红线在藕片上的有规则的孔中穿出一朵花来，把藕片当作天然的教育玩具的穿线板。吃玉蜀黍，得了满握的金黄色的珠子。吃石榴，得了满握的通红的宝石。</p>
+<p>他们的可惊的识力，何止这几点？在平凡的日常生活中，他们能在处处发见丰富的趣味，时时作惊人的描写。</p>
+<p>我于惊奇感动之余，仔细一想他们这种言语行为的内容意味，似乎觉得这不仅是家庭寻常的琐事，不仅是可以任其随时忘却的细故，而的确含着有一种很深大的人生的意味。觉得儿童的这一点心，是与艺术教育有关系的，是与儿童教育有关系的。这是人生最有价值的最高贵的心，极应该保护、培养，不应该听其泯灭。</p>
+<p>这点心，怎样与艺术教育有关？怎样与儿童教育有关？何以应该培养？我的所感如下：</p>
+<p>儿童对于人生自然，另取一种特殊的态度。他们所见、所感、所思，都与我们不同，是人生自然的另一方面。这态度是什么性质的呢？就是对于人生自然的“绝缘”（“isolation”）的看法。所谓绝缘，就是对一种事物的时候，解除事物在世间的一切关系、因果，而孤零地观看。使其事物之对于外物，像不良导体的玻璃的对于电流，断绝关系，所以名为绝缘。绝缘的时候，所看见的是孤独的、纯粹的事物的本体的“相”。我们大人在世间辛苦地生活，打算利害，巧运智谋，已久惯于世间的因果的网，久已疏忽了、忘却了事物的这“相”。孩子们涉世不深，眼睛明净，故容易看出，容易道破。一旦被他们提醒，我们自然要惊异感动而憧憬了。</p>
+<p>绝缘的眼，可以看出事物的本身的美，可以发见奇妙的比拟。上面所述诸例，要把洋钱作胸章，就是因绝缘而看出事物的本身的美；比花生米于老头子，就是因绝缘而发见奇妙的比拟。</p>
+<p>上例所述的洋钱，是我们这世间的实生活上最重要的东西。因为人生都为生活，洋钱是可以维持生活的最重要的物质的一面的，因此人就视洋钱为间接的生命。孜孜为利的商人，世间的大多数的人，每天的奔走、奋斗，都是只为洋钱。要洋钱是为要生命。但要生命是为要什么，他们就不想了。他们这样没头于洋钱，萦心于洋钱，所以讲起或见了洋钱，就强烈地感动他们的心，立刻在他们心头唤起洋钱的一切关系物——生命、生活、衣、食、住、幸福…… 这样一来，洋钱的本身就被压抑在这等重大关系物之下，使人没有余暇顾及了。无论洋钱的铸造何等美，雕刻何等上品，但在他们的心目中只是奋斗竞逐的对象，拼命的冤家，或作福作威的手段。有注意洋钱钞票的花纹式样的，只为防铜洋钱、假钞票，是戒备的、审查的态度，不是欣赏的态度。只有小孩子，是欣赏的态度。他们不懂洋钱对于人生的作用，视洋钱为与山水草木花卉虫鸟一样的自然界的现象，与绘画雕刻一样的艺术品。实在，只有在这种心理之下，能看见“洋钱”的本身。大人即使有偶然的欣赏，但比起小孩子来，是不自然的、做作的了。小孩子所见的洋钱，是洋钱自己的独立的存在，不是作为事物的代价、贫富的标准的洋钱；是无用的洋钱，不是可以换物的洋钱。独立的存在的洋钱，无用的洋钱，便是“绝缘”的洋钱。对于食物、用品，小孩子的看法也都是用这“绝缘”的眼的。</p>
+<p>这种态度，与艺术的态度是一致的。画家描写一盆苹果的时候，决不生起苹果可吃或想吃的念头，只是观照苹果的绝绿的“相”。画中的路，是田野的静脉管，不是通世间的路。画中的人，是与自然物一样的一种存在，不是有意识的人。鉴赏者的态度也是如此。这才是真的创作与鉴赏，故美术学校的用裸体女子的模特儿，决不是像旧礼教维持着所非难地伤风败俗的。在画家的眼中，——至少在描写的瞬间，——模特儿是一个美的自然现象，不是一个有性的女子，这便是“绝缘”的作用。把事物绝缘之后，其对世间、对我的关系切断了。事物所表示的是其独立的状态，我所见的是这事物的自己的“相”。无论诗人、画家，都须有这个心、这副眼睛。这简直就是小孩子的心、小孩子的眼睛！</p>
+<p>这点心在人生何以可贵呢？这问题就是“艺术在人生何以可贵”，不是现在所能草草解答的了。但也不妨简单地说：</p>
+<p>涉世艰辛的我们，在现实的世界、理智的世界、密布因果网的世界里，几乎要气闷得窒息了。我们在那里一定要找求一种慰安的东西，就是艺术。在艺术中，我们可以暂时放下我们的一切压迫与担负，解除我们平日处世的苦心，而作真的自己的生活，认识自己的奔放的生命。而进入于这艺术的世界，即美的世界里去的门，就是“绝缘”。就是不要在原因结果的关系之下观看世界，而当作一所大陈列室或大花园观看世界。这时候我们才看见美丽的艺术的世界了。</p>
+<p>哲学地考察起来，“绝缘”的正是世界的“真相”，即艺术的世界正是真的世界。譬如前述的一块洋钱，绝缘地看来，是浑圆的一块浮雕，这正是洋钱的真相。为什么呢？因为它可以换几升米，换十二角钱，它可以致富，它是银制的，它是我所有的，…… 等关系，都是它本身以外的东西，不是它自己。几升米，十二角钱、富、银、我，…… 这等都是洋钱的关系物，哪里可说就是洋钱呢？真的“洋钱”，只有我们瞬间所见的浑圆的一块浮雕。</p>
+<p>理智，可以用科学来代表。科学者所见的世界，是与艺术完全相反的因果的世界。譬如水的真相是什么？科学者的解答是把水分析起来，变成氢与氧，说这就是水。艺术者的解答，倘是画家，就把波状的水的瞬间的现象描出在画布上。然而照前面道理讲来，这氢与氧分明是两种别物，不过与水有关系而已，怎么可说就是水呢？而波状的水的瞬间的现象，确是“水”自己的“真相”了。然而这是说科学的态度与艺术的态度，不是以艺术来诋毁科学。科学与艺术，同是要阐明宇宙的真相的，其途各异，其终点同归于哲学。但两者的态度，科学是理智的、钻研的、奋斗的，艺术是直观的、慰安的、享乐的，是明显的事实。我的意旨，就是说现实的世间既逃不出理智、因果的网，我们的主观的态度应该能造出一个享乐的世界来，在那里可得到 refreshment [精神爽快，神清气爽]，以恢复我们的元气，认识我们的生命。而这态度，就是小孩子的态度。</p>
+<p>艺术教育就是教人这种做人的态度的，就是教人用像作画、看画的态度来对世界；换言之，就是教人绝缘的方法，就是教人学做小孩子。学做小孩子，就是培养小孩子的这点“童心”，使长大以后永不泯灭。申说起来：我们在世间，倘只用理智的因果的头脑，所见的只是万人在争斗倾轧的修罗场，何等悲惨的世界！日落，月上，春去，秋来，只是催人老死的消息；山高，水长，都是阻人交通的障碍物；鸟只是可供食料的动物，花只是结果的原因或植物的生殖器。而且更有大者，在这样的态度的人世间，人与人相对都成生存竞争的敌手，都以利害相交接，人与人之间将永无交通，人世间将永无和平的幸福、“爱”的足迹了。故艺术教育就是和平的教育、爱的教育。</p>
+<p>人类之初，天生成是和平的、爱的。故小孩子天生成有艺术的态度的基础。小孩子长大起米，涉世渐深，现实渐渐暴露，儿时所见的美丽的世界渐渐破产，这是可悲哀的事。等到成人以后，或者为各种“欲”所迷，或者为“物质”的困难所压迫，久而久之，以前所见的幸福的世界就一变而为苦恼的世界，全无半点“爱”的面影了。此后的生活，便是挣扎到死。这是世间最大多数的人的一致的步骤，且是眼前实际的状况，何等可悲哀呢！避死是不可能的，但谋生前的和平与爱的欢喜，是可能的。世间教育儿童的人，父母、先生，切不可斥儿童的痴呆，切不可盼望儿童的像大人，切不可把儿童大人化（参看本卷第七第八两期《教育杂志》的我的文字 [即“儿童的大人化”]），宁可保留、培养他们的一点痴呆，直到成人以后。</p>
+<p>这痴呆就是童心。童心，在大人就是一种“趣味”。培养童心，就是涵养趣味。小孩子的生活，全是趣味本位的生活。他们为趣味而游戏，为趣味而忘寝食。在游戏中睡觉，在半夜里要起来游戏，是我家的小孩的常事；推想起来，世间的小孩一定大致相同。为趣味而出神的时侯，常要做自已所做不到的事，或不可能的事，因而跌交，或受伤，也是我家的小孩子的常事。然这种全然以趣味为本位的生活，在我们大人自然不必，并且不可能。如果有全同小孩一样的大人，那是疯子了。然而小孩似的一点趣味，我们是可以有的。我所谓培养，就是做父母、做小学先生的人，应该乘机助长，修正他们的对于事物的看法。助长其适宜者，修正其过分者。最是十岁左右，渐知人事的时光，是紧要的一个关头。母亲父亲的平日的态度，在这时期中被他们完全学得。故十三四岁小孩子，大都形式与内容完全是父母的化身。这是我所屡次遇见的实在情形。过了十三四岁以后，自己渐成为大人，眼界渐广，混入外来的印象，故内容即使不变，形式大都略有更动，不完全是父母的模仿了。然而要根本改造，已是不可能了。所以自七八岁至十三四岁的时期，是教育上最紧要的关头。</p>
+<p>一般的父母、先生，总之，是以教孩子做大人为唯一的教育方针的，这便是大错。我尝见有一个先生对七八岁的小孩子讲礼貌、起立、鞠躬、脱帽、缓步、低声、恭敬、谦虚…… 又有母亲存款于银行里，银行送一具精小的铜制的扑满，她就给五岁的孩子储藏角子。并且对我说这孩子已怎样懂得储钱，以为得意。又有一种客人，大都是女客，是助成这件事的。他们提了手帕子（里面包几样糕饼等礼物，我们的土语叫“手帕子”）来做客人，看见孩子，又从身边摸出两只角子来赏给他，当他的父母亲面前，塞进他的小袋袋或小手手里，以为客气又阔气。我们乡间，凡稍上等（？）的人家的客人来往，总有此习惯。因此小孩子无论两岁三岁，就知储蓄，有私产了。这种都是从小摧残他的童心。礼貌、储蓄，原非恶事，然而在人的广泛伟大的生命上看来，是最末梢的小事而已。孩提的时候教他，专心于这种末梢的小事，便是从小压倒他，叫他望下，叫他走小路。这是何种的教育？</p>
+<p>然则所谓培养童心，应该用甚样的方法呢？总之，要处处离去因袭，不守传统，不顺环境，不照习惯，而培养其全新的、纯洁的“人”的心。对于世间事物，处处要教他用这个全新的纯洁的心来领受，或用这个全新的纯洁的心来批判选择而实行。</p>
+<p>认识千古的大谜的宇宙与人生的，便是这个心。得到人生的最高的法悦的，便是这个心。这是儿童本来具有的心，不必父母与先生教他。只要父母与先生不去摧残它而培养它，就够了。</p>
+<p>《西青散记》的作者史震林，在这书的自序中，有这样的话：</p>
+<blockquote>
+<p>“余初生时，怖夫天之乍明乍暗，家人曰，昼夜也。怪夫人之乍有乍无，曰，生死也。教余别星，曰，孰萁斗；别禽，曰，孰乌鹊；识所始也。生以长，乍明乍暗，乍有乍无者，渐不为异；间于纷纷混混时，自提其神于太虚而俯之，觉明暗有无之乍乍者，微可悲也。襁褓膳雌，家人曰，其子犹在。匍匐住视，双雏睨余，守共母羽。辍膳以悲，悲所始也。……”</p>
+</blockquote>
+<p>我对于这文章非常感动：原来人之初生，其心都是全新而纯洁，毫无恶习与陈见的迷障的。故对于昼夜生死，可怖可怪。这一点怖与怪，就是人类的宗教、艺术、哲学、科学的所由起。“生以长，乍明乍暗乍有乍无者，渐不为异”，便是蒙了世间的迷障，已有恶习与陈见了。“间于纷纷混混时，自提其神于太虚而俯之”，是“童心”的失而复得。“辍膳以悲”，于是发生关于宇宙的、生灵的、人生的大疑问了。人间的文化、宗教、艺术、哲学、科学，都是对于这个大疑问的解答。</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[普鲁斯特问卷 150531]]></title>
+      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_150531.html</url>
+      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
+<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>度过一生不留遗憾</p>
+<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>荒废时间</p>
+<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老子</p>
+<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>赫尔佐格</p>
+<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>拖延</p>
+<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>犬儒</p>
+<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>还活着</p>
+<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>意大利行</p>
+<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>礼</p>
+<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>折衷妥协</p>
+<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>没有</p>
+<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>狂妄的人</p>
+<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>Don’t panic.</p>
+<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>还没找到梦想</p>
+<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lily</p>
+<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>与故人对话</p>
+<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>无序</p>
+<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>不对我有任何期待</p>
+<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>保持好奇心</p>
+<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>一座博物馆</p>
+<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>书</p>
+<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>死亡</p>
+<p>23，你希望住在哪里？<br>Where would you like to live?<br>云南</p>
+<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>店主</p>
+<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>心态开放</p>
+<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>优雅</p>
+<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>知性</p>
+<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>热爱生活</p>
+<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>黑塞</p>
+<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>堂吉诃德</p>
+<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>想不出</p>
+<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>Zooey、Ann、Bella……</p>
+<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>忙</p>
+<p>34，你希望以何种方式死去？<br>How would you like to die?<br>平静、平凡地死去</p>
+<p>35，你的座右铭是什么？<br>What is your motto?<br>Be a bug.</p>
 ]]></content>
     </entry>
     
@@ -4179,38 +4283,94 @@
     
     <entry>
       <title></title>
-      <url>http://z.arlmy.me/Wiki/library/Original_FengZiKai_ChildEducation_2.html</url>
-      <content type="html"><![CDATA[<h1 id="丰子恺：关于儿童教育（下）童心的培养"><a href="#丰子恺：关于儿童教育（下）童心的培养" class="headerlink" title="丰子恺：关于儿童教育（下）童心的培养"></a>丰子恺：关于儿童教育（下）童心的培养</h1><p>全文出自 1990 年出版的《丰子恺文集》，楔子即本篇的一句「这是儿童本来具有的心，不必父母与先生教他。只要父母与先生不去摧残它而培养它，就够了。」</p>
-<blockquote>
-<p>本篇选自《艺术教育》一书。其中《儿童的大人化》曾连载于 1927 年的《教育杂志》第 19 卷 7 月号、8 月号，《童心的培养》曾载同卷 12 月号，收入书中时略有改动。</p>
-</blockquote>
-<h2 id="二、童心的培养"><a href="#二、童心的培养" class="headerlink" title="二、童心的培养"></a>二、童心的培养</h2><p>家里的孩子们常常突发一种使我惊异感动的说话或行为。我每每抛弃了书卷或停止了工作，费良久的时光来仔细吟味他们的说话或行为的意味，终于得到深的憧憬的启示。</p>
-<p>有一天，一个孩子从我衣袋里拿了一块洋钱去玩，不久，他又找得了一条红线，拿了跑来，对我说：“给我在洋钱上凿一个洞，把线穿进去，挂在头颈里。” 我记得了：他曾经艳羡一个客人胸前的金的鸡心，又艳羡他弟弟胸前的银锁片。现在这块袁世凯浮雕像的又新又亮的洋钱，的确很像他们的胸章。如果凿一个洞，把红线穿起来，挂在头颈里，的确是很好看的装饰品。这时候我正在编什么讲义，起初讨嫌他的累赞，然而听完了他的话一想，我不得不搁笔了。我惊佩他的发见，我愧我自己的被习惯所支配了的头脑，天天习见洋钱，而从来不曾认识洋钱的真面目，今天才被这孩子提醒了。我们平日讲起或看到洋钱，总是立刻想起这洋钱的来路、去处、效用及其他的旁的关系，有谁注意“洋钱”的本体呢？孩子独能见到事物的本体。这是我所惊奇感动的一点。</p>
-<p>他们在吃东西的时候，更多美丽的诗料流露出来。把一颗花生米劈分为两瓣，其附连着胚粒的一瓣，他们想象作一个“老头子”。如果把下端稍咬去一点，老头子就能立在凳子上了。有一次，他们叫我去看花生米老头子吃酒。我看见凳子上一只纸折的小方桌，四周围着四个花生米老头子，神气真个个活现，我又惊佩他们的见识不置。一向我吃花生米，总是两颗三颗地塞进嘴里去，有谁高兴细看花生米的形状？更有谁高兴把一颗花生米劈开来，看它的内部呢？他们发见了，告诉我，我才晓得仔细玩赏。我觉得这想象真微妙！缩头缩颈的姿势，伛偻的腰，长而硬的胡须，倘能加一支杖，宛如中国画里的点景人物了。</p>
-<p><img src="/pics/Original_FengZiKai_ChildEducation_4.png" alt=""></p>
-<p>他们吃藕，用红线在藕片上的有规则的孔中穿出一朵花来，把藕片当作天然的教育玩具的穿线板。吃玉蜀黍，得了满握的金黄色的珠子。吃石榴，得了满握的通红的宝石。</p>
-<p>他们的可惊的识力，何止这几点？在平凡的日常生活中，他们能在处处发见丰富的趣味，时时作惊人的描写。</p>
-<p>我于惊奇感动之余，仔细一想他们这种言语行为的内容意味，似乎觉得这不仅是家庭寻常的琐事，不仅是可以任其随时忘却的细故，而的确含着有一种很深大的人生的意味。觉得儿童的这一点心，是与艺术教育有关系的，是与儿童教育有关系的。这是人生最有价值的最高贵的心，极应该保护、培养，不应该听其泯灭。</p>
-<p>这点心，怎样与艺术教育有关？怎样与儿童教育有关？何以应该培养？我的所感如下：</p>
-<p>儿童对于人生自然，另取一种特殊的态度。他们所见、所感、所思，都与我们不同，是人生自然的另一方面。这态度是什么性质的呢？就是对于人生自然的“绝缘”（“isolation”）的看法。所谓绝缘，就是对一种事物的时候，解除事物在世间的一切关系、因果，而孤零地观看。使其事物之对于外物，像不良导体的玻璃的对于电流，断绝关系，所以名为绝缘。绝缘的时候，所看见的是孤独的、纯粹的事物的本体的“相”。我们大人在世间辛苦地生活，打算利害，巧运智谋，已久惯于世间的因果的网，久已疏忽了、忘却了事物的这“相”。孩子们涉世不深，眼睛明净，故容易看出，容易道破。一旦被他们提醒，我们自然要惊异感动而憧憬了。</p>
-<p>绝缘的眼，可以看出事物的本身的美，可以发见奇妙的比拟。上面所述诸例，要把洋钱作胸章，就是因绝缘而看出事物的本身的美；比花生米于老头子，就是因绝缘而发见奇妙的比拟。</p>
-<p>上例所述的洋钱，是我们这世间的实生活上最重要的东西。因为人生都为生活，洋钱是可以维持生活的最重要的物质的一面的，因此人就视洋钱为间接的生命。孜孜为利的商人，世间的大多数的人，每天的奔走、奋斗，都是只为洋钱。要洋钱是为要生命。但要生命是为要什么，他们就不想了。他们这样没头于洋钱，萦心于洋钱，所以讲起或见了洋钱，就强烈地感动他们的心，立刻在他们心头唤起洋钱的一切关系物——生命、生活、衣、食、住、幸福…… 这样一来，洋钱的本身就被压抑在这等重大关系物之下，使人没有余暇顾及了。无论洋钱的铸造何等美，雕刻何等上品，但在他们的心目中只是奋斗竞逐的对象，拼命的冤家，或作福作威的手段。有注意洋钱钞票的花纹式样的，只为防铜洋钱、假钞票，是戒备的、审查的态度，不是欣赏的态度。只有小孩子，是欣赏的态度。他们不懂洋钱对于人生的作用，视洋钱为与山水草木花卉虫鸟一样的自然界的现象，与绘画雕刻一样的艺术品。实在，只有在这种心理之下，能看见“洋钱”的本身。大人即使有偶然的欣赏，但比起小孩子来，是不自然的、做作的了。小孩子所见的洋钱，是洋钱自己的独立的存在，不是作为事物的代价、贫富的标准的洋钱；是无用的洋钱，不是可以换物的洋钱。独立的存在的洋钱，无用的洋钱，便是“绝缘”的洋钱。对于食物、用品，小孩子的看法也都是用这“绝缘”的眼的。</p>
-<p>这种态度，与艺术的态度是一致的。画家描写一盆苹果的时候，决不生起苹果可吃或想吃的念头，只是观照苹果的绝绿的“相”。画中的路，是田野的静脉管，不是通世间的路。画中的人，是与自然物一样的一种存在，不是有意识的人。鉴赏者的态度也是如此。这才是真的创作与鉴赏，故美术学校的用裸体女子的模特儿，决不是像旧礼教维持着所非难地伤风败俗的。在画家的眼中，——至少在描写的瞬间，——模特儿是一个美的自然现象，不是一个有性的女子，这便是“绝缘”的作用。把事物绝缘之后，其对世间、对我的关系切断了。事物所表示的是其独立的状态，我所见的是这事物的自己的“相”。无论诗人、画家，都须有这个心、这副眼睛。这简直就是小孩子的心、小孩子的眼睛！</p>
-<p>这点心在人生何以可贵呢？这问题就是“艺术在人生何以可贵”，不是现在所能草草解答的了。但也不妨简单地说：</p>
-<p>涉世艰辛的我们，在现实的世界、理智的世界、密布因果网的世界里，几乎要气闷得窒息了。我们在那里一定要找求一种慰安的东西，就是艺术。在艺术中，我们可以暂时放下我们的一切压迫与担负，解除我们平日处世的苦心，而作真的自己的生活，认识自己的奔放的生命。而进入于这艺术的世界，即美的世界里去的门，就是“绝缘”。就是不要在原因结果的关系之下观看世界，而当作一所大陈列室或大花园观看世界。这时候我们才看见美丽的艺术的世界了。</p>
-<p>哲学地考察起来，“绝缘”的正是世界的“真相”，即艺术的世界正是真的世界。譬如前述的一块洋钱，绝缘地看来，是浑圆的一块浮雕，这正是洋钱的真相。为什么呢？因为它可以换几升米，换十二角钱，它可以致富，它是银制的，它是我所有的，…… 等关系，都是它本身以外的东西，不是它自己。几升米，十二角钱、富、银、我，…… 这等都是洋钱的关系物，哪里可说就是洋钱呢？真的“洋钱”，只有我们瞬间所见的浑圆的一块浮雕。</p>
-<p>理智，可以用科学来代表。科学者所见的世界，是与艺术完全相反的因果的世界。譬如水的真相是什么？科学者的解答是把水分析起来，变成氢与氧，说这就是水。艺术者的解答，倘是画家，就把波状的水的瞬间的现象描出在画布上。然而照前面道理讲来，这氢与氧分明是两种别物，不过与水有关系而已，怎么可说就是水呢？而波状的水的瞬间的现象，确是“水”自己的“真相”了。然而这是说科学的态度与艺术的态度，不是以艺术来诋毁科学。科学与艺术，同是要阐明宇宙的真相的，其途各异，其终点同归于哲学。但两者的态度，科学是理智的、钻研的、奋斗的，艺术是直观的、慰安的、享乐的，是明显的事实。我的意旨，就是说现实的世间既逃不出理智、因果的网，我们的主观的态度应该能造出一个享乐的世界来，在那里可得到 refreshment [精神爽快，神清气爽]，以恢复我们的元气，认识我们的生命。而这态度，就是小孩子的态度。</p>
-<p>艺术教育就是教人这种做人的态度的，就是教人用像作画、看画的态度来对世界；换言之，就是教人绝缘的方法，就是教人学做小孩子。学做小孩子，就是培养小孩子的这点“童心”，使长大以后永不泯灭。申说起来：我们在世间，倘只用理智的因果的头脑，所见的只是万人在争斗倾轧的修罗场，何等悲惨的世界！日落，月上，春去，秋来，只是催人老死的消息；山高，水长，都是阻人交通的障碍物；鸟只是可供食料的动物，花只是结果的原因或植物的生殖器。而且更有大者，在这样的态度的人世间，人与人相对都成生存竞争的敌手，都以利害相交接，人与人之间将永无交通，人世间将永无和平的幸福、“爱”的足迹了。故艺术教育就是和平的教育、爱的教育。</p>
-<p>人类之初，天生成是和平的、爱的。故小孩子天生成有艺术的态度的基础。小孩子长大起米，涉世渐深，现实渐渐暴露，儿时所见的美丽的世界渐渐破产，这是可悲哀的事。等到成人以后，或者为各种“欲”所迷，或者为“物质”的困难所压迫，久而久之，以前所见的幸福的世界就一变而为苦恼的世界，全无半点“爱”的面影了。此后的生活，便是挣扎到死。这是世间最大多数的人的一致的步骤，且是眼前实际的状况，何等可悲哀呢！避死是不可能的，但谋生前的和平与爱的欢喜，是可能的。世间教育儿童的人，父母、先生，切不可斥儿童的痴呆，切不可盼望儿童的像大人，切不可把儿童大人化（参看本卷第七第八两期《教育杂志》的我的文字 [即“儿童的大人化”]），宁可保留、培养他们的一点痴呆，直到成人以后。</p>
-<p>这痴呆就是童心。童心，在大人就是一种“趣味”。培养童心，就是涵养趣味。小孩子的生活，全是趣味本位的生活。他们为趣味而游戏，为趣味而忘寝食。在游戏中睡觉，在半夜里要起来游戏，是我家的小孩的常事；推想起来，世间的小孩一定大致相同。为趣味而出神的时侯，常要做自已所做不到的事，或不可能的事，因而跌交，或受伤，也是我家的小孩子的常事。然这种全然以趣味为本位的生活，在我们大人自然不必，并且不可能。如果有全同小孩一样的大人，那是疯子了。然而小孩似的一点趣味，我们是可以有的。我所谓培养，就是做父母、做小学先生的人，应该乘机助长，修正他们的对于事物的看法。助长其适宜者，修正其过分者。最是十岁左右，渐知人事的时光，是紧要的一个关头。母亲父亲的平日的态度，在这时期中被他们完全学得。故十三四岁小孩子，大都形式与内容完全是父母的化身。这是我所屡次遇见的实在情形。过了十三四岁以后，自己渐成为大人，眼界渐广，混入外来的印象，故内容即使不变，形式大都略有更动，不完全是父母的模仿了。然而要根本改造，已是不可能了。所以自七八岁至十三四岁的时期，是教育上最紧要的关头。</p>
-<p>一般的父母、先生，总之，是以教孩子做大人为唯一的教育方针的，这便是大错。我尝见有一个先生对七八岁的小孩子讲礼貌、起立、鞠躬、脱帽、缓步、低声、恭敬、谦虚…… 又有母亲存款于银行里，银行送一具精小的铜制的扑满，她就给五岁的孩子储藏角子。并且对我说这孩子已怎样懂得储钱，以为得意。又有一种客人，大都是女客，是助成这件事的。他们提了手帕子（里面包几样糕饼等礼物，我们的土语叫“手帕子”）来做客人，看见孩子，又从身边摸出两只角子来赏给他，当他的父母亲面前，塞进他的小袋袋或小手手里，以为客气又阔气。我们乡间，凡稍上等（？）的人家的客人来往，总有此习惯。因此小孩子无论两岁三岁，就知储蓄，有私产了。这种都是从小摧残他的童心。礼貌、储蓄，原非恶事，然而在人的广泛伟大的生命上看来，是最末梢的小事而已。孩提的时候教他，专心于这种末梢的小事，便是从小压倒他，叫他望下，叫他走小路。这是何种的教育？</p>
-<p>然则所谓培养童心，应该用甚样的方法呢？总之，要处处离去因袭，不守传统，不顺环境，不照习惯，而培养其全新的、纯洁的“人”的心。对于世间事物，处处要教他用这个全新的纯洁的心来领受，或用这个全新的纯洁的心来批判选择而实行。</p>
-<p>认识千古的大谜的宇宙与人生的，便是这个心。得到人生的最高的法悦的，便是这个心。这是儿童本来具有的心，不必父母与先生教他。只要父母与先生不去摧残它而培养它，就够了。</p>
-<p>《西青散记》的作者史震林，在这书的自序中，有这样的话：</p>
-<blockquote>
-<p>“余初生时，怖夫天之乍明乍暗，家人曰，昼夜也。怪夫人之乍有乍无，曰，生死也。教余别星，曰，孰萁斗；别禽，曰，孰乌鹊；识所始也。生以长，乍明乍暗，乍有乍无者，渐不为异；间于纷纷混混时，自提其神于太虚而俯之，觉明暗有无之乍乍者，微可悲也。襁褓膳雌，家人曰，其子犹在。匍匐住视，双雏睨余，守共母羽。辍膳以悲，悲所始也。……”</p>
-</blockquote>
-<p>我对于这文章非常感动：原来人之初生，其心都是全新而纯洁，毫无恶习与陈见的迷障的。故对于昼夜生死，可怖可怪。这一点怖与怪，就是人类的宗教、艺术、哲学、科学的所由起。“生以长，乍明乍暗乍有乍无者，渐不为异”，便是蒙了世间的迷障，已有恶习与陈见了。“间于纷纷混混时，自提其神于太虚而俯之”，是“童心”的失而复得。“辍膳以悲”，于是发生关于宇宙的、生灵的、人生的大疑问了。人间的文化、宗教、艺术、哲学、科学，都是对于这个大疑问的解答。</p>
+      <url>http://z.arlmy.me/Wiki/self/Self_BigFiveTest_160524.html</url>
+      <content type="html"><![CDATA[<h1 id="大五测试-160524"><a href="#大五测试-160524" class="headerlink" title="大五测试 160524"></a>大五测试 160524</h1><p>2016 年 5 月 24 日</p>
+<p><a href="http://similarminds.com/big5.html" target="_blank" rel="external">Take Free Big Five Personality Test</a></p>
+<p><a href="http://similarminds.com/personality_tests.html" target="_blank" rel="external">Personality Test</a> by <a href="http://similarminds.com/" target="_blank" rel="external">SimilarMinds.com</a></p>
+<p>Big Five Test Results</p>
+<ul>
+<li>Extroversion (38%) moderately low which suggests you are reclusive, quiet, unassertive, and private.</li>
+<li>Accommodation (34%) moderately low which suggests you are, at times, overly selfish, uncooperative, and difficult at the expense of the well being of others.</li>
+<li>Orderliness (32%) moderately low which suggests you are, at times, overly flexible, random, scattered, and fun seeking at the expense of structure, reliability, work ethic, and long term accomplishment.</li>
+<li>Emotional Stability (36%) moderately low which suggests you are worrying, insecure, emotional, and anxious.</li>
+<li>Inquisitiveness (66%) moderately high which suggests you are intellectual, curious, imaginative but possibly not very practical.</li>
+</ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[了解自己的锡伯血统 2]]></title>
+      <url>http://z.arlmy.me/Wiki/self/Self_Sibe_2.html</url>
+      <content type="html"><![CDATA[<h2 id="饮食："><a href="#饮食：" class="headerlink" title="饮食："></a>饮食：</h2><p>主食：席北米（锡伯米）、面粉、大米、高粱米、发面饼、合子、玉米、稗(bai)子面、荞麦面、酸汤子、发面饼、死面饼、南瓜馅饺子、炸肉丸子<br>蔬菜：小白菜、韭菜、豇豆、菠菜、芸豆、茄子、土豆、黄瓜、辣椒、萝卜、芹菜、渍酸菜、腌咸菜<br>野菜：野芹菜、山蕨菜、小根菜、榆树钱、柳蒿菜、苦沫菜、婆婆丁（蒲公英）<br>其他：水豆腐、干豆腐、冻豆腐、豆腐脑、炒盐豆、大酱（米顺）、韭菜花酱、辣椒闷子</p>
+<h2 id="技艺："><a href="#技艺：" class="headerlink" title="技艺："></a>技艺：</h2><p>接骨、按摩、扎针、拔罐子</p>
+<h2 id="习俗："><a href="#习俗：" class="headerlink" title="习俗："></a>习俗：</h2><p>不食狗肉；喜“糊米水（高粱米炒糊后加水）”（有疗效）；猪血肠+蒜泥大葱；手包饺子</p>
+<h2 id="节日："><a href="#节日：" class="headerlink" title="节日："></a>节日：</h2><p>春节、元宵节、抹黑节、填仓节、龙抬头、清明、西迁节、端午、中秋<br>注，龙抬头：1.龙抬头、保丰收；2.请回女祖“喜利妈妈”</p>
+<h2 id="娱乐："><a href="#娱乐：" class="headerlink" title="娱乐："></a>娱乐：</h2><p>抓嘎拉哈、支大炮、跑马城</p>
+<h2 id="宗教："><a href="#宗教：" class="headerlink" title="宗教："></a>宗教：</h2><p>崇拜自然神<br>拜天地神、苗神、虫神、牲畜神、猎神、鱼神<br>拜门神、娘娘神（即喜利妈妈，古时有娘娘庙）</p>
+<h2 id="祖宗："><a href="#祖宗：" class="headerlink" title="祖宗："></a>祖宗：</h2><p>女祖：喜利妈妈（子孙妈妈、娘娘神），锡伯语为“延续”<br>男祖：海尔堪玛法，祖宗</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[普鲁斯特问卷 160603]]></title>
+      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_160603.html</url>
+      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
+<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>随处心安</p>
+<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>自己的健康</p>
+<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老庄</p>
+<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>无（陈丹青？）</p>
+<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>难以专注，因而不能随时间做到自我增值</p>
+<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>谄媚迎合</p>
+<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>有热爱</p>
+<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>Syracuse</p>
+<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>恭敬</p>
+<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>觉得对方不会理解的时候，恐惧惩罚的时候</p>
+<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>无</p>
+<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>媒体人</p>
+<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>复杂</p>
+<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>基础的习惯没有很好地养成</p>
+<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lili酱</p>
+<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>直接读懂对方所想</p>
+<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>还好，只是对未来有点茫然</p>
+<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>书多一点</p>
+<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>无</p>
+<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>一双眼睛</p>
+<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>记忆</p>
+<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>失去</p>
+<p>23，你希望住在哪里？<br>Where would you like to live?<br>常常能看到自然，有朋友在的地方</p>
+<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>或许是艺术家</p>
+<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>脑洞大</p>
+<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>赤子心</p>
+<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>自由</p>
+<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>成长</p>
+<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>老庄/鲁迅</p>
+<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>无</p>
+<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>赫尔佐格</p>
+<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>卢梭、Arya</p>
+<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>浪费</p>
+<p>34，你希望以何种方式死去？<br>How would you like to die?<br>无憾</p>
+<p>35，你的座右铭是什么？<br>What is your motto?<br>折腾人生</p>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title><![CDATA[了解自己的锡伯血统 1]]></title>
+      <url>http://z.arlmy.me/Wiki/self/Self_Sibe_1.html</url>
+      <content type="html"><![CDATA[<p>姥姥是锡伯族人，本是地主阶级，邻里和谐。<br>解放时期姥姥改嫁给汉族人，民族就都变为了汉族。<br>我知晓的也只有这些。</p>
+<hr>
+<h2 id="锡伯族"><a href="#锡伯族" class="headerlink" title="锡伯族"></a>锡伯族</h2><p>现分布于辽吉黑、新疆和内蒙古。1990 年第四次人口普查共计 172932 人，其中辽宁 120196 人，抚顺 2942 人。</p>
+<p>17 世纪中叶以前，主要分布在大小兴安岭、松花江和嫩江平原（松嫩平原）；气候属寒温带—温带；盛产席北米；生活方式沿革为狩猎、畜牧和农业；17 世纪中叶后迁至辽宁辽河、浑河一带；1764 年清政府动员戍边，兵 1020 人及家属 3275 人迁至新疆伊犁。</p>
+<p>锡伯口语称“Siwe”，书面“Sibe”，锡伯，明时有此名。<br>西汉末年称须卜；东汉后称鲜卑、西卑、犀纰、私比、师比、胥纰；北魏、隋唐宋时称室韦、失韦、失围；元明时称失必、失必尔；明清后称实伯、斜婆、洗白、史伯、西伯、西北、席北、西僰(bo)、席百、席伯、锡北、锡卜、锡窝、锡伯</p>
+<h2 id="族源："><a href="#族源：" class="headerlink" title="族源："></a>族源：</h2><ol>
+<li>Sibe乃绰尔河的故名；</li>
+<li>室韦的后裔，属《辽史》中与黄头室韦一同征辽的臭泊部（室韦的一个部落）；</li>
+<li>鲜卑的遗民（居于嫩江、齐齐哈尔、伯都纳等地）</li>
+</ol>
+<p>鲜卑是东北古代少数民族的名称，或号“山戎”（鲜、山古时同音），属所谓“东胡”系统。<br>鲜卑分两族：拓拔鲜卑、东部鲜卑。东部鲜卑后融于汉；拓拔鲜卑后成五胡十六国，统一成北魏。</p>
+<p>沈阳锡伯家庙太平寺碑文：祖居海拉尔东南扎兰陀罗河流域（呼伦贝尔以东及嫩江西岸一带）<br>锡伯山（室韦山）Sibealin</p>
+<p>原来的文字是“呼杜木文”，形象与蒙古文相似<br>语言是“吉甫西语”，音调与达呼尔语相近<br>语序是：主语—宾语—谓语<br>现有新疆察布查尔锡伯自治县（新疆伊犁），住民晓锡伯语言和文字，并有报纸和书籍</p>
+<p>两祖：<br>男祖“海尔罕”（海尔堪玛法）<br>女祖“喜利妈妈”</p>
+<p>远方的族人<br><a href="/pics/Self_Sibe.png"><img src="/pics/Self_Sibe.png" alt="新疆伊犁"></a></p>
 ]]></content>
     </entry>
     
@@ -4221,6 +4381,16 @@
 <li><a href="http://v.youku.com/v_show/id_XMjYxMjI2ODc0NA==.html?spm=a2hzp.8253869.0.0&amp;from=y1.7-2" target="_blank" rel="external">第一百六十二夜：博尔赫斯短篇选读(二) 书虫中的书虫</a>，谈及反向的认知、记忆，认知科学研究的是正常人类的认知过程，博尔赫斯则设想了不符合此规律的情景，相关文章《博闻强记的傅内斯》，国内类似作者：朱岳，案例粉红色的猪，记忆的筛选和重点可以参考色彩的30度内全色彩理论，即只对一部分的内容有鲜活记忆而非全部，这样符合认知规律，但语言上呈现全部会让人感觉真实（视觉上第一印象让人觉得画幅巨大，而如果想深究则仍有细节可挖，因而真实且贵重）</li>
 <li>远距联想图集</li>
 </ul>
+]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://z.arlmy.me/project/GameOfLife/life.css</url>
+      <content type="html"><![CDATA[canvas {
+	width: 600px;
+	height: 600px;
+}
 ]]></content>
     </entry>
     
@@ -4259,6 +4429,55 @@
 </body>
 
 </html>]]></content>
+    </entry>
+    
+    <entry>
+      <title></title>
+      <url>http://z.arlmy.me/project/GameOfLife/plan.html</url>
+      <content type="html"><![CDATA[<h1 id="生命游戏"><a href="#生命游戏" class="headerlink" title="生命游戏"></a>生命游戏</h1><h2 id="信息收集"><a href="#信息收集" class="headerlink" title="信息收集"></a>信息收集</h2><h3 id="原理-规则"><a href="#原理-规则" class="headerlink" title="原理/规则"></a>原理/规则</h3><ul>
+<li><a href="http://mooc.guokr.com/note/15029/" target="_blank" rel="external">Model Thinking:3.4 生命游戏 Game of Life</a></li>
+<li><a href="http://www.atlas-zone.com/complex/alife/ca/index.html" target="_blank" rel="external">細胞自動機 - Cellular Automata</a> 站内还有复杂性科学的内容</li>
+<li><a href="https://www.ptt.cc/bbs/puzzle/M.1249635651.A.21E.html" target="_blank" rel="external">心得 生命遊戲（Game of life） - 看板 puzzle - 批踢踢實業坊</a></li>
+</ul>
+<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><ul>
+<li><a href="http://www.newgrounds.com/portal/view/468517" target="_blank" rel="external">The irRegularGame of Life</a></li>
+<li><a href="https://bitstorm.org/gameoflife/" target="_blank" rel="external">John Conway’s Game of Life</a></li>
+<li><a href="http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/?autoplay=0&amp;trail=0&amp;grid=1&amp;colors=1&amp;zoom=1&amp;s=random" target="_blank" rel="external">Conway’s Game of Life - Javascript/Canvas Implementation</a></li>
+<li><a href="http://conwaylife.com/w/index.php?title=Main_Page" target="_blank" rel="external">LifeWiki</a></li>
+<li><a href="http://tieba.baidu.com/p/3666424278" target="_blank" rel="external">生命游戏中英文对照表</a></li>
+</ul>
+<h3 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h3><ul>
+<li><a href="http://alfredwei.blogspot.com/2011/07/blog-post_27.html" target="_blank" rel="external">簡單需求的複雜作用 | 響笛 - Alfred’s Stuff</a></li>
+<li><a href="http://zhaidongplus.is-programmer.com/posts/6873.html" target="_blank" rel="external">Game of Life – 黑客的玩具 - H4CK1N9</a></li>
+</ul>
+<h2 id="设计步骤"><a href="#设计步骤" class="headerlink" title="设计步骤"></a>设计步骤</h2><h3 id="生成规则："><a href="#生成规则：" class="headerlink" title="生成规则："></a>生成规则：</h3><p>黑色：活<br>白色：死</p>
+<ul>
+<li>本身活：临近的 8 个棋子有 0,1,4-8 个活，则下一轮死</li>
+<li>本身活：临近的 8 个棋子有 2 或 3 个活，则下一轮活</li>
+<li>本身死：临近的 8 个棋子有 3 个活，则一轮活（新生）</li>
+</ul>
+<h3 id="Ver1"><a href="#Ver1" class="headerlink" title="Ver1"></a>Ver1</h3><ol>
+<li>定义范围，生成一个 50*50 的网格，边框黑色，填充白色</li>
+<li>鼠标点击方格，相应的方格变成黑色</li>
+<li>两个按钮：<ul>
+<li>清空：点击后，重新绘制网格</li>
+<li>生成：点击后，判断每个方格中心点像素的颜色，按生成规则执行计算，并在一份新文档中记录计算结果，全部计算完成后，用新文档的数据取代旧数据</li>
+</ul>
+</li>
+<li>计数器：记录“生成”按钮的点击次数</li>
+</ol>
+<p>cp4 点评：</p>
+<ul>
+<li>一看就是新手，太执着于细节，都是结果，太含糊了，不够具体！</li>
+<li>最核心的是数据结构和算法！如何记录、维护数据</li>
+</ul>
+<h3 id="Ver2"><a href="#Ver2" class="headerlink" title="Ver2"></a>Ver2</h3><ol>
+<li>范围<br>定义游戏范围，绘制横、纵框线<br>刷新频率</li>
+<li>预设<br>定义二维数组，赋初始值设为 0<br>定义填色函数，值为0，则填充白色，值为1，则填充黑色</li>
+<li>初始值<br>定义刷新频率<br>用填色函数填色</li>
+<li>遍历<br>i++ j++<br>计算该点周围 8 个位置的值之和：count<br>if 该点值为 0 且 count = 3，则赋值为1<br>else 该点值为 1 且 count = 0/1/4/5/6/7/8，则赋值为0<br>其他值不变<br>跳出循环后，用填色函数填色</li>
+</ol>
+]]></content>
     </entry>
     
     <entry>
@@ -4530,225 +4749,6 @@ function figureEight() {
     generationCount++;
     console.log(generationCount);
 }]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>http://z.arlmy.me/project/GameOfLife/life.css</url>
-      <content type="html"><![CDATA[canvas {
-	width: 600px;
-	height: 600px;
-}
-]]></content>
-    </entry>
-    
-    <entry>
-      <title></title>
-      <url>http://z.arlmy.me/project/GameOfLife/plan.html</url>
-      <content type="html"><![CDATA[<h1 id="生命游戏"><a href="#生命游戏" class="headerlink" title="生命游戏"></a>生命游戏</h1><h2 id="信息收集"><a href="#信息收集" class="headerlink" title="信息收集"></a>信息收集</h2><h3 id="原理-规则"><a href="#原理-规则" class="headerlink" title="原理/规则"></a>原理/规则</h3><ul>
-<li><a href="http://mooc.guokr.com/note/15029/" target="_blank" rel="external">Model Thinking:3.4 生命游戏 Game of Life</a></li>
-<li><a href="http://www.atlas-zone.com/complex/alife/ca/index.html" target="_blank" rel="external">細胞自動機 - Cellular Automata</a> 站内还有复杂性科学的内容</li>
-<li><a href="https://www.ptt.cc/bbs/puzzle/M.1249635651.A.21E.html" target="_blank" rel="external">心得 生命遊戲（Game of life） - 看板 puzzle - 批踢踢實業坊</a></li>
-</ul>
-<h3 id="案例"><a href="#案例" class="headerlink" title="案例"></a>案例</h3><ul>
-<li><a href="http://www.newgrounds.com/portal/view/468517" target="_blank" rel="external">The irRegularGame of Life</a></li>
-<li><a href="https://bitstorm.org/gameoflife/" target="_blank" rel="external">John Conway’s Game of Life</a></li>
-<li><a href="http://pmav.eu/stuff/javascript-game-of-life-v3.1.1/?autoplay=0&amp;trail=0&amp;grid=1&amp;colors=1&amp;zoom=1&amp;s=random" target="_blank" rel="external">Conway’s Game of Life - Javascript/Canvas Implementation</a></li>
-<li><a href="http://conwaylife.com/w/index.php?title=Main_Page" target="_blank" rel="external">LifeWiki</a></li>
-<li><a href="http://tieba.baidu.com/p/3666424278" target="_blank" rel="external">生命游戏中英文对照表</a></li>
-</ul>
-<h3 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h3><ul>
-<li><a href="http://alfredwei.blogspot.com/2011/07/blog-post_27.html" target="_blank" rel="external">簡單需求的複雜作用 | 響笛 - Alfred’s Stuff</a></li>
-<li><a href="http://zhaidongplus.is-programmer.com/posts/6873.html" target="_blank" rel="external">Game of Life – 黑客的玩具 - H4CK1N9</a></li>
-</ul>
-<h2 id="设计步骤"><a href="#设计步骤" class="headerlink" title="设计步骤"></a>设计步骤</h2><h3 id="生成规则："><a href="#生成规则：" class="headerlink" title="生成规则："></a>生成规则：</h3><p>黑色：活<br>白色：死</p>
-<ul>
-<li>本身活：临近的 8 个棋子有 0,1,4-8 个活，则下一轮死</li>
-<li>本身活：临近的 8 个棋子有 2 或 3 个活，则下一轮活</li>
-<li>本身死：临近的 8 个棋子有 3 个活，则一轮活（新生）</li>
-</ul>
-<h3 id="Ver1"><a href="#Ver1" class="headerlink" title="Ver1"></a>Ver1</h3><ol>
-<li>定义范围，生成一个 50*50 的网格，边框黑色，填充白色</li>
-<li>鼠标点击方格，相应的方格变成黑色</li>
-<li>两个按钮：<ul>
-<li>清空：点击后，重新绘制网格</li>
-<li>生成：点击后，判断每个方格中心点像素的颜色，按生成规则执行计算，并在一份新文档中记录计算结果，全部计算完成后，用新文档的数据取代旧数据</li>
-</ul>
-</li>
-<li>计数器：记录“生成”按钮的点击次数</li>
-</ol>
-<p>cp4 点评：</p>
-<ul>
-<li>一看就是新手，太执着于细节，都是结果，太含糊了，不够具体！</li>
-<li>最核心的是数据结构和算法！如何记录、维护数据</li>
-</ul>
-<h3 id="Ver2"><a href="#Ver2" class="headerlink" title="Ver2"></a>Ver2</h3><ol>
-<li>范围<br>定义游戏范围，绘制横、纵框线<br>刷新频率</li>
-<li>预设<br>定义二维数组，赋初始值设为 0<br>定义填色函数，值为0，则填充白色，值为1，则填充黑色</li>
-<li>初始值<br>定义刷新频率<br>用填色函数填色</li>
-<li>遍历<br>i++ j++<br>计算该点周围 8 个位置的值之和：count<br>if 该点值为 0 且 count = 3，则赋值为1<br>else 该点值为 1 且 count = 0/1/4/5/6/7/8，则赋值为0<br>其他值不变<br>跳出循环后，用填色函数填色</li>
-</ol>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[普鲁斯特问卷 140726]]></title>
-      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_140726.html</url>
-      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
-<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>有爱的人和喜欢的人在身边</p>
-<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>停滞不前，失去好奇心</p>
-<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老子</p>
-<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>采铜、北岛、黄钟</p>
-<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>易怒，对不喜欢的人态度不友善</p>
-<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>不守公德</p>
-<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>得到认知世界的方式</p>
-<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>目前的是去云南的旅行，期待的是去意大利</p>
-<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>要乐观，要有正能量</p>
-<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>不想看到对方的失望</p>
-<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>没有</p>
-<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>失去自己的人</p>
-<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>么么哒</p>
-<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>没有早些读大量书籍，并开始找自己</p>
-<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lili &amp; Demo</p>
-<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>听懂自然的言语</p>
-<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>工作时差，不工作时好</p>
-<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>不要催促或要求我做任何事情</p>
-<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>目前是对知识体系的搭建</p>
-<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>植物的话是一朵野花，动物的话是一条深海的鱼</p>
-<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>书</p>
-<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>被拒绝</p>
-<p>23，你希望住在哪里？<br>Where would you like to live?<br>目前是大理</p>
-<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>匠人（广义上的）</p>
-<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>在路上</p>
-<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>真实</p>
-<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>优雅</p>
-<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>懂得生活</p>
-<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>黑塞</p>
-<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>堂吉诃德</p>
-<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>没有</p>
-<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>Zooey、Sherlock、Emma、Eve……</p>
-<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>不自由</p>
-<p>34，你希望以何种方式死去？<br>How would you like to die?<br>海啸的巨浪下，与周遭一道快速死去</p>
-<p>35，你的座右铭是什么？<br>What is your motto?<br>Lust for life</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[普鲁斯特问卷 150531]]></title>
-      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_150531.html</url>
-      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
-<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>度过一生不留遗憾</p>
-<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>荒废时间</p>
-<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老子</p>
-<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>赫尔佐格</p>
-<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>拖延</p>
-<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>犬儒</p>
-<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>还活着</p>
-<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>意大利行</p>
-<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>礼</p>
-<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>折衷妥协</p>
-<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>没有</p>
-<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>狂妄的人</p>
-<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>Don’t panic.</p>
-<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>还没找到梦想</p>
-<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lily</p>
-<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>与故人对话</p>
-<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>无序</p>
-<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>不对我有任何期待</p>
-<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>保持好奇心</p>
-<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>一座博物馆</p>
-<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>书</p>
-<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>死亡</p>
-<p>23，你希望住在哪里？<br>Where would you like to live?<br>云南</p>
-<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>店主</p>
-<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>心态开放</p>
-<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>优雅</p>
-<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>知性</p>
-<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>热爱生活</p>
-<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>黑塞</p>
-<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>堂吉诃德</p>
-<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>想不出</p>
-<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>Zooey、Ann、Bella……</p>
-<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>忙</p>
-<p>34，你希望以何种方式死去？<br>How would you like to die?<br>平静、平凡地死去</p>
-<p>35，你的座右铭是什么？<br>What is your motto?<br>Be a bug.</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[普鲁斯特问卷 160603]]></title>
-      <url>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_160603.html</url>
-      <content type="html"><![CDATA[<p>普鲁斯特问卷</p>
-<p>1，你认为完美的幸福是什么？<br>What is your idea of perfect happiness?<br>随处心安</p>
-<p>2，你最大的恐惧是什么？<br>What is your greatest fear?<br>自己的健康</p>
-<p>3，你最认同哪位历史人物？<br>Which historical figure do you most identify with?<br>老庄</p>
-<p>4，在世的人当中，你最钦佩谁？<br>Which living person do you most admire?<br>无（陈丹青？）</p>
-<p>5，你最痛恨自己哪一点特质？<br>What is the trait you most deplore in yourself?<br>难以专注，因而不能随时间做到自我增值</p>
-<p>6，你最讨厌别人哪一点特质？<br>What is the trait you most deplore in others?<br>谄媚迎合</p>
-<p>7，你最奢侈的是什么？<br>What is your greatest extravagance?<br>有热爱</p>
-<p>8，你最喜爱的旅程是什么？<br>What is your favorite journey?<br>Syracuse</p>
-<p>9，你认为最被高估的美德是什么？<br>What do you consider the most overrated virtue?<br>恭敬</p>
-<p>10，你在什么情况下会撒谎？<br>On what occasion do you lie?<br>觉得对方不会理解的时候，恐惧惩罚的时候</p>
-<p>11，你对自己的外表哪点最不满意？<br>What do you dislike most about your appearance?<br>无</p>
-<p>12，你最轻视在世的什么人？<br>Which living person do you most despise?<br>媒体人</p>
-<p>13，你使用最频繁的单词或短语是什么？<br>Which words or phrases do you most overuse?<br>复杂</p>
-<p>14，你最遗憾的是什么？<br>What is your greatest regret?<br>基础的习惯没有很好地养成</p>
-<p>15，你生命中的至爱是什么人或物？<br>What or who is the greatest love of your life?<br>Lili酱</p>
-<p>16，你最期望拥有什么才能？<br>Which talent would you most like to have?<br>直接读懂对方所想</p>
-<p>17，你现在精神状态如何？<br>What is your current state of mind?<br>还好，只是对未来有点茫然</p>
-<p>18，如果你能改变你家庭的某一点，你期望是什么？<br>If you could change one thing about your family, what would it be?<br>书多一点</p>
-<p>19，你认为自己最大的成就是什么？<br>What do you consider your greatest achievement?<br>无</p>
-<p>20，如果你死后会变成别的人或东西回归人世，你觉得你会变成谁或者什么东西？<br>If you were to die and come back as a person or thing, what do you think it would be?<br>一双眼睛</p>
-<p>21，你最珍视的财产是什么？<br>What is your most treasured possession?<br>记忆</p>
-<p>22，你认为最轻的痛苦是什么？<br>What do you regard as the lowest depth of misery?<br>失去</p>
-<p>23，你希望住在哪里？<br>Where would you like to live?<br>常常能看到自然，有朋友在的地方</p>
-<p>24，你最喜爱的职业是什么？<br>What is your favorite occupation?<br>或许是艺术家</p>
-<p>25，你最出众的特质是什么？<br>What is your most marked characteristic?<br>脑洞大</p>
-<p>26，你最欣赏男人的哪种品质？<br>What is the quality you most like in a man?<br>赤子心</p>
-<p>27，你最欣赏女人的哪种品质？<br>What is the quality you most like in a woman?<br>自由</p>
-<p>28，你最重视朋友身上的哪点？<br>What do you most value in your friends?<br>成长</p>
-<p>29，你最喜爱的作家是谁？<br>Who are your favorite writers?<br>老庄/鲁迅</p>
-<p>30，你最喜爱的小说英雄人物是谁？<br>Who is your favorite hero of fiction?<br>无</p>
-<p>31，现实生活中你最喜爱哪些英雄人物？<br>Who are your heroes in real life?<br>赫尔佐格</p>
-<p>32，你最喜欢的名字有哪些？<br>What are your favorite names?<br>卢梭、Arya</p>
-<p>33，你最不喜欢什么？<br>What is it that you most dislike?<br>浪费</p>
-<p>34，你希望以何种方式死去？<br>How would you like to die?<br>无憾</p>
-<p>35，你的座右铭是什么？<br>What is your motto?<br>折腾人生</p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[了解自己的锡伯血统 1]]></title>
-      <url>http://z.arlmy.me/Wiki/self/Self_Sibe_1.html</url>
-      <content type="html"><![CDATA[<p>姥姥是锡伯族人，本是地主阶级，邻里和谐。<br>解放时期姥姥改嫁给汉族人，民族就都变为了汉族。<br>我知晓的也只有这些。</p>
-<hr>
-<h2 id="锡伯族"><a href="#锡伯族" class="headerlink" title="锡伯族"></a>锡伯族</h2><p>现分布于辽吉黑、新疆和内蒙古。1990 年第四次人口普查共计 172932 人，其中辽宁 120196 人，抚顺 2942 人。</p>
-<p>17 世纪中叶以前，主要分布在大小兴安岭、松花江和嫩江平原（松嫩平原）；气候属寒温带—温带；盛产席北米；生活方式沿革为狩猎、畜牧和农业；17 世纪中叶后迁至辽宁辽河、浑河一带；1764 年清政府动员戍边，兵 1020 人及家属 3275 人迁至新疆伊犁。</p>
-<p>锡伯口语称“Siwe”，书面“Sibe”，锡伯，明时有此名。<br>西汉末年称须卜；东汉后称鲜卑、西卑、犀纰、私比、师比、胥纰；北魏、隋唐宋时称室韦、失韦、失围；元明时称失必、失必尔；明清后称实伯、斜婆、洗白、史伯、西伯、西北、席北、西僰(bo)、席百、席伯、锡北、锡卜、锡窝、锡伯</p>
-<h2 id="族源："><a href="#族源：" class="headerlink" title="族源："></a>族源：</h2><ol>
-<li>Sibe乃绰尔河的故名；</li>
-<li>室韦的后裔，属《辽史》中与黄头室韦一同征辽的臭泊部（室韦的一个部落）；</li>
-<li>鲜卑的遗民（居于嫩江、齐齐哈尔、伯都纳等地）</li>
-</ol>
-<p>鲜卑是东北古代少数民族的名称，或号“山戎”（鲜、山古时同音），属所谓“东胡”系统。<br>鲜卑分两族：拓拔鲜卑、东部鲜卑。东部鲜卑后融于汉；拓拔鲜卑后成五胡十六国，统一成北魏。</p>
-<p>沈阳锡伯家庙太平寺碑文：祖居海拉尔东南扎兰陀罗河流域（呼伦贝尔以东及嫩江西岸一带）<br>锡伯山（室韦山）Sibealin</p>
-<p>原来的文字是“呼杜木文”，形象与蒙古文相似<br>语言是“吉甫西语”，音调与达呼尔语相近<br>语序是：主语—宾语—谓语<br>现有新疆察布查尔锡伯自治县（新疆伊犁），住民晓锡伯语言和文字，并有报纸和书籍</p>
-<p>两祖：<br>男祖“海尔罕”（海尔堪玛法）<br>女祖“喜利妈妈”</p>
-<p>远方的族人<br><a href="/pics/Self_Sibe.png"><img src="/pics/Self_Sibe.png" alt="新疆伊犁"></a></p>
-]]></content>
-    </entry>
-    
-    <entry>
-      <title><![CDATA[了解自己的锡伯血统 2]]></title>
-      <url>http://z.arlmy.me/Wiki/self/Self_Sibe_2.html</url>
-      <content type="html"><![CDATA[<h2 id="饮食："><a href="#饮食：" class="headerlink" title="饮食："></a>饮食：</h2><p>主食：席北米（锡伯米）、面粉、大米、高粱米、发面饼、合子、玉米、稗(bai)子面、荞麦面、酸汤子、发面饼、死面饼、南瓜馅饺子、炸肉丸子<br>蔬菜：小白菜、韭菜、豇豆、菠菜、芸豆、茄子、土豆、黄瓜、辣椒、萝卜、芹菜、渍酸菜、腌咸菜<br>野菜：野芹菜、山蕨菜、小根菜、榆树钱、柳蒿菜、苦沫菜、婆婆丁（蒲公英）<br>其他：水豆腐、干豆腐、冻豆腐、豆腐脑、炒盐豆、大酱（米顺）、韭菜花酱、辣椒闷子</p>
-<h2 id="技艺："><a href="#技艺：" class="headerlink" title="技艺："></a>技艺：</h2><p>接骨、按摩、扎针、拔罐子</p>
-<h2 id="习俗："><a href="#习俗：" class="headerlink" title="习俗："></a>习俗：</h2><p>不食狗肉；喜“糊米水（高粱米炒糊后加水）”（有疗效）；猪血肠+蒜泥大葱；手包饺子</p>
-<h2 id="节日："><a href="#节日：" class="headerlink" title="节日："></a>节日：</h2><p>春节、元宵节、抹黑节、填仓节、龙抬头、清明、西迁节、端午、中秋<br>注，龙抬头：1.龙抬头、保丰收；2.请回女祖“喜利妈妈”</p>
-<h2 id="娱乐："><a href="#娱乐：" class="headerlink" title="娱乐："></a>娱乐：</h2><p>抓嘎拉哈、支大炮、跑马城</p>
-<h2 id="宗教："><a href="#宗教：" class="headerlink" title="宗教："></a>宗教：</h2><p>崇拜自然神<br>拜天地神、苗神、虫神、牲畜神、猎神、鱼神<br>拜门神、娘娘神（即喜利妈妈，古时有娘娘庙）</p>
-<h2 id="祖宗："><a href="#祖宗：" class="headerlink" title="祖宗："></a>祖宗：</h2><p>女祖：喜利妈妈（子孙妈妈、娘娘神），锡伯语为“延续”<br>男祖：海尔堪玛法，祖宗</p>
-]]></content>
     </entry>
     
   
