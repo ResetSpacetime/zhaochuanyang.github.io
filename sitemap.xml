@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20190615/</loc>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20190622/</loc>
     
-    <lastmod>2019-06-17T03:20:54.896Z</lastmod>
+    <lastmod>2019-06-25T06:50:22.737Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_190611.html</loc>
     
-    <lastmod>2019-06-17T02:52:05.268Z</lastmod>
+    <lastmod>2019-06-21T07:43:49.841Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Wiki/Friends_anway.html</loc>
+    
+    <lastmod>2019-06-21T07:37:47.514Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Wiki/index.html</loc>
+    
+    <lastmod>2019-06-20T03:56:56.494Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20190615/</loc>
+    
+    <lastmod>2019-06-17T03:20:54.896Z</lastmod>
     
   </url>
   
@@ -264,13 +285,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20190223/</loc>
     
     <lastmod>2019-02-25T13:28:16.103Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Wiki/index.html</loc>
-    
-    <lastmod>2019-02-20T04:55:52.476Z</lastmod>
     
   </url>
   
@@ -1241,6 +1255,13 @@
   </url>
   
   <url>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180918_ver0.html</loc>
+    
+    <lastmod>2018-09-23T01:01:47.077Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:01:47.077Z</lastmod>
@@ -1255,14 +1276,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180918_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:01:47.077Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180917_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:27.228Z</lastmod>
     
@@ -1276,16 +1290,9 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180917_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:27.228Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
   </url>
   
@@ -1304,6 +1311,20 @@
   </url>
   
   <url>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
+    
+    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0.html</loc>
+    
+    <lastmod>2018-09-23T01:00:22.021Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:00:22.021Z</lastmod>
@@ -1318,21 +1339,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:00:22.021Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180914_ver0.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180914_ver0.html</loc>
     
     <lastmod>2018-09-23T00:55:29.715Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180914_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180914_ver0.html</loc>
     
     <lastmod>2018-09-23T00:55:29.715Z</lastmod>
     
@@ -1412,13 +1426,6 @@
     <loc>http://z.arlmy.me/project/PublicBooks/index.html</loc>
     
     <lastmod>2018-09-01T15:13:51.347Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Wiki/Friends_anway.html</loc>
-    
-    <lastmod>2018-08-28T06:27:18.917Z</lastmod>
     
   </url>
   
