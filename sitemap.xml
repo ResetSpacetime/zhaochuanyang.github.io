@@ -2,9 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/2019/index.html</loc>
+    
+    <lastmod>2019-10-14T10:43:27.571Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/about/index.html</loc>
+    
+    <lastmod>2019-10-14T09:24:20.907Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_8x8DraftBeerFestival/</loc>
     
-    <lastmod>2019-10-12T11:55:50.733Z</lastmod>
+    <lastmod>2019-10-12T14:19:52.715Z</lastmod>
     
   </url>
   
@@ -110,13 +124,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20190831/</loc>
     
     <lastmod>2019-09-02T09:31:22.786Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/2019/index.html</loc>
-    
-    <lastmod>2019-08-27T09:00:56.679Z</lastmod>
     
   </url>
   
@@ -898,13 +905,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/about/index.html</loc>
-    
-    <lastmod>2018-12-24T01:22:29.177Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/project/FiveMornings/2018/FiveMornings_1119to1123.html</loc>
     
     <lastmod>2018-12-20T15:39:44.034Z</lastmod>
@@ -1591,13 +1591,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
@@ -1606,6 +1599,13 @@
   
   <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
+    
+    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
@@ -1675,13 +1675,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/Chat/Chat_SandD_20180713/</loc>
-    
-    <lastmod>2018-09-04T09:57:42.985Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/ZArlmyMe/Chat_SandD_20180713/</loc>
     
     <lastmod>2018-09-04T09:57:42.985Z</lastmod>
@@ -1689,14 +1682,21 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/Chat/Chat_SandZ_20180812/</loc>
+    <loc>http://z.arlmy.me/posts/Chat/Chat_SandD_20180713/</loc>
+    
+    <lastmod>2018-09-04T09:57:42.985Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/Chat_SandZ_20180812/</loc>
     
     <lastmod>2018-09-04T08:34:45.714Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/Chat_SandZ_20180812/</loc>
+    <loc>http://z.arlmy.me/posts/Chat/Chat_SandZ_20180812/</loc>
     
     <lastmod>2018-09-04T08:34:45.714Z</lastmod>
     
