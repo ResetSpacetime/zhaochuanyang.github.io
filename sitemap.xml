@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020/</loc>
+    
+    <lastmod>2020-01-06T14:12:14.062Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2019/</loc>
+    
+    <lastmod>2020-01-06T14:12:03.200Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2018/</loc>
+    
+    <lastmod>2020-01-06T14:11:59.970Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2018/</loc>
+    
+    <lastmod>2020-01-06T14:11:25.818Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2008_Albums/</loc>
+    
+    <lastmod>2020-01-06T14:11:22.849Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_3_20191226/</loc>
     
     <lastmod>2020-01-06T03:55:48.518Z</lastmod>
@@ -264,13 +299,6 @@
     <loc>http://z.arlmy.me/posts/Note/Contents_RaymondQueneau_ExercicesdeStyle/</loc>
     
     <lastmod>2019-12-11T11:37:46.184Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/BigIssues_20190813/</loc>
-    
-    <lastmod>2019-12-11T01:24:58.606Z</lastmod>
     
   </url>
   
@@ -1297,13 +1325,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2018/</loc>
-    
-    <lastmod>2019-01-01T01:20:26.781Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2018/MastodonTootsArchives_20181229/</loc>
     
     <lastmod>2018-12-31T16:06:15.596Z</lastmod>
@@ -1934,14 +1955,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/AStoryOfDeath_try2.html</loc>
+    <loc>http://z.arlmy.me/drafts/AStoryOfDeath_try2.html</loc>
     
     <lastmod>2018-09-24T23:39:07.094Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/AStoryOfDeath_try2.html</loc>
+    <loc>http://z.arlmy.me/Writing/AStoryOfDeath_try2.html</loc>
     
     <lastmod>2018-09-24T23:39:07.094Z</lastmod>
     
@@ -1997,7 +2018,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180918_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:47.077Z</lastmod>
     
@@ -2011,7 +2032,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180918_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:47.077Z</lastmod>
     
@@ -2039,6 +2060,13 @@
   </url>
   
   <url>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
+    
+    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
@@ -2053,14 +2081,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180916_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:00:47.264Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180915_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:00:22.021Z</lastmod>
     
@@ -2074,7 +2095,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0%20-%20Copy.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180915_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:22.021Z</lastmod>
     
@@ -4513,13 +4534,6 @@
     <loc>http://z.arlmy.me/posts/1107/1107_2008/</loc>
     
     <lastmod>2017-09-28T09:53:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2008_Albums/</loc>
-    
-    <lastmod>2017-09-28T09:48:35.000Z</lastmod>
     
   </url>
   
