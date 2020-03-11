@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://z.arlmy.me/"/>
-  <updated>2020-03-11T08:49:20.101Z</updated>
+  <updated>2020-03-11T14:31:02.325Z</updated>
   <id>http://z.arlmy.me/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo 使用 Clustrmaps 以地图图示显示访客</title>
+    <link href="http://z.arlmy.me/posts/hexo/Hexo_Clustrmaps/"/>
+    <id>http://z.arlmy.me/posts/hexo/Hexo_Clustrmaps/</id>
+    <published>2020-03-11T09:58:28.000Z</published>
+    <updated>2020-03-11T14:31:02.325Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="缘起"><a href="#缘起" class="headerlink" title="缘起"></a>缘起</h2><p>在网上乱逛时遇到，觉得不赖，拿来调试下用了。以前的博客平台里，常常自带这种插件。觉得很怀旧！</p><p>样式不太满意，于是不想把它显示出来，用比较鸡贼的方式隐藏了，然后再去官网看数据。如果想把它显示出来的话，本方法就不太适用了，你可能需要再自己折腾折腾。</p><h2 id="操作步骤"><a href="#操作步骤" class="headerlink" title="操作步骤"></a>操作步骤</h2><h3 id="注册"><a href="#注册" class="headerlink" title="注册"></a>注册</h3><p>在<a href="https://clustrmaps.com/" target="_blank" rel="noopener">Clustrmaps.com | Free Website Counter Showing Visitor Location on Map</a>注册，我没有太仔细地看注册条款，此网站有可能会调取、使用访问数据，如介意请勿用。</p><h3 id="自定义代码"><a href="#自定义代码" class="headerlink" title="自定义代码"></a>自定义代码</h3><ol><li>右上角点击<code>Create Your Widget</code>，提交博客域名，选择样式，即创建成功；</li><li>右上角点击头像，下拉菜单选<code>My Websites</code>，点击<code>Customize</code>；</li><li>Size 项点选<code>Custom Size</code>；</li><li>Widget Colors 项将所有颜色改为纯白，即<code>#ffffff</code>；</li><li>在 Widget Code 项选<code>Javascript based</code>，复制 JS 代码。</li></ol><h3 id="修改-layout-文件"><a href="#修改-layout-文件" class="headerlink" title="修改 layout 文件"></a>修改 layout 文件</h3><ol><li>在<a href="http://html2jade.org/" target="_blank" rel="noopener">HTML2Jade</a>转换格式；</li><li>在博客目录下<code>目录\themes\maupassant\layout\_partial</code>找到<code>footer.jade</code>，最后一行粘贴 jade 代码，本行代码前应有<strong>两个空格缩进</strong>；</li><li>在这段代码中找到<code>w=300</code>，将其改为<code>w=1</code>，在网站上是不允许修改的，鸡贼就鸡贼在这里啦（这样就看不见了嘛……）</li></ol><h3 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h3><p><code>hexo g -d</code> 你懂的</p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><ol><li>可以收藏一个链接（每个站点都有一个固定地址可以查看访问数据），放在友情链接里，方便想起时查看；</li><li>同样道理代码也可以放在其他 jade 文件里，我觉得放在页脚比较神不知鬼不觉，不过最好不要放在 <code>head.jade</code> 里，因为会影响页面加载速度；</li><li>在页脚用鼠标试试，你可以找到那个可以点击的像素点的！</li><li>如果您有不鸡贼的方法，在此特求指教一二！</li></ol><hr><p>CHANGELOG</p><ul><li>20200311 Arlmy 创建</li><li>20200311 Arlmy 撰写、发布</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      「折腾了一个地图插件，统计、显示访客。」
+    
+    </summary>
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/categories/Hexo/"/>
+    
+    
+      <category term="Hexo" scheme="http://z.arlmy.me/tags/Hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>摘录：石康的微博（续）</title>
@@ -895,26 +917,6 @@
   </entry>
   
   <entry>
-    <title>存链</title>
-    <link href="http://z.arlmy.me/posts/PageAndToolLinks/"/>
-    <id>http://z.arlmy.me/posts/PageAndToolLinks/</id>
-    <published>2019-10-23T02:19:03.000Z</published>
-    <updated>2019-12-30T03:42:40.906Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a>Reading</h2><ul><li><a href="http://epaper.bjnews.com.cn/" target="_blank" rel="noopener">新京报电子报</a></li><li><a href="https://volmoe.com/" target="_blank" rel="noopener">Vol.moe 漫画、电子书</a></li><li><a href="https://www.mckinsey.com/featured-insights" target="_blank" rel="noopener">Explore our featured insights | McKinsey &amp; Company</a></li></ul><h2 id="Cool-Sites"><a href="#Cool-Sites" class="headerlink" title="Cool Sites"></a>Cool Sites</h2><ul><li><a href="https://histography.io/" target="_blank" rel="noopener">Histography - Timeline of History</a></li><li><a href="http://www.fs7000.com/" target="_blank" rel="noopener">抚顺七千年 挖掘抚顺历史文化</a></li><li><a href="https://survivalblog.com/redoubt/" target="_blank" rel="noopener">Introduction to The American Redoubt Internal Migration Movement - James Wesley Rawles</a></li><li><a href="https://www.allhistory.com/" target="_blank" rel="noopener">全历史</a></li></ul><h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><h3 id="Global"><a href="#Global" class="headerlink" title="Global"></a>Global</h3><ul><li><a href="https://cn.nytimes.com/" target="_blank" rel="noopener">纽约时报中文网 国际纵览</a></li></ul><h3 id="Industry"><a href="#Industry" class="headerlink" title="Industry"></a>Industry</h3><ul><li><a href="http://www.767stock.com/" target="_blank" rel="noopener">乐晴智库 | 深度行业研究</a></li></ul><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><ul><li><a href="https://write.as/" target="_blank" rel="noopener">在线写作 - write.as</a></li><li><a href="https://www.remove.bg/zh" target="_blank" rel="noopener">删除图像中的背景 – remove.bg</a></li></ul><h2 id="Articles"><a href="#Articles" class="headerlink" title="Articles"></a>Articles</h2><ul><li><a href="https://panamapapers.sueddeutsche.de/articles/572c897a5632a39742ed34ef/" target="_blank" rel="noopener">Panama Papers: John Doe&#39;s Manifesto</a></li><li><a href="https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/" target="_blank" rel="noopener">Three Big Things: The Most Important Forces Shaping the World · Collaborative Fund</a></li><li><a href="https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html" target="_blank" rel="noopener">Martin Scorsese: I Said Marvel Movies Aren&#39;t Cinema. Let Me Explain</a></li><li><a href="https://scrapsfromtheloft.com/2017/04/11/dave-chappelle-age-spin-2017-full-transcript/" target="_blank" rel="noopener">DAVE CHAPPELLE: THE AGE OF SPIN (2017) - Full Transcript - Scraps from the loft</a></li></ul><h2 id="HK"><a href="#HK" class="headerlink" title="HK"></a>HK</h2><ul><li><a href="https://news.mingpao.com/ins/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/main" target="_blank" rel="noopener">即時新聞 - 明報新聞網</a></li></ul><h2 id="People"><a href="#People" class="headerlink" title="People"></a>People</h2><ul><li><a href="https://www.linkedin.com/in/raydalio/" target="_blank" rel="noopener">Ray Dalio | LinkedIn</a></li><li><a href="https://www.linkedin.com/in/harryshum/" target="_blank" rel="noopener">Harry Shum | LinkedIn</a></li><li><a href="https://www.linkedin.com/in/williamhgates/" target="_blank" rel="noopener">Bill Gates | LinkedIn</a></li></ul><h2 id="Art"><a href="#Art" class="headerlink" title="Art"></a>Art</h2><h3 id="Photographer"><a href="#Photographer" class="headerlink" title="Photographer"></a>Photographer</h3><ul><li><a href="https://www.instagram.com/pinkhassov/" target="_blank" rel="noopener">Gueorgui Pinkhassov | Instagram</a></li><li><a href="https://www.instagram.com/paoloraeli/" target="_blank" rel="noopener">Paolo Raeli | Instagram</a></li></ul><h2 id="Beer"><a href="#Beer" class="headerlink" title="Beer"></a>Beer</h2><ul><li><a href="https://www.ratebeer.com/" target="_blank" rel="noopener">RateBeer 欧洲较好</a></li><li><a href="https://www.beeradvocate.com/" target="_blank" rel="noopener">BeerAdvocate 主面美国，论坛更佳</a></li><li><a href="https://untappd.com/" target="_blank" rel="noopener">Untappd</a></li></ul><h2 id="Architecture"><a href="#Architecture" class="headerlink" title="Architecture"></a>Architecture</h2><ul><li><a href="https://www.dezeen.com/" target="_blank" rel="noopener">Dezeen | architecture and design magazine</a></li></ul><hr><p>CHANGLOG</p><ul><li>191121 Arlmy 创建、发布</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      「便于检索存档。」
-    
-    </summary>
-    
-    
-      <category term="Links" scheme="http://z.arlmy.me/tags/Links/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Bye Bye Beijing Project</title>
     <link href="http://z.arlmy.me/posts/BBBP/BBBP_1/"/>
     <id>http://z.arlmy.me/posts/BBBP/BBBP_1/</id>
@@ -931,6 +933,26 @@
     
     
       <category term="BBBP" scheme="http://z.arlmy.me/tags/BBBP/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>存链</title>
+    <link href="http://z.arlmy.me/posts/PageAndToolLinks/"/>
+    <id>http://z.arlmy.me/posts/PageAndToolLinks/</id>
+    <published>2019-10-23T02:19:03.000Z</published>
+    <updated>2019-12-30T03:42:40.906Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Reading"><a href="#Reading" class="headerlink" title="Reading"></a>Reading</h2><ul><li><a href="http://epaper.bjnews.com.cn/" target="_blank" rel="noopener">新京报电子报</a></li><li><a href="https://volmoe.com/" target="_blank" rel="noopener">Vol.moe 漫画、电子书</a></li><li><a href="https://www.mckinsey.com/featured-insights" target="_blank" rel="noopener">Explore our featured insights | McKinsey &amp; Company</a></li></ul><h2 id="Cool-Sites"><a href="#Cool-Sites" class="headerlink" title="Cool Sites"></a>Cool Sites</h2><ul><li><a href="https://histography.io/" target="_blank" rel="noopener">Histography - Timeline of History</a></li><li><a href="http://www.fs7000.com/" target="_blank" rel="noopener">抚顺七千年 挖掘抚顺历史文化</a></li><li><a href="https://survivalblog.com/redoubt/" target="_blank" rel="noopener">Introduction to The American Redoubt Internal Migration Movement - James Wesley Rawles</a></li><li><a href="https://www.allhistory.com/" target="_blank" rel="noopener">全历史</a></li></ul><h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><h3 id="Global"><a href="#Global" class="headerlink" title="Global"></a>Global</h3><ul><li><a href="https://cn.nytimes.com/" target="_blank" rel="noopener">纽约时报中文网 国际纵览</a></li></ul><h3 id="Industry"><a href="#Industry" class="headerlink" title="Industry"></a>Industry</h3><ul><li><a href="http://www.767stock.com/" target="_blank" rel="noopener">乐晴智库 | 深度行业研究</a></li></ul><h2 id="Tools"><a href="#Tools" class="headerlink" title="Tools"></a>Tools</h2><ul><li><a href="https://write.as/" target="_blank" rel="noopener">在线写作 - write.as</a></li><li><a href="https://www.remove.bg/zh" target="_blank" rel="noopener">删除图像中的背景 – remove.bg</a></li></ul><h2 id="Articles"><a href="#Articles" class="headerlink" title="Articles"></a>Articles</h2><ul><li><a href="https://panamapapers.sueddeutsche.de/articles/572c897a5632a39742ed34ef/" target="_blank" rel="noopener">Panama Papers: John Doe&#39;s Manifesto</a></li><li><a href="https://www.collaborativefund.com/blog/three-big-things-the-most-important-forces-shaping-the-world/" target="_blank" rel="noopener">Three Big Things: The Most Important Forces Shaping the World · Collaborative Fund</a></li><li><a href="https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html" target="_blank" rel="noopener">Martin Scorsese: I Said Marvel Movies Aren&#39;t Cinema. Let Me Explain</a></li><li><a href="https://scrapsfromtheloft.com/2017/04/11/dave-chappelle-age-spin-2017-full-transcript/" target="_blank" rel="noopener">DAVE CHAPPELLE: THE AGE OF SPIN (2017) - Full Transcript - Scraps from the loft</a></li></ul><h2 id="HK"><a href="#HK" class="headerlink" title="HK"></a>HK</h2><ul><li><a href="https://news.mingpao.com/ins/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/main" target="_blank" rel="noopener">即時新聞 - 明報新聞網</a></li></ul><h2 id="People"><a href="#People" class="headerlink" title="People"></a>People</h2><ul><li><a href="https://www.linkedin.com/in/raydalio/" target="_blank" rel="noopener">Ray Dalio | LinkedIn</a></li><li><a href="https://www.linkedin.com/in/harryshum/" target="_blank" rel="noopener">Harry Shum | LinkedIn</a></li><li><a href="https://www.linkedin.com/in/williamhgates/" target="_blank" rel="noopener">Bill Gates | LinkedIn</a></li></ul><h2 id="Art"><a href="#Art" class="headerlink" title="Art"></a>Art</h2><h3 id="Photographer"><a href="#Photographer" class="headerlink" title="Photographer"></a>Photographer</h3><ul><li><a href="https://www.instagram.com/pinkhassov/" target="_blank" rel="noopener">Gueorgui Pinkhassov | Instagram</a></li><li><a href="https://www.instagram.com/paoloraeli/" target="_blank" rel="noopener">Paolo Raeli | Instagram</a></li></ul><h2 id="Beer"><a href="#Beer" class="headerlink" title="Beer"></a>Beer</h2><ul><li><a href="https://www.ratebeer.com/" target="_blank" rel="noopener">RateBeer 欧洲较好</a></li><li><a href="https://www.beeradvocate.com/" target="_blank" rel="noopener">BeerAdvocate 主面美国，论坛更佳</a></li><li><a href="https://untappd.com/" target="_blank" rel="noopener">Untappd</a></li></ul><h2 id="Architecture"><a href="#Architecture" class="headerlink" title="Architecture"></a>Architecture</h2><ul><li><a href="https://www.dezeen.com/" target="_blank" rel="noopener">Dezeen | architecture and design magazine</a></li></ul><hr><p>CHANGLOG</p><ul><li>191121 Arlmy 创建、发布</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      「便于检索存档。」
+    
+    </summary>
+    
+    
+      <category term="Links" scheme="http://z.arlmy.me/tags/Links/"/>
     
   </entry>
   
@@ -991,26 +1013,6 @@
     
       <category term="渴望生活" scheme="http://z.arlmy.me/categories/%E6%B8%B4%E6%9C%9B%E7%94%9F%E6%B4%BB/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>Toots 2019 Sep.29 - Oct.5</title>
-    <link href="http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20191005/"/>
-    <id>http://z.arlmy.me/posts/MastodonArchives/2019/MastodonTootsArchives_20191005/</id>
-    <published>2019-10-08T11:58:07.000Z</published>
-    <updated>2019-10-11T07:15:35.958Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Sep-29"><a href="#Sep-29" class="headerlink" title="Sep.29"></a>Sep.29</h2><ul><li>虚假虚构意义</li><li>微观假象，宏观兴奋</li><li>开疆拓土</li><li>前置 AI 替你听歌</li><li>“2017 年，在全国小学生数年均增长为 2.1% 的背景下，一二三线城市小学生数年均增速分别为 2.4%、4.6%、3.3%，一线城市因房价高企、学位供需紧张等因素而增速低于二三线城市，四五六线城市小学生年均增速分别为 2.6%、1.3%、0.6%”</li><li>北京站下了半车人</li><li>花坛旁边学了下阿姨们的摆拍姿势</li><li>青年店铺创意商品销售，四川省，全屋定制、装修设计、书籍/杂志，对味！</li><li>一个女娃对着老爸喊，快点快点！老爸一步上前半跪，系起了鞋带</li><li>冷萃蜜桃乌龙茶，制造商，杭州千岛湖啤酒有限公司</li><li>连喝三天北平机器的幻想破灭了</li><li>东大桥等彩灯酱</li><li>剑南春，浓香型，四川绵竹</li><li>八成，也已是语言天才的上限</li><li>陈楸帆品味确实不行</li></ul><h2 id="Sep-30"><a href="#Sep-30" class="headerlink" title="Sep.30"></a>Sep.30</h2><ul><li>智利中部沿岸近海发生 6.7 级地震，发震时刻 (UTC+8) 2019-09-29 23:57:53</li><li>两个说普通话的中国人面对面，语言不通</li><li>内在统一</li><li>这面馆面量太惊人了</li><li>“辣子是驴拉石碾辣子，就是驴碾的辣椒面儿！”</li><li>我太难了 那我完了</li></ul><h2 id="Oct-1"><a href="#Oct-1" class="headerlink" title="Oct.1"></a>Oct.1</h2><ul><li>花车还没从工体离开</li><li>祖传微生物</li><li>符号大赏</li><li>用华为荣耀的人真多</li><li>对红旗的感情，似乎代代不同</li><li>做事 定会翻身</li><li>“关键抉择”</li><li>真是面面俱到</li><li>浪上乌篷船 23333</li><li>结构决定的牺牲、奉献、付出</li><li>让领导先走</li><li>挺好，目测变成了在线招亲直播</li><li>解构能力世界一流</li><li>“They Could Feel The End Of All Things”</li><li>Your High Five Laugh Makes Me Laugh</li><li>宋家庄也封闭（捂脸</li><li>转一圈发现只有满福楼没关门 23333</li><li>边界处的离心力</li><li>一种技能的专精</li><li>底层近核心 vs 高层远核心</li><li>直播才有事故</li></ul><h2 id="Oct-2"><a href="#Oct-2" class="headerlink" title="Oct.2"></a>Oct.2</h2><ul><li>衣着是什么</li><li>口干，太阳穴钝痛，无梦</li><li>越牛逼的越容易傻逼</li><li>还是道教够贴地气</li><li>路标关键票</li><li>一般没有一瞬之间，多数是后知后觉</li><li>269 arrested.</li><li>真谛门不开，已是私人宅邸</li><li>对于“什么是重要的”的重要意见</li></ul><h2 id="Oct-3"><a href="#Oct-3" class="headerlink" title="Oct.3"></a>Oct.3</h2><ul><li>(Chat) （两位黑兄弟在电梯里问候）<ul><li>Bonjour</li><li>Bonjour</li><li>咋了</li><li>没啥</li></ul></li><li>香水之下</li><li>已遇两拨 95 后吕孩纸边走边讨论脱发</li><li>不知不觉就装起逼来，真是种族天赋</li><li>起来拍照，坐下删照，连上 WiFi 发票圈</li><li>奶茶圆脸</li><li>莫名比较喜欢小镇青年穿着的直接</li><li>机长是讲川航哇</li><li>“宁渣勿娘” 2333</li><li>宋佳好适合这种角色</li><li>勐巴拉娜西</li><li>我记事差真是随我妈</li><li>同事吧，还是只聊工作比较好</li><li>有趣的行为与有趣的无知</li><li>有趣地莫名其妙</li><li>不想第一，但想如何做好</li></ul><h2 id="Oct-4"><a href="#Oct-4" class="headerlink" title="Oct.4"></a>Oct.4</h2><ul><li>很少关注所谓“内核”了，因为本就道不清楚</li><li>八卦量刑司</li><li>“都在酒里了，建交成功”</li><li>目前还是反过来搞，逆反感，但马上就会有新的形式了</li><li>大大领先，导致奇迹，导致新意</li><li>你是你妈，我是我爸</li><li>目前还没有谈及离开</li><li>谁能 AR 弄个北京城墙出来呢？昨天电影里看到长安左门和长安右门时，还挺激动的</li><li>俩位老妈都对豆汁皱起了眉头</li><li>净党 vs 脏党</li><li>云海子</li><li>高大师月蚀帝国世涛，只喝到了两口</li><li>纪念第一杯兰比克 style</li><li>复杂的空气发酵，复杂酵母，复杂中变成的平衡，美妙</li></ul><h2 id="Oct-5"><a href="#Oct-5" class="headerlink" title="Oct.5"></a>Oct.5</h2><ul><li>那人，似乎即将死去一般，炫彩的背景像是祭奠上的花篮</li><li>无法表达的箴言</li><li>向心力丧失根基，于是开始铸造边沿</li><li>一实一圈</li><li>梦。飞机上，不停有人给我让座。</li><li>无名儿艺术，没名儿生煎</li><li>相机锤</li><li>命票，寿金，心证</li><li>导游难有记录癖</li><li>并不刻意去维护哪个概念，也无所谓共同体，能连接所能连接的线索，就完满</li><li>历史的结构</li><li>统治形式的领先设计</li><li>(Noname)<ul><li>黑色闪电</li><li>刀枪流血</li></ul></li><li>“（因纽特人的一个词）直译是：看到一个熟悉的朋友做出极为陌生的事。指在家里感到乡愁。许多原住民如今正在为消失的生活方式而哀悼。”</li></ul><h2 id="From-Lili"><a href="#From-Lili" class="headerlink" title="From Lili"></a>From Lili</h2><ul><li>(Sep.29)<ul><li>穿成喜庆的小彩灯迎接母上大人的到来…  <a href="https://pawoo.net/media/XTkmcVXpLut6k2bhB1o" target="_blank" rel="noopener">https://pawoo.net/media/XTkmcVXpLut6k2bhB1o</a></li></ul></li><li>(Sep.30)<ul><li>雕刻时光的喵子。  <a href="https://pawoo.net/media/5AoeSxdG6ISz39nQ6zY" target="_blank" rel="noopener">https://pawoo.net/media/5AoeSxdG6ISz39nQ6zY</a></li></ul></li><li>(Oct.1)<ul><li>SKP停坦克，工体停花车。现在花车出动了，父上母上大人们一大早就穿着红衣服下楼蹲点等着看去了…</li><li>刚想横眉竖眼骂A君眼瞎，突然反应过来我爸在旁边、赶紧换成笑脸，柔声比出“你瞎吗？”的口型，A君嬉皮笑脸非说我在说擦浪嘿呦</li></ul></li></ul><hr><p>CHANGLOG</p><ul><li>191008 Arlmy 创建、整理</li><li>191008 Arlmy 发布</li></ul>]]></content>
-    
-    <summary type="html">
-    
-      「周更话痨日常。」
-    
-    </summary>
-    
-    
-      <category term="Mastodon" scheme="http://z.arlmy.me/tags/Mastodon/"/>
     
   </entry>
   
