@@ -249,9 +249,9 @@ div {
         padding-bottom: 2px;
         word-break: break-all;
         text-decoration: none;
-        border-bottom: 1px solid; }
-      .post .post-content p sup a {
-        border-bottom: none; }
+        border-bottom: 0.5px solid; }
+        .post .post-content p a:hover {
+          border-bottom: none; }
     .post .post-content .caption {
       color: #444;
       display: block;
@@ -283,9 +283,10 @@ div {
         color: #444;
         padding-bottom: 2px;
         word-break: break-all;
-        text-decoration: none; }
+        text-decoration: none;
+        border-bottom: 0.5px solid; }
         .post .post-content ul a:hover, .post .post-content ol a:hover {
-          text-decoration: underline; }
+          border-bottom: none; }
   .post .tags {
     padding-bottom: 1em; }
     .post .tags a {
