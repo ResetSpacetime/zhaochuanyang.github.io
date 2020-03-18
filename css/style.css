@@ -252,6 +252,8 @@ div {
         border-bottom: 1px solid; }
         .post .post-content p a:hover {
           text-decoration: none; }
+        .post .post-content p a sup a {
+          border-bottom: none; }
     .post .post-content .caption {
       color: #444;
       display: block;
