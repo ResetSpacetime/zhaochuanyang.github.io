@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200404/</loc>
+    
+    <lastmod>2020-04-04T10:40:54.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020_2/</loc>
+    
+    <lastmod>2020-04-04T10:28:45.556Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/2020/index.html</loc>
+    
+    <lastmod>2020-04-04T10:04:32.126Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200331/</loc>
+    
+    <lastmod>2020-04-04T10:03:35.903Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020_1/</loc>
+    
+    <lastmod>2020-04-03T04:37:01.355Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/project/FiveMornings/index.html</loc>
     
     <lastmod>2020-04-01T05:53:40.633Z</lastmod>
@@ -19,27 +54,6 @@
     <loc>http://z.arlmy.me/project/FiveMornings/2020/FiveMornings_0323to0327.html</loc>
     
     <lastmod>2020-04-01T05:47:25.487Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020_1/</loc>
-    
-    <lastmod>2020-04-01T05:45:16.711Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020_2/</loc>
-    
-    <lastmod>2020-04-01T05:44:51.658Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/BigIssues/BigIssues_2020/</loc>
-    
-    <lastmod>2020-04-01T05:41:41.979Z</lastmod>
     
   </url>
   
@@ -68,13 +82,6 @@
     <loc>http://z.arlmy.me/posts/hexo/Hexo_Valine/</loc>
     
     <lastmod>2020-03-27T05:04:28.032Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/2020/index.html</loc>
-    
-    <lastmod>2020-03-27T04:43:32.901Z</lastmod>
     
   </url>
   
@@ -2368,14 +2375,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:01:47.077Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0%20-%20Copy.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180918_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:47.077Z</lastmod>
     
@@ -2410,14 +2417,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
@@ -2438,13 +2445,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180915_ver0.html</loc>
-    
-    <lastmod>2018-09-23T01:00:22.021Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180915_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:22.021Z</lastmod>
@@ -2452,14 +2452,21 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180914_ver0.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180915_ver0.html</loc>
+    
+    <lastmod>2018-09-23T01:00:22.021Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180914_ver0.html</loc>
     
     <lastmod>2018-09-23T00:55:29.715Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180914_ver0.html</loc>
+    <loc>http://z.arlmy.me/Writing/posted/Japan_20180914-20180918/20180914_ver0.html</loc>
     
     <lastmod>2018-09-23T00:55:29.715Z</lastmod>
     
