@@ -24,7 +24,8 @@ body {
   font-family: "思源宋体 CN", "source-han-serif-sc", serif, "TIBch", "Classic Grotesque W01", "Helvetica Neue", Arial, "Hiragino Sans GB", "STHeiti", "Microsoft YaHei", "WenQuanYi Micro Hei", SimSun, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 14px; }
+  font-size: 14px;
+  font-display: swap; }
 
 .body_container {
   padding: 0 60px;
@@ -96,6 +97,7 @@ div {
 
 #sidebar {
   font-family: "思源宋体 CN", "source-han-serif-sc", serif;
+  font-display: swap;
   font-weight: 500;
   border-left: 1px solid #ddd;
   padding-left: 35px;
@@ -172,6 +174,7 @@ div {
     font: bold 36px/1.1;
     font-family: "思源宋体 CN", "source-han-serif-sc", serif, "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif;
     font-style: normal;
+    font-display: swap;
     font-weight: 700; }
     .post .post-title a {
       color: #555; }
