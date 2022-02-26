@@ -174,7 +174,7 @@ div {
     margin: 0;
     color: #555;
     text-align: left;
-    font: bold 30px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
+    font: bold 30px/1.1 "source-han-serif-sc", serif, Helvetica, "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
     .post .post-title a {
       color: #555; }
   .post .post-meta {
@@ -384,7 +384,7 @@ div {
   padding-bottom: .8em; }
   .post-archive h2 {
     margin: 0;
-    font: bold 27px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif, "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
+    font: bold 27px/1.1 "source-han-serif-sc", serif, Helvetica, "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif, "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
   .post-archive .date {
     padding-right: .7em; }
 
