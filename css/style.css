@@ -20,12 +20,12 @@ textarea,
 .MJXc-TeX-unknown-R,
 .pure-g [class*="pure-u"] {
   /* Set your content font stack here: */
-  font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif !important; }
+  font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei" !important; }
 
 body {
   background-color: #FFF;
   color: #444;
-  font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif;
+  font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px; }
@@ -110,7 +110,7 @@ div {
     margin-bottom: 30px; }
     #sidebar .widget .widget-title {
       color: #6E7173;
-      font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif;
+      font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei";
       line-height: 2.7;
       margin-top: 0;
       font-size: 16px;
@@ -401,7 +401,7 @@ div {
   #header .site-name {
     margin-bottom: 20px;
     text-align: center;
-    font-family: "PingFang SC", "Noto Sans CJK", "Source Han Sans", "Microsoft Yahei", "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
+    font-family: "source-han-serif-sc", serif, "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
   #header #nav-menu {
     position: relative;
     text-align: center; }
