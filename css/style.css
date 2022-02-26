@@ -74,7 +74,7 @@ div {
       height: 0;
       overflow: hidden; }
     #header .site-name #logo {
-      font: bold 43px/1.12 "Times New Roman", Georgia, Times, sans-serif;
+      font: bold 43px/1.12 "source-han-serif-sc", serif, "Times New Roman", Georgia, Times, sans-serif;
       color: #555; }
       #header .site-name #logo span, #header .site-name #logo:hover {
         color: #777; }
@@ -117,6 +117,8 @@ div {
       border-bottom: 1px solid #ddd;
       display: block;
       font-weight: normal; }
+    #sidebar .widget .fa {
+      font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei"; }
     #sidebar .widget .comments-title {
       color: #6E7173;
       line-height: 2.7;
@@ -373,7 +375,7 @@ div {
   line-height: 2.5;
   color: #6E7173;
   text-align: center;
-  font: bold; }
+  font-weight: 500; }
   #footer span {
     font-size: .9em; }
 
