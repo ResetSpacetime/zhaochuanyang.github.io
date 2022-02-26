@@ -74,7 +74,7 @@ div {
       height: 0;
       overflow: hidden; }
     #header .site-name #logo {
-      font: bold 38px/1.12 "Times New Roman", Georgia, Times, sans-serif;
+      font: bold 43px/1.12 "Times New Roman", Georgia, Times, sans-serif;
       color: #555; }
       #header .site-name #logo span, #header .site-name #logo:hover {
         color: #777; }
@@ -174,7 +174,7 @@ div {
     margin: 0;
     color: #555;
     text-align: left;
-    font: bold 25px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
+    font: bold 30px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
     .post .post-title a {
       color: #555; }
   .post .post-meta {
@@ -224,7 +224,7 @@ div {
       color: #444; }
   .post .post-content {
     clear: left;
-    font-size: 15px;
+    font-size: 17px;
     line-height: 1.77;
     color: #444;
     padding-top: 15px;
@@ -372,7 +372,8 @@ div {
   margin-top: 1em;
   line-height: 2.5;
   color: #6E7173;
-  text-align: center; }
+  text-align: center;
+  font: bold; }
   #footer span {
     font-size: .9em; }
 
@@ -383,7 +384,7 @@ div {
   padding-bottom: .8em; }
   .post-archive h2 {
     margin: 0;
-    font: bold 25px / 1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif; }
+    font: bold 27px/1.1 "ff-tisa-web-pro", Cambria, "Times New Roman", Georgia, Times, sans-serif, "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
   .post-archive .date {
     padding-right: .7em; }
 
