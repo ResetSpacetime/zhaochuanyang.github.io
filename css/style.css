@@ -20,12 +20,12 @@ textarea,
 .MJXc-TeX-unknown-R,
 .pure-g [class*="pure-u"] {
   /* Set your content font stack here: */
-  font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei" !important; }
+  font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif !important; }
 
 body {
   background-color: #FFF;
   color: #444;
-  font-family: "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei";
+  font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 14px; }
@@ -110,6 +110,7 @@ div {
     margin-bottom: 30px; }
     #sidebar .widget .widget-title {
       color: #6E7173;
+      font-family: Helvetica, "Helvetica Neue", "Segoe UI", "Hiragino Sans GB", "Source Han Sans CN", "Microsoft YaHei", "STHeiti", "WenQuanYi Micro Hei", "source-han-serif-sc", serif;
       line-height: 2.7;
       margin-top: 0;
       font-size: 16px;
@@ -249,11 +250,13 @@ div {
         background: #f7f8f8;
         font-family: Menlo, Consolas, monospace !important; }
       .post .post-content p a {
-        color: #01579f;
+        color: #444;
         padding-bottom: 2px;
-        word-break: normal; }
+        word-break: break-all;
+        text-decoration: none;
+        border-bottom: 0.5px solid; }
         .post .post-content p a:hover {
-          text-decoration: underline; }
+          border-bottom: none; }
     .post .post-content .caption {
       color: #444;
       display: block;
@@ -287,12 +290,14 @@ div {
         font-family: Menlo, Consolas, monospace !important; }
       .post .post-content ul a,
       .post .post-content ol a {
-        color: #01579f;
+        color: #444;
         padding-bottom: 2px;
-        word-break: normal; }
+        word-break: break-all;
+        text-decoration: none;
+        border-bottom: 0.5px solid; }
         .post .post-content ul a:hover,
         .post .post-content ol a:hover {
-          text-decoration: underline; }
+          border-bottom: none; }
     .post .post-content .tagcloud {
       margin: 0 0 30px 0; }
       .post .post-content .tagcloud a {
@@ -395,7 +400,8 @@ div {
     border-left-width: 0px; }
   #header .site-name {
     margin-bottom: 20px;
-    text-align: center; }
+    text-align: center;
+    font-family: "PingFang SC", "Noto Sans CJK", "Source Han Sans", "Microsoft Yahei", "source-han-serif-sc", serif, Helvetica, "Helvetica Neue", "Segoe UI"; }
   #header #nav-menu {
     position: relative;
     text-align: center; }
@@ -1385,6 +1391,14 @@ table {
     border-bottom: 2px solid #909ba2; }
   table td {
     padding: 5px 10px; }
+    table td a {
+      color: #444;
+      padding-bottom: 2px;
+      word-break: break-all;
+      text-decoration: none;
+      border-bottom: 0.5px solid; }
+      table td a:hover {
+        border-bottom: none; }
   table tr:nth-child(2n) {
     background: #f7f8f8; }
 
@@ -1583,3 +1597,15 @@ html[data-dark='true'] {
   display: flex;
   justify-content: center;
   align-items: center; }
+
+/* hypothes.is hypothesis highlight style */
+.hypothesis-highlight {
+  font-weight: bold;
+  padding-bottom: 2px;
+  word-break: break-all;
+  text-decoration: none;
+  border-bottom: 0.5px solid;
+  background: linear-gradient(white 20%, #fcf69a 43%, white 90%); }
+  .hypothesis-highlight:hover {
+    font-weight: normal;
+    border-bottom-style: none; }
