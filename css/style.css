@@ -1606,7 +1606,7 @@ html[data-dark='true'] {
   word-break: break-all;
   text-decoration: none;
   border-bottom: 0.5px solid;
-  background: linear-gradient(white 20%, #fcf69a 43%, white 90%); }
+  background: linear-gradient(white 20%, #ebebeb 43%, white 90%); }
   .hypothesis-highlight:hover {
     font-weight: normal;
     border-bottom-style: none; }
