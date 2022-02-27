@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220226/</loc>
+    
+    <lastmod>2022-02-27T06:49:55.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/hexo/Hexo_UpdateAndRenew/</loc>
+    
+    <lastmod>2022-02-27T05:11:30.120Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/hexo/Hexo_IPFSSetup/</loc>
     
     <lastmod>2022-02-21T07:25:19.924Z</lastmod>
