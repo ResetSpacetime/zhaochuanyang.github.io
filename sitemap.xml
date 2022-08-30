@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2022/</loc>
+    
+    <lastmod>2022-08-29T03:15:09.624Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220827/</loc>
+    
+    <lastmod>2022-08-29T03:11:49.882Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220820/</loc>
     
     <lastmod>2022-08-23T02:22:21.133Z</lastmod>
@@ -89,13 +103,6 @@
     <loc>http://z.arlmy.me/Wiki/self/ProustQuestionnaire_220710.html</loc>
     
     <lastmod>2022-07-10T13:42:25.587Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2022/</loc>
-    
-    <lastmod>2022-06-28T05:18:28.295Z</lastmod>
     
   </url>
   
