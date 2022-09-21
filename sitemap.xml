@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2022_2/</loc>
+    
+    <lastmod>2022-09-21T07:12:43.729Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2022_1/</loc>
+    
+    <lastmod>2022-09-21T07:12:06.068Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2022/</loc>
+    
+    <lastmod>2022-09-21T06:49:29.878Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/AnwayCollection_2022/</loc>
+    
+    <lastmod>2022-09-19T09:43:54.424Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/GoodTaste_1_2022041/</loc>
+    
+    <lastmod>2022-09-19T09:16:41.555Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220917/</loc>
+    
+    <lastmod>2022-09-19T09:05:01.265Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220910/</loc>
     
     <lastmod>2022-09-14T02:54:31.818Z</lastmod>
@@ -54,13 +96,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20220813/</loc>
     
     <lastmod>2022-08-16T02:36:31.293Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/AnwayCollection_2022/</loc>
-    
-    <lastmod>2022-08-14T07:59:43.741Z</lastmod>
     
   </url>
   
@@ -366,13 +401,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/GoodTaste_1_2022041/</loc>
-    
-    <lastmod>2022-05-03T12:57:26.934Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_6_20220504/</loc>
     
     <lastmod>2022-05-03T12:50:49.272Z</lastmod>
@@ -390,20 +418,6 @@
     <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_4_20200430/</loc>
     
     <lastmod>2022-05-03T09:32:05.029Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2022_1/</loc>
-    
-    <lastmod>2022-05-03T09:10:13.049Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2022_1/</loc>
-    
-    <lastmod>2022-05-03T08:54:52.564Z</lastmod>
     
   </url>
   
