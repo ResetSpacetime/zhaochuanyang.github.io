@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20221203/</loc>
+    
+    <lastmod>2022-12-05T07:50:57.143Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/about/index.html</loc>
+    
+    <lastmod>2022-11-27T04:48:16.046Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20221126/</loc>
     
     <lastmod>2022-11-27T04:43:44.040Z</lastmod>
@@ -1811,13 +1825,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2020/MastodonTootsArchives_20200919/</loc>
     
     <lastmod>2020-09-21T02:07:38.056Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/about/index.html</loc>
-    
-    <lastmod>2020-09-15T04:12:28.297Z</lastmod>
     
   </url>
   
