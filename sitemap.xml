@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/Wiki/index.html</loc>
+    
+    <lastmod>2022-12-21T06:40:05.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/AlwaysRemember.html</loc>
+    
+    <lastmod>2022-12-20T16:29:30.956Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20221210/</loc>
+    
+    <lastmod>2022-12-18T02:07:03.629Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/2022/index.html</loc>
+    
+    <lastmod>2022-12-18T01:57:35.976Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/BookMovieDownload_20170823/</loc>
+    
+    <lastmod>2022-12-18T01:56:55.245Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/OldBlog/ShimoDailyNote/ShimoDailyNote_202202.html</loc>
     
     <lastmod>2022-12-16T16:13:01.592Z</lastmod>
@@ -30,28 +65,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/2022/index.html</loc>
-    
-    <lastmod>2022-12-16T15:01:53.778Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Wiki/index.html</loc>
-    
-    <lastmod>2022-12-16T14:53:45.285Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20221210/</loc>
-    
-    <lastmod>2022-12-16T14:19:47.251Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20221216/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20221216/</loc>
     
     <lastmod>2022-12-16T13:45:06.014Z</lastmod>
     
@@ -72,7 +86,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20221212/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20221212/</loc>
     
     <lastmod>2022-12-12T14:37:15.527Z</lastmod>
     
@@ -86,14 +100,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20221210/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20221210/</loc>
     
     <lastmod>2022-12-10T15:11:27.219Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20221207/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20221207/</loc>
     
     <lastmod>2022-12-10T13:24:12.601Z</lastmod>
     
@@ -184,13 +198,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/project/AlwaysRemember.html</loc>
-    
-    <lastmod>2022-11-02T01:34:51.622Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2022/MastodonTootsArchives_20221022/</loc>
     
     <lastmod>2022-10-25T06:57:30.128Z</lastmod>
@@ -257,6 +264,13 @@
     <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2016/</loc>
     
     <lastmod>2022-10-03T09:36:30.625Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2017/</loc>
+    
+    <lastmod>2022-10-03T09:10:43.497Z</lastmod>
     
   </url>
   
@@ -380,9 +394,9 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/BookMovieDownload_20170823/</loc>
+    <loc>http://z.arlmy.me/Wiki/library/Original_Kaczynski_AntiTechRevolutionWhyAndHow_cn.html</loc>
     
-    <lastmod>2022-09-01T07:53:03.861Z</lastmod>
+    <lastmod>2022-08-31T09:11:57.335Z</lastmod>
     
   </url>
   
@@ -527,7 +541,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20220505/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20220505/</loc>
     
     <lastmod>2022-05-19T15:40:53.263Z</lastmod>
     
@@ -716,49 +730,42 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20220428/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20220428/</loc>
     
     <lastmod>2022-05-05T02:06:21.229Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20220426/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20220426/</loc>
     
     <lastmod>2022-05-05T02:05:44.762Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20220503/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20220503/</loc>
     
     <lastmod>2022-05-04T13:09:01.271Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Wiki/sites.html</loc>
-    
-    <lastmod>2022-05-03T14:40:40.406Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_6_20220504/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_6_20220504/</loc>
     
     <lastmod>2022-05-03T12:50:49.272Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_5_20210614/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_5_20210614/</loc>
     
     <lastmod>2022-05-03T11:23:27.959Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_4_20200430/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_4_20200430/</loc>
     
     <lastmod>2022-05-03T09:32:05.029Z</lastmod>
     
@@ -1031,13 +1038,6 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Wiki/library/Original_Kaczynski_AntiTechRevolutionWhyAndHow_cn.html</loc>
-    
-    <lastmod>2021-11-08T08:36:19.444Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2021/MastodonTootsArchives_20211106/</loc>
     
     <lastmod>2021-11-08T04:53:25.880Z</lastmod>
@@ -1216,13 +1216,6 @@
     <loc>http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2011/</loc>
     
     <lastmod>2021-07-18T09:06:04.033Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2017/</loc>
-    
-    <lastmod>2021-07-18T09:05:54.053Z</lastmod>
     
   </url>
   
@@ -2067,7 +2060,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200702/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200702/</loc>
     
     <lastmod>2020-07-12T15:54:13.655Z</lastmod>
     
@@ -2088,21 +2081,21 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200531/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200531/</loc>
     
     <lastmod>2020-07-06T06:54:31.800Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200629/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200629/</loc>
     
     <lastmod>2020-07-05T16:30:00.713Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200627/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200627/</loc>
     
     <lastmod>2020-07-05T15:45:03.683Z</lastmod>
     
@@ -2130,7 +2123,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200524/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200524/</loc>
     
     <lastmod>2020-06-29T15:53:40.839Z</lastmod>
     
@@ -2144,14 +2137,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200624/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200624/</loc>
     
     <lastmod>2020-06-27T16:40:18.359Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200623/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200623/</loc>
     
     <lastmod>2020-06-27T16:13:44.177Z</lastmod>
     
@@ -2165,14 +2158,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200520/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200520/</loc>
     
     <lastmod>2020-06-23T08:53:18.007Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200622/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200622/</loc>
     
     <lastmod>2020-06-23T08:33:02.795Z</lastmod>
     
@@ -2186,7 +2179,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200620/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200620/</loc>
     
     <lastmod>2020-06-22T07:48:57.752Z</lastmod>
     
@@ -2207,14 +2200,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200619/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200619/</loc>
     
     <lastmod>2020-06-20T07:23:47.067Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200618/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200618/</loc>
     
     <lastmod>2020-06-19T03:31:17.892Z</lastmod>
     
@@ -2270,21 +2263,21 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200513/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200513/</loc>
     
     <lastmod>2020-05-31T05:10:04.187Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200510/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200510/</loc>
     
     <lastmod>2020-05-31T04:38:59.498Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200501/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200501/</loc>
     
     <lastmod>2020-05-28T03:51:55.097Z</lastmod>
     
@@ -2312,7 +2305,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200506/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200506/</loc>
     
     <lastmod>2020-05-24T13:36:24.012Z</lastmod>
     
@@ -2361,7 +2354,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200427/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200427/</loc>
     
     <lastmod>2020-05-08T10:58:58.924Z</lastmod>
     
@@ -2389,21 +2382,21 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_3_20191226/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_3_20191226/</loc>
     
     <lastmod>2020-04-30T02:56:57.735Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200418/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200418/</loc>
     
     <lastmod>2020-04-29T05:03:53.484Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200416/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200416/</loc>
     
     <lastmod>2020-04-28T03:23:24.900Z</lastmod>
     
@@ -2431,7 +2424,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200411/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200411/</loc>
     
     <lastmod>2020-04-13T04:10:43.527Z</lastmod>
     
@@ -2445,7 +2438,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200409/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200409/</loc>
     
     <lastmod>2020-04-12T13:17:25.877Z</lastmod>
     
@@ -2466,7 +2459,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200407/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200407/</loc>
     
     <lastmod>2020-04-10T02:16:11.083Z</lastmod>
     
@@ -2494,7 +2487,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200331/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200331/</loc>
     
     <lastmod>2020-04-05T15:25:49.304Z</lastmod>
     
@@ -2515,7 +2508,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200404/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200404/</loc>
     
     <lastmod>2020-04-04T10:40:54.545Z</lastmod>
     
@@ -2529,7 +2522,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200329/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200329/</loc>
     
     <lastmod>2020-03-31T05:56:58.232Z</lastmod>
     
@@ -2550,7 +2543,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19_20200325/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/COVID-19/COVID-19_20200325/</loc>
     
     <lastmod>2020-03-26T13:19:32.597Z</lastmod>
     
@@ -2942,7 +2935,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_2_20190812/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_2_20190812/</loc>
     
     <lastmod>2019-12-30T03:50:28.311Z</lastmod>
     
@@ -3334,7 +3327,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_8x8DraftBeerFestival_2019/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_8x8DraftBeerFestival_2019/</loc>
     
     <lastmod>2019-10-21T08:55:07.675Z</lastmod>
     
@@ -3467,7 +3460,7 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer_1_20190101/</loc>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/DrinkBeer/DrinkBeer_1_20190101/</loc>
     
     <lastmod>2019-08-22T15:31:24.010Z</lastmod>
     
@@ -4804,14 +4797,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0%20-%20Copy.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180916_ver0.html</loc>
     
     <lastmod>2018-09-23T01:00:47.264Z</lastmod>
     
