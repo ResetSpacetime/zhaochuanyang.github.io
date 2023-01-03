@@ -15,10 +15,11 @@ title: Wiki
 
 ## 工具
 - [国家图书馆](http://www.nlc.gov.cn/)，[Firstory](https://firstory.me/)，[中国证券投资基金业协会搜人名](https://gs.amac.org.cn/amac-infodisc/res/pof/person/personList.html)
-- [Clippings|Kindle划线导出](https://www.clippings.io/)，[搜韵 诗词搜索](http://sou-yun.com/index.aspx)，[中國哲學書電子化計劃|用典](https://ctext.org/zh)，[Scoop A command-line installer(Win)](https://scoop.sh/)，[商标查询](http://wsjs.saic.gov.cn)，[HTTrack Website Copier|网站爬取](https://www.httrack.com/)
-- RSS Reader：[InoReader](https://www.inoreader.com/)，[Feedspot](http://www.feedspot.com/#folder/fo_556246)，[My Feeds | Feedburner](https://feedburner.google.com/fb/a/myfeeds)
+- [Clippings Kindle划线导出](https://www.clippings.io/)，[搜韵 诗词搜索](http://sou-yun.com/index.aspx)，[中國哲學書電子化計劃 用典](https://ctext.org/zh)，[Scoop A command-line installer(Win)](https://scoop.sh/)，[商标查询](http://wsjs.saic.gov.cn)，[HTTrack Website Copier|网站爬取](https://www.httrack.com/)
+- RSS Reader：[InoReader](https://www.inoreader.com/)，[Feedspot](http://www.feedspot.com/#folder/fo_556246)，[My Feeds - Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/)
-- 搜书：[安娜的档案](https://zh.annas-archive.org/)
+- 搜书：[安娜的档案](https://zh.annas-archive.org/)，[读书达人](http://www.dushudaren.com/)
+- 云盘：[阿里云盘](https://www.aliyundrive.com/drive/)
 
 ## 艺术
 - [The Art Newspaper](https://www.theartnewspaper.com/)，[Hi艺术](http://www.hiart.cn/)，[Art-Ba-Ba 当代艺术社区](http://www.art-ba-ba.com/main/main.art?forumId=8&lang=zh)，[Museum & Gallery - Finding exhibitions and Sharing artists](http://museum-and-gallery.com/)，[Artstor](http://www.artstor.org/)，[artforum 艺术论坛](http://artforum.com.cn/)，[艺术档案](http://www.artda.cn/)，[中央美术学院艺术资讯网 - CAFA Art Info](http://www.cafa.com.cn/)
