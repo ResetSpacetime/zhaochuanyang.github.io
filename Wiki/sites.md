@@ -2,6 +2,9 @@
 title: Wiki
 ---
 
+## 近期
+- [Firstory](https://firstory.me/)
+
 ## 资讯
 - 中文：[36氪早晚报](https://36kr.com/motif/337)，[极客早知道](https://www.geekpark.net/column/74)，[中国数字时代](https://chinadigitaltimes.net/chinese/)，[爱思想](http://www.aisixiang.com/)，[元知](http://miniyuan.com/)，[海德沙龙·翻译组](https://translations.headsalon.org/)，[微软亚洲研究院](https://www.msra.cn/zh-cn/news)，[纽约时报中文网](https://cn.nytimes.com/)，[科技爱好者周刊](https://www.yuque.com/ruanyf/weekly)，[累牍·最好看的长文章](http://www.chinanonfiction.com/)，[上海证券报](http://company.cnstock.com/company/scp_gsxw/)，[港交所披露易HKEX](http://www.hkexnews.hk/APP/SEHKAPPMainIndex_c.htm)，[中国证券监督管理委员会](http://www.csrc.gov.cn/)
 - [界面](http://www.jiemian.com/)、[正午](http://www.jiemian.com/lists/53.html)、[VICE](http://www.vice.cn/)、[PingWest](http://www.pingwest.com/)
@@ -9,13 +12,13 @@ title: Wiki
 - 成都：[成都市人民政府](http://www.chengdu.gov.cn/)，[成都发布](http://www.jintiankansha.me/column/SbiVI9hajw)
 
 ## 偶尔查看
-- [WikiArt艺术维基](http://www.wikiart.org/)，[风潮音乐](http://store.windmusic.com.tw/zh/)，[中国图书网](http://bookschina.com/)，[SOLARHAM 太阳风暴](http://www.solarham.net/)
+- [WikiArt艺术维基](http://www.wikiart.org/)，[风潮音乐](http://store.windmusic.com.tw/zh/)，[中国图书网](http://bookschina.com/)，[SOLARHAM 太阳风暴](http://www.solarham.net/)、[Art of the Title](https://www.artofthetitle.com/)
 - 视频：[一席官网](http://yixi.tv/)、[一席新浪微博](http://weibo.com/p/1006062681847263/home)、[网易公开课](http://open.163.com/)
 - 查字：[小學堂](http://xiaoxue.iis.sinica.edu.tw/)、[中華語文知識庫](http://chinese-linguipedia.org/)、[異體字字典](http://dict.variants.moe.edu.tw/variants/rbt/home.do)、[汉典](http://www.zdic.net/)、[象形字典](http://www.vividict.com/Default.aspx)
 
 ## 工具
-- [国家图书馆](http://www.nlc.gov.cn/)，[Firstory](https://firstory.me/)，[中国证券投资基金业协会搜人名](https://gs.amac.org.cn/amac-infodisc/res/pof/person/personList.html)
-- [Clippings Kindle划线导出](https://www.clippings.io/)，[搜韵 诗词搜索](http://sou-yun.com/index.aspx)，[中國哲學書電子化計劃 用典](https://ctext.org/zh)，[Scoop A command-line installer(Win)](https://scoop.sh/)，[商标查询](http://wsjs.saic.gov.cn)，[HTTrack Website Copier|网站爬取](https://www.httrack.com/)
+- [国家图书馆](http://www.nlc.gov.cn/)，[中国证券投资基金业协会搜人名](https://gs.amac.org.cn/amac-infodisc/res/pof/person/personList.html)
+- [Clippings Kindle划线导出](https://www.clippings.io/)，[搜韵 诗词搜索](http://sou-yun.com/index.aspx)，[中國哲學書電子化計劃 用典](https://ctext.org/zh)，[Scoop A command-line installer(Win)](https://scoop.sh/)，[商标查询](http://wsjs.saic.gov.cn)，[HTTrack Website Copier 网站爬取](https://www.httrack.com/)
 - RSS Reader：[InoReader](https://www.inoreader.com/)，[Feedspot](http://www.feedspot.com/#folder/fo_556246)，[My Feeds - Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/)
 - 搜书：[安娜的档案](https://zh.annas-archive.org/)，[读书达人](http://www.dushudaren.com/)
@@ -42,6 +45,7 @@ title: Wiki
 ## 北京票务
 - 剧场：[北京人民艺术剧院](http://piao.bjry.com/)，[老舍茶馆](http://www.laoshechaguan.cn/)，[清华大学艺术教育中心演出官网](http://www.hall.tsinghua.edu.cn/)，[北京大学百周年纪念讲堂](http://www.pku-hall.com/)，[国家大剧院官方网站](http://www.chncpa.org/)，[长安大戏院](http://www.changandaxiyuan.com/Default.do)，[梅兰芳大剧院官方网站](http://www.bjmlfdjy.cn/)，[天桥艺术中心](http://www.tartscenter.com/item/lists.html)
 - 票务：[iMuseum](https://art.icity.ly/)
+- SCHOOL，鼓楼西剧场
 
 ## 鸡血视频
 - [伟大的领袖如何激励行动](http://v.youku.com/v_show/id_XMjU2NTM1MTU2.html)，[古典：生若夏花般灿烂](http://v.youku.com/v_show/id_XNjE5ODgzNjMy.html)，[一席：林曦《无用之美》](http://v.youku.com/v_show/id_XNjIyMDM4ODk2.html)，[一席：方励《感谢你给我机会上场》](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)，[Alain de Botton：温和的成功哲学](http://v.youku.com/v_show/id_XNDE1OTQ3NDgw.html)，[Tony Robbins: Why we do what we do](http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do)，[John Waters Commencement RISD 2015](http://v.youku.com/v_show/id_XMTI2NjE0MzY4OA==.html?spm=a2hzp.8253869.0.0&from=y1.7-2)，[【去你家可以吗】不择则已](https://www.bilibili.com/video/av43512809)，兰波迪许的最后一课
