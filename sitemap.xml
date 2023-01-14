@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2023/</loc>
+    
+    <lastmod>2023-01-14T15:02:59.230Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2022/</loc>
+    
+    <lastmod>2023-01-14T15:02:50.206Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/IncidentalInventions/IncidentalInventions_0_20230114/</loc>
+    
+    <lastmod>2023-01-14T14:12:04.254Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/2023/index.html</loc>
     
-    <lastmod>2023-01-10T10:55:26.460Z</lastmod>
+    <lastmod>2023-01-14T13:46:29.713Z</lastmod>
     
   </url>
   
@@ -432,13 +453,6 @@
     <loc>http://z.arlmy.me/Wiki/library/Original_Kaczynski_AntiTechRevolutionWhyAndHow_cn.html</loc>
     
     <lastmod>2022-08-31T09:11:57.335Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2022/</loc>
-    
-    <lastmod>2022-08-29T03:15:09.624Z</lastmod>
     
   </url>
   

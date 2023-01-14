@@ -3,10 +3,14 @@ title: Wiki
 ---
 
 ## 近期
-- [Firstory](https://firstory.me/)
+- [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)
+- 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)
+- [It's Nice That](https://www.itsnicethat.com/)
+- 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
+- new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)
 
 ## 资讯
-- 中文：[36氪早晚报](https://36kr.com/motif/337)，[极客早知道](https://www.geekpark.net/column/74)，[中国数字时代](https://chinadigitaltimes.net/chinese/)，[爱思想](http://www.aisixiang.com/)，[元知](http://miniyuan.com/)，[海德沙龙·翻译组](https://translations.headsalon.org/)，[微软亚洲研究院](https://www.msra.cn/zh-cn/news)，[纽约时报中文网](https://cn.nytimes.com/)，[科技爱好者周刊](https://www.yuque.com/ruanyf/weekly)，[累牍·最好看的长文章](http://www.chinanonfiction.com/)，[上海证券报](http://company.cnstock.com/company/scp_gsxw/)，[港交所披露易HKEX](http://www.hkexnews.hk/APP/SEHKAPPMainIndex_c.htm)，[中国证券监督管理委员会](http://www.csrc.gov.cn/)
+- 中文：[36氪早晚报](https://36kr.com/motif/337)，[极客早知道](https://www.geekpark.net/column/74)，[中国数字时代](https://chinadigitaltimes.net/chinese/)，[爱思想](http://www.aisixiang.com/)，[元知](http://miniyuan.com/)，[海德沙龙·翻译组](https://translations.headsalon.org/)，[微软亚洲研究院](https://www.msra.cn/zh-cn/news)，[纽约时报中文网](https://cn.nytimes.com/)，[科技爱好者周刊](https://www.yuque.com/ruanyf/weekly)，[累牍·最好看的长文章](http://www.chinanonfiction.com/)，[上海证券报](http://company.cnstock.com/company/scp_gsxw/)，[港交所披露易HKEX](http://www.hkexnews.hk/APP/SEHKAPPMainIndex_c.htm)，[中国证券监督管理委员会](http://www.csrc.gov.cn/)，[The Harvard Crimson](https://www.thecrimson.com/)
 - [界面](http://www.jiemian.com/)、[正午](http://www.jiemian.com/lists/53.html)、[VICE](http://www.vice.cn/)、[PingWest](http://www.pingwest.com/)
 - 英文：[VICE](https://www.vice.com/en)，[IGNANT](https://www.ignant.com/)
 - 成都：[成都市人民政府](http://www.chengdu.gov.cn/)，[成都发布](http://www.jintiankansha.me/column/SbiVI9hajw)
@@ -26,7 +30,7 @@ title: Wiki
 - [Excel文本格式数字转换数值](https://new.qq.com/rain/a/20210708A0CGG900),[Planet .eth绑定content hash](https://www.planetable.xyz/)，[Gitter 开发者聊天室 兼容Matrix](https://gitter.im/),[Wappalyzer 网站架构解析](https://www.wappalyzer.com/)，[Blot - A blogging platform with no interface](https://blot.im/)，[AICodeHelper - AI编程助手](https://aicodehelper.com/)，[AI YouTube Analytics & Leading Influencer Marketing Platform - NoxInfluencer](https://www.noxinfluencer.com/)
 
 ## 艺术
-- [The Art Newspaper](https://www.theartnewspaper.com/)，[Hi艺术](http://www.hiart.cn/)，[Art-Ba-Ba 当代艺术社区](http://www.art-ba-ba.com/main/main.art?forumId=8&lang=zh)，[Museum & Gallery - Finding exhibitions and Sharing artists](http://museum-and-gallery.com/)，[Artstor](http://www.artstor.org/)，[artforum 艺术论坛](http://artforum.com.cn/)，[艺术档案](http://www.artda.cn/)，[中央美术学院艺术资讯网 - CAFA Art Info](http://www.cafa.com.cn/)
+- [The Art Newspaper](https://www.theartnewspaper.com/)，[Hi艺术](http://www.hiart.cn/)，[Art-Ba-Ba 当代艺术社区](http://www.art-ba-ba.com/main/main.art?forumId=8&lang=zh)，[Artstor](http://www.artstor.org/)，[artforum 艺术论坛](http://artforum.com.cn/)，[艺术档案](http://www.artda.cn/)，[中央美术学院艺术资讯网 - CAFA Art Info](http://www.cafa.com.cn/)
 
 ## FOLLOWING LINKS
 - [誠品選書](http://www.eslite.com/selection_books.aspx)、[读写人](http://www.duxieren.com/)、[Type is Beautiful](https://www.typeisbeautiful.com/)、[BPS](https://www.bps.org.uk/)、[WikiVisually](https://wikivisually.com/)、[独立中文笔会](http://www.chinesepen.org/)、[DW](http://www.dw.com/zh/)、[醫砭](http://yibian.hopto.org/)、[口头传统 Oral Tradition Journal](http://journal.oraltradition.org/)、[Heraldry of the world - Coats of arms of all countries in the world 纹章](http://www.ngw.nl/heraldrywiki/index.php?title=Heraldry_of_the_world)、[BBC Sound Effects - Research & Education Space](http://bbcsfx.acropolis.org.uk/)、[Anitama - 讲道理的动漫媒体](http://www.anitama.cn/channel)、[新芽](http://www.newseed.cn/)、[2018春番](http://zt.dmzj.com/donghua201804/)、[ORA - Oxford University Research Archive](https://ora.ox.ac.uk/)、[Encyclopedia.com](https://www.encyclopedia.com/)、[Culture.pl - serves up the need-to-know facts about Polish culture](https://culture.pl/en)、[Tadeusz Kantor (1915 – 1990) ](http://tadeuszkantor.com.pl/)、[日本国际交流基金会 北京日本文化中心](https://www.jpfbj.cn/)、[Exactitudes®](http://exactitudes.com/index.php?/series/all/)、[Book Depository](https://www.bookdepository.com/)、[元知](http://miniyuan.com/index.php?m=bbs)、[二闲堂](http://www.edubridge.com/index.html)、[万事屋](https://tcya.xyz/)、[亚非文学 bot 的微博](https://weibo.com/u/6006497029)、[邱志杰](http://www.qiuzhijie.com/)、[考古人许宏](http://blog.sina.com.cn/xuhong63)、[H。](http://www.linghuanzhang.com/)
