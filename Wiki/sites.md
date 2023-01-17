@@ -25,6 +25,7 @@ title: Wiki
 - [Clippings Kindle划线导出](https://www.clippings.io/)，[搜韵 诗词搜索](http://sou-yun.com/index.aspx)，[中國哲學書電子化計劃 用典](https://ctext.org/zh)，[Scoop A command-line installer(Win)](https://scoop.sh/)，[商标查询](http://wsjs.saic.gov.cn)，[HTTrack Website Copier 网站爬取](https://www.httrack.com/)
 - RSS Reader：[InoReader](https://www.inoreader.com/)，[Feedspot](http://www.feedspot.com/#folder/fo_556246)，[My Feeds - Feedburner](https://feedburner.google.com/fb/a/myfeeds)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/)
+- 动画/动漫：OmoFun 动漫，异次元
 - 搜书：[安娜的档案](https://zh.annas-archive.org/)，[读书达人](http://www.dushudaren.com/)
 - 云盘：[阿里云盘](https://www.aliyundrive.com/drive/)
 - [Excel文本格式数字转换数值](https://new.qq.com/rain/a/20210708A0CGG900),[Planet .eth绑定content hash](https://www.planetable.xyz/)，[Gitter 开发者聊天室 兼容Matrix](https://gitter.im/),[Wappalyzer 网站架构解析](https://www.wappalyzer.com/)，[Blot - A blogging platform with no interface](https://blot.im/)，[AICodeHelper - AI编程助手](https://aicodehelper.com/)，[AI YouTube Analytics & Leading Influencer Marketing Platform - NoxInfluencer](https://www.noxinfluencer.com/)
