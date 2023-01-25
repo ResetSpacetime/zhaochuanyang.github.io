@@ -7,7 +7,7 @@ title: Wiki
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)
 - [It's Nice That](https://www.itsnicethat.com/)
 - 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
-- new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)
+- new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)、[庭夏的安利](https://rigorous-rambutan-34c.notion.site/Experience-MEMO-8b7e8a1b43034b008aeadb9562dbde0d)
 
 ## 资讯
 - 中文：[36氪早晚报](https://36kr.com/motif/337)，[极客早知道](https://www.geekpark.net/column/74)，[中国数字时代](https://chinadigitaltimes.net/chinese/)，[爱思想](http://www.aisixiang.com/)，[元知](http://miniyuan.com/)，[海德沙龙·翻译组](https://translations.headsalon.org/)，[微软亚洲研究院](https://www.msra.cn/zh-cn/news)，[纽约时报中文网](https://cn.nytimes.com/)，[科技爱好者周刊](https://www.yuque.com/ruanyf/weekly)，[累牍·最好看的长文章](http://www.chinanonfiction.com/)，[上海证券报](http://company.cnstock.com/company/scp_gsxw/)，[港交所披露易HKEX](http://www.hkexnews.hk/APP/SEHKAPPMainIndex_c.htm)，[中国证券监督管理委员会](http://www.csrc.gov.cn/)，[The Harvard Crimson](https://www.thecrimson.com/)
