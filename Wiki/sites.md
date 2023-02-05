@@ -3,7 +3,7 @@ title: Wiki
 ---
 
 ## 近期
-- [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)
+- [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)，[skin in the game](https://skinthegamer.blogspot.com/)，[Ming YAO](https://www.gnimoay.com/)，[The Pudding 在线出版商](https://pudding.cool/)
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)，[Tally可以直接录入Notion](https://tally.so/r/me5ORe)
 - [It's Nice That](https://www.itsnicethat.com/)
 - 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
@@ -28,7 +28,7 @@ title: Wiki
 - 动画/动漫：OmoFun 动漫，异次元
 - 搜书：[安娜的档案](https://zh.annas-archive.org/)，[读书达人](http://www.dushudaren.com/)
 - 云盘：[阿里云盘](https://www.aliyundrive.com/drive/)
-- [Excel文本格式数字转换数值](https://new.qq.com/rain/a/20210708A0CGG900),[Planet .eth绑定content hash](https://www.planetable.xyz/)，[Gitter 开发者聊天室 兼容Matrix](https://gitter.im/),[Wappalyzer 网站架构解析](https://www.wappalyzer.com/)，[Blot - A blogging platform with no interface](https://blot.im/)，[AICodeHelper - AI编程助手](https://aicodehelper.com/)，[AI YouTube Analytics & Leading Influencer Marketing Platform - NoxInfluencer](https://www.noxinfluencer.com/)
+- [Excel文本格式数字转换数值](https://new.qq.com/rain/a/20210708A0CGG900),[Planet .eth绑定content hash](https://www.planetable.xyz/)，[Gitter 开发者聊天室 兼容Matrix](https://gitter.im/),[Wappalyzer 网站架构解析](https://www.wappalyzer.com/)，[Blot - A blogging platform with no interface](https://blot.im/)，[AICodeHelper - AI编程助手](https://aicodehelper.com/)，[AI YouTube Analytics & Leading Influencer Marketing Platform - NoxInfluencer](https://www.noxinfluencer.com/)，[Distill 跟踪网页变化](https://distill.io/)
 
 ## 艺术
 - [The Art Newspaper](https://www.theartnewspaper.com/)，[Hi艺术](http://www.hiart.cn/)，[Art-Ba-Ba 当代艺术社区](http://www.art-ba-ba.com/main/main.art?forumId=8&lang=zh)，[Artstor](http://www.artstor.org/)，[artforum 艺术论坛](http://artforum.com.cn/)，[艺术档案](http://www.artda.cn/)，[中央美术学院艺术资讯网 - CAFA Art Info](http://www.cafa.com.cn/)
