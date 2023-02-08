@@ -2,23 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://z.arlmy.me/project/Workflow/index.html</loc>
+    <loc>http://z.arlmy.me/2023/index.html</loc>
     
-    <lastmod>2023-02-05T02:44:02.079Z</lastmod>
+    <lastmod>2023-02-07T02:40:42.439Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/2023/index.html</loc>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230204/</loc>
     
-    <lastmod>2023-02-05T02:43:23.778Z</lastmod>
+    <lastmod>2023-02-06T04:57:40.387Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ExhibitionNames_20230201/</loc>
+    
+    <lastmod>2023-02-05T05:45:12.368Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://z.arlmy.me/project/index.html</loc>
     
-    <lastmod>2023-02-05T02:42:52.599Z</lastmod>
+    <lastmod>2023-02-05T05:10:44.084Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/Workflow/index.html</loc>
+    
+    <lastmod>2023-02-05T02:44:02.079Z</lastmod>
     
   </url>
   
