@@ -4,6 +4,7 @@ title: Wiki
 
 ## 近期
 - [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)，[skin in the game](https://skinthegamer.blogspot.com/)，[Ming YAO](https://www.gnimoay.com/)，[The Pudding 在线出版商](https://pudding.cool/)，[建筑曲奇导航-建筑网站大全，高效实用的建筑导航、建筑师常用网址推荐](https://hao.archcookie.com/)，[Han's Closet 大憨](https://dahan.io/)
+- [自复制 「共进」读书](https://www.notion.so/68bd34b113d04c40ae7fcb35a467e771)，[写作广场](https://goodjoblivingroom.notion.site/b9a14efdbf694d03906cbf7f304f2911?v=346e07198c0d469ea2e5870bd34eac53)，[JustWatch - The Streaming Guide](https://www.justwatch.com/)
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)，[Tally可以直接录入Notion](https://tally.so/r/me5ORe)
 - [It's Nice That](https://www.itsnicethat.com/)
 - 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
