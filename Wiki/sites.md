@@ -2,10 +2,19 @@
 title: Wiki
 ---
 
+## 链接
+
+- [Workout/锻炼计划](https://z.arlmy.me/project/Fitness/workout.html)、[Eating/饮食计划](https://z.arlmy.me/project/Fitness/eating.html)
+- [新学菜谱](https://z.arlmy.me/posts/ZArlmyMe/HomeMenuRecipe_20230416/)
+- [Remember Note 001](https://z.arlmy.me/posts/ZArlmyMe/RememberNoteArchives_001/)
+
+
 ## 近期
-- [706 跨学科认知小组](https://706community.notion.site/706-4d268fb4486d44399614c3264e42b9ed)，[人文漫游指南-初稿](https://shimo.im/docs/hXYCYXcyYCtP9VCg/read)，[中国文化小站](https://cyanlibra.notion.site/cyanlibra/61d33aa0c6254f26825d353045936a7d)，[打结 Ian's Shoelace Site – Turquoise Turtle Shoelace Knot](https://www.fieggen.com/shoelace/turquoiseturtleknot.htm)，[中国边缘](http://bianjiang.blogspot.com/)，[歪脑 WHYNOT](https://www.wainao.me/)
+
+- [最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能](https://www.jpmarumaru.com/tw/index.asp)，[粉雪-レミオロメン](https://www.jpmarumaru.com/tw/JPSongPlay-12.html)
+- [706 跨学科认知小组](https://706community.notion.site/706-4d268fb4486d44399614c3264e42b9ed)，[人文漫游指南-初稿](https://shimo.im/docs/hXYCYXcyYCtP9VCg/read)，[中国文化小站](https://cyanlibra.notion.site/cyanlibra/61d33aa0c6254f26825d353045936a7d)，[打结 Ian's Shoelace Site – Turquoise Turtle Shoelace Knot](https://www.fieggen.com/shoelace/turquoiseturtleknot.htm)，[中国边缘](http://bianjiang.blogspot.com/)，[歪脑 WHYNOT](https://www.wainao.me/)，[The News Lens 關鍵評論網 - 分享觀點從這開始](https://www.thenewslens.com/)
 - [数据中心 东方财富网](https://data.eastmoney.com/center/)，[财经数据一览-东方财富网](https://data.eastmoney.com/cjsj/)，[建筑曲奇导航-建筑师常用网址推荐](https://hao.archcookie.com/)，[卫生-国防部](http://www.mod.gov.cn/gfbw/gffw/ws/index.html)
-- [Poe - GPT 聚合](https://poe.com/)，[AI Finder](https://ai-finder.net/)，[ChatGPT key 代理](https://2333.site/)，[Unprompt - Search 35+ Million AI Art Prompts](https://unprompt.ai/)，[Fediversul Românesc - Lemmy](https://fediverse.ro/)，[Best Midjourney Prompts - PromptHero](https://prompthero.com/midjourney-prompts)，[Refresh My Home AI](https://refreshmyhome.ai/)
+- [Poe - GPT 聚合](https://poe.com/)，[Close AI](https://www.closeai.one/)，[AI Finder](https://ai-finder.net/)，[ChatGPT key 代理](https://2333.site/)，[Unprompt - Search 35+ Million AI Art Prompts](https://unprompt.ai/)，[Fediversul Românesc - Lemmy](https://fediverse.ro/)，[Best Midjourney Prompts - PromptHero](https://prompthero.com/midjourney-prompts)，[Refresh My Home AI](https://refreshmyhome.ai/)
 - [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)，[skin in the game](https://skinthegamer.blogspot.com/)，[Ming YAO](https://www.gnimoay.com/)，[The Pudding 在线出版商](https://pudding.cool/)，[建筑曲奇导航-建筑网站大全，高效实用的建筑导航、建筑师常用网址推荐](https://hao.archcookie.com/)，[Han's Closet 大憨](https://dahan.io/)，[Stamp Requests - Slowly](https://slowly.canny.io/stamp-requests)，[Quantify Crypto](https://quantifycrypto.com/)，[Blog - Anthony Fu](https://antfu.me/posts)，[Diu](https://ddiu.io/)
 - [自复制 「共进」读书](https://www.notion.so/68bd34b113d04c40ae7fcb35a467e771)，[写作广场](https://goodjoblivingroom.notion.site/b9a14efdbf694d03906cbf7f304f2911?v=346e07198c0d469ea2e5870bd34eac53)，[JustWatch - The Streaming Guide](https://www.justwatch.com/)
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)，[Tally可以直接录入Notion](https://tally.so/r/me5ORe)
