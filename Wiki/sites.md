@@ -11,17 +11,27 @@ title: Wiki
 
 ## 近期
 
-- [最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能](https://www.jpmarumaru.com/tw/index.asp)，[粉雪-レミオロメン](https://www.jpmarumaru.com/tw/JPSongPlay-12.html)
-- [706 跨学科认知小组](https://706community.notion.site/706-4d268fb4486d44399614c3264e42b9ed)，[人文漫游指南-初稿](https://shimo.im/docs/hXYCYXcyYCtP9VCg/read)，[中国文化小站](https://cyanlibra.notion.site/cyanlibra/61d33aa0c6254f26825d353045936a7d)，[打结 Ian's Shoelace Site – Turquoise Turtle Shoelace Knot](https://www.fieggen.com/shoelace/turquoiseturtleknot.htm)，[中国边缘](http://bianjiang.blogspot.com/)，[歪脑 WHYNOT](https://www.wainao.me/)，[The News Lens 關鍵評論網 - 分享觀點從這開始](https://www.thenewslens.com/)
+- [最專業的學日文網站，能聽、能寫、能說、還能唱，以及豐富的線上測驗功能](https://www.jpmarumaru.com/tw/index.asp)，[粉雪-レミオロメン](https://www.jpmarumaru.com/tw/JPSongPlay-12.html)，[零博客 - Read blog on demand.](https://agora0.gitlab.io/blog/)
+- [人文漫游指南-初稿](https://shimo.im/docs/hXYCYXcyYCtP9VCg/read)，[中国文化小站](https://cyanlibra.notion.site/cyanlibra/61d33aa0c6254f26825d353045936a7d)，[打结 Ian's Shoelace Site – Turquoise Turtle Shoelace Knot](https://www.fieggen.com/shoelace/turquoiseturtleknot.htm)，[中国边缘](http://bianjiang.blogspot.com/)，[歪脑 WHYNOT](https://www.wainao.me/)，[The News Lens 關鍵評論網 - 分享觀點從這開始](https://www.thenewslens.com/)
 - [数据中心 东方财富网](https://data.eastmoney.com/center/)，[财经数据一览-东方财富网](https://data.eastmoney.com/cjsj/)，[建筑曲奇导航-建筑师常用网址推荐](https://hao.archcookie.com/)，[卫生-国防部](http://www.mod.gov.cn/gfbw/gffw/ws/index.html)
 - [Poe - GPT 聚合](https://poe.com/)，[Close AI](https://www.closeai.one/)，[AI Finder](https://ai-finder.net/)，[ChatGPT key 代理](https://2333.site/)，[Unprompt - Search 35+ Million AI Art Prompts](https://unprompt.ai/)，[Fediversul Românesc - Lemmy](https://fediverse.ro/)，[Best Midjourney Prompts - PromptHero](https://prompthero.com/midjourney-prompts)，[Refresh My Home AI](https://refreshmyhome.ai/)
-- [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[歪脑 WHYNOT](https://www.wainao.me/)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)，[skin in the game](https://skinthegamer.blogspot.com/)，[Ming YAO](https://www.gnimoay.com/)，[The Pudding 在线出版商](https://pudding.cool/)，[建筑曲奇导航-建筑网站大全，高效实用的建筑导航、建筑师常用网址推荐](https://hao.archcookie.com/)，[Han's Closet 大憨](https://dahan.io/)，[Stamp Requests - Slowly](https://slowly.canny.io/stamp-requests)，[Quantify Crypto](https://quantifycrypto.com/)，[Blog - Anthony Fu](https://antfu.me/posts)，[Diu](https://ddiu.io/)
+- [Firstory](https://firstory.me/)，[灵感买家俱乐部](https://club.q24.io/)，[Projects – Vercel Docs](https://vercel.com/docs/concepts/projects/overview)，[【乐仔小屋】](https://www.notion.so/dengkele/5b248789087b48fc974f0067bc868d8b)，[skin in the game](https://skinthegamer.blogspot.com/)，[Ming YAO](https://www.gnimoay.com/)，[The Pudding 在线出版商](https://pudding.cool/)，[建筑曲奇导航-建筑网站大全，高效实用的建筑导航、建筑师常用网址推荐](https://hao.archcookie.com/)，[Han's Closet 大憨](https://dahan.io/)，[Stamp Requests - Slowly](https://slowly.canny.io/stamp-requests)，[Quantify Crypto](https://quantifycrypto.com/)，[Blog - Anthony Fu](https://antfu.me/posts)，[Diu](https://ddiu.io/)
 - [自复制 「共进」读书](https://www.notion.so/68bd34b113d04c40ae7fcb35a467e771)，[写作广场](https://goodjoblivingroom.notion.site/b9a14efdbf694d03906cbf7f304f2911?v=346e07198c0d469ea2e5870bd34eac53)，[JustWatch - The Streaming Guide](https://www.justwatch.com/)
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)，[Tally可以直接录入Notion](https://tally.so/r/me5ORe)
 - [It's Nice That](https://www.itsnicethat.com/)
 - 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
 - new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)，[庭夏的安利](https://rigorous-rambutan-34c.notion.site/Experience-MEMO-8b7e8a1b43034b008aeadb9562dbde0d)，[夜游船](https://www.yeyouchuan.me/)，[季度嘟文精华展 - zero](https://zero-mstd.github.io/exhibition/)，[路德教徒书 – 一种备份尝试（不是路德教徒）](https://ilmondononmivuolepiu.wordpress.com/)
 - [500 ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)，[资源站 by nothings](https://www.notion.so/930c1741130747249176071a24186e85?v=fc7282142f08437d9905739f0fcbae8c)
+- 评分网站：[Trustpilot Reviews: Experience the power of customer reviews](https://www.trustpilot.com/)，[Marketing Solutions - Sell G2](https://sell.g2.com/)
+
+
+## 收集
+
+- [SmartWriter - Personalised AI Cold Emails](https://www.smartwriter.ai/)
+- 文档阅读：[PandaGPT, file reading made easy](https://www.pandagpt.io/)，[ChatPaper](https://chatpaper.org/)
+- [HPC-AI Tech - Deep Learning Speed and Scale, Open Source](https://www.hpc-ai.tech/)
+- [FABLE - The Future of Storytelling](https://www.fable-studio.com/)，[Language Model Copilot for Business Teams - Sapling](https://sapling.ai/)，[Replika](https://replika.com/)，[Perplexity AI](https://www.perplexity.ai/)
+
 
 ## 资讯
 - 中文：[36氪早晚报](https://36kr.com/motif/337)，[极客早知道](https://www.geekpark.net/column/74)，[中国数字时代](https://chinadigitaltimes.net/chinese/)，[爱思想](http://www.aisixiang.com/)，[元知](http://miniyuan.com/)，[海德沙龙·翻译组](https://translations.headsalon.org/)，[微软亚洲研究院](https://www.msra.cn/zh-cn/news)，[纽约时报中文网](https://cn.nytimes.com/)，[科技爱好者周刊](https://www.yuque.com/ruanyf/weekly)，[累牍·最好看的长文章](http://www.chinanonfiction.com/)，[上海证券报](http://company.cnstock.com/company/scp_gsxw/)，[港交所披露易HKEX](http://www.hkexnews.hk/APP/SEHKAPPMainIndex_c.htm)，[中国证券监督管理委员会](http://www.csrc.gov.cn/)，[The Harvard Crimson](https://www.thecrimson.com/)
