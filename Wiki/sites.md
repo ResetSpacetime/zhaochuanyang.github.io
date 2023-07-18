@@ -27,7 +27,7 @@ title: Wiki
 - 白板：[Milanote](https://app.milanote.com/)，[BoardOS](https://app.boardos.online/)，[Pixso](https://pixso.cn/app/)，[Figma](https://www.figma.com/files/recent)，[Tally可以直接录入Notion](https://tally.so/r/me5ORe)
 - [It's Nice That](https://www.itsnicethat.com/)
 - 多媒体网页呈现：[Kontinentalist - We tell data-driven stories about Asia.](https://kontinentalist.com/)，[Idyll Documentation - An overview.](https://idyll-lang.org/docs)，[Distill — Latest articles about machine learning](https://distill.pub/)，[Felt – The best way to make maps on the internet](https://felt.com/)，[The Pudding](https://pudding.cool/)
-- new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)，[庭夏的安利](https://rigorous-rambutan-34c.notion.site/Experience-MEMO-8b7e8a1b43034b008aeadb9562dbde0d)，[夜游船](https://www.yeyouchuan.me/)，[季度嘟文精华展 - zero](https://zero-mstd.github.io/exhibition/)，[路德教徒书 – 一种备份尝试（不是路德教徒）](https://ilmondononmivuolepiu.wordpress.com/)
+- new friend：[2300 颗树 - Forrest](https://forrest.typlog.io/)，[庭夏的安利](https://rigorous-rambutan-34c.notion.site/Experience-MEMO-8b7e8a1b43034b008aeadb9562dbde0d)，[夜游船](https://www.yeyouchuan.me/)，[季度嘟文精华展 - zero](https://zero-mstd.github.io/exhibition/)，[路德教徒书 – 一种备份尝试（不是路德教徒）](https://ilmondononmivuolepiu.wordpress.com/)，[邓可乐的typlog](https://dengkele.typlog.io/)
 - [500 ChatGPT Prompt Templates](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)，[资源站 by nothings](https://www.notion.so/930c1741130747249176071a24186e85?v=fc7282142f08437d9905739f0fcbae8c)
 - 评分网站：[Trustpilot Reviews: Experience the power of customer reviews](https://www.trustpilot.com/)，[Marketing Solutions - Sell G2](https://sell.g2.com/)
 
