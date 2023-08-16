@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230812/</loc>
+    
+    <lastmod>2023-08-16T12:06:55.318Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/index.html</loc>
+    
+    <lastmod>2023-08-11T02:55:28.846Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/project/Muzic/index.html</loc>
+    
+    <lastmod>2023-08-11T02:55:14.748Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230805/</loc>
     
     <lastmod>2023-08-07T16:05:14.883Z</lastmod>
@@ -348,13 +369,6 @@
     <loc>http://z.arlmy.me/project/Poem/Poem_20220330.html</loc>
     
     <lastmod>2023-05-27T12:00:15.407Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/project/index.html</loc>
-    
-    <lastmod>2023-05-26T00:21:55.066Z</lastmod>
     
   </url>
   
