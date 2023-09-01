@@ -15,6 +15,8 @@ title: Wiki
 - [高尔夫运动常见的运动损伤与预防训练](https://zhuanlan.zhihu.com/p/66155118?utm_id=0)
 - [New Listing Information - 披露易](https://www1.hkexnews.hk/app/appindex.html?lang=zh)，[文件库-国家发展和改革委员会](https://www.ndrc.gov.cn/xxgk/wjk/index.html?tab=ghwb)
 - [Platforms Starter Kit - Vercel Self Blog Tool](https://app.vercel.pub/login)，以及DNS配置，[Vercel DNS 更换](https://www.ixiqin.com/2022/03/26/solve-vercel-access-is-the-problem-of-wall-in-the-country/)
+- [Game jams - itch.io](https://itch.io/jams)
+- [AI帮个忙 多功能AI小帮手](https://aibang.run/)
 
 
 ## 近期
