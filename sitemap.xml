@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2023/</loc>
+    
+    <lastmod>2023-09-04T15:00:01.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230902/</loc>
+    
+    <lastmod>2023-09-04T14:41:58.270Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230826/</loc>
     
     <lastmod>2023-09-01T05:06:32.130Z</lastmod>
@@ -334,13 +348,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230603/</loc>
     
     <lastmod>2023-06-07T08:43:19.126Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2023/</loc>
-    
-    <lastmod>2023-06-01T02:28:24.118Z</lastmod>
     
   </url>
   
