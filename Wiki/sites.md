@@ -17,6 +17,8 @@ title: Wiki
 - [Platforms Starter Kit - Vercel Self Blog Tool](https://app.vercel.pub/login)，以及DNS配置，[Vercel DNS 更换](https://www.ixiqin.com/2022/03/26/solve-vercel-access-is-the-problem-of-wall-in-the-country/)
 - [Game jams - itch.io](https://itch.io/jams)
 - [AI帮个忙 多功能AI小帮手](https://aibang.run/)
+- [Call Annie 英语AI电话](https://callannie.ai/options)
+- [AIVA AI编曲 The AI composing emotional soundtrack music](https://www.aiva.ai/)
 
 
 ## 近期
