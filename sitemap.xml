@@ -2,6 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2023_2/</loc>
+    
+    <lastmod>2024-01-11T06:37:53.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2023_1/</loc>
+    
+    <lastmod>2024-01-11T06:00:17.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2023/</loc>
+    
+    <lastmod>2024-01-11T05:52:06.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240106/</loc>
+    
+    <lastmod>2024-01-09T04:14:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/</loc>
+    
+    <lastmod>2024-01-08T02:14:58.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/ZArlmyMe/BookMovieDownload_20170823/</loc>
+    
+    <lastmod>2024-01-05T08:02:04.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/project/DailyWritingArchives/index.html</loc>
     
     <lastmod>2024-01-01T13:13:03.000Z</lastmod>
@@ -19,13 +61,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231230/</loc>
     
     <lastmod>2024-01-01T13:05:15.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBest/YearlyBest_2023/</loc>
-    
-    <lastmod>2024-01-01T10:38:50.000Z</lastmod>
     
   </url>
   
@@ -205,23 +240,9 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/posts/ZArlmyMe/BookMovieDownload_20170823/</loc>
-    
-    <lastmod>2023-10-20T07:48:50.111Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20231014/</loc>
     
     <lastmod>2023-10-17T04:45:30.246Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/2023/index.html</loc>
-    
-    <lastmod>2023-10-17T00:49:13.945Z</lastmod>
     
   </url>
   
@@ -250,13 +271,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2023/MastodonTootsArchives_20230923/</loc>
     
     <lastmod>2023-10-08T15:16:22.122Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyMovies/YearlyMovies_2023_1/</loc>
-    
-    <lastmod>2023-10-01T01:46:09.025Z</lastmod>
     
   </url>
   
@@ -621,13 +635,6 @@
     <loc>http://z.arlmy.me/posts/ZArlmyMe/MySealsArchive_20230530/</loc>
     
     <lastmod>2023-05-30T04:28:28.877Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2023/</loc>
-    
-    <lastmod>2023-05-30T03:24:07.909Z</lastmod>
     
   </url>
   
@@ -3152,14 +3159,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver1.html</loc>
+    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver2.html</loc>
     
     <lastmod>2020-05-24T13:53:20.130Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver2.html</loc>
+    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver1.html</loc>
     
     <lastmod>2020-05-24T13:53:20.130Z</lastmod>
     
@@ -5588,14 +5595,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0%20-%20Copy.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0.html</loc>
     
     <lastmod>2018-09-23T01:01:27.228Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0.html</loc>
+    <loc>http://z.arlmy.me/drafts/Japan_20180914-20180918/20180917_ver0%20-%20Copy.html</loc>
     
     <lastmod>2018-09-23T01:01:27.228Z</lastmod>
     
