@@ -12,7 +12,6 @@ title: Wiki
 - [Remember Note 001](https://z.arlmy.me/posts/ZArlmyMe/RememberNoteArchives_001/)
 - [IndreDesign - DesignCrowd](https://www.designcrowd.com/design/24932536)，PPT设计参考
 - Ted K Archive 用的是 、[A·Muse·Wiki](https://amusewiki.org/special/index)
-- [高尔夫运动常见的运动损伤与预防训练](https://zhuanlan.zhihu.com/p/66155118?utm_id=0)
 - [New Listing Information - 披露易](https://www1.hkexnews.hk/app/appindex.html?lang=zh)，[文件库-国家发展和改革委员会](https://www.ndrc.gov.cn/xxgk/wjk/index.html?tab=ghwb)
 - [Platforms Starter Kit - Vercel Self Blog Tool](https://app.vercel.pub/login)，以及DNS配置，[Vercel DNS 更换](https://www.ixiqin.com/2022/03/26/solve-vercel-access-is-the-problem-of-wall-in-the-country/)
 - [Game jams - itch.io](https://itch.io/jams)
@@ -93,15 +92,32 @@ title: Wiki
 - SCHOOL，鼓楼西剧场
 
 ## 鸡血视频
-- [伟大的领袖如何激励行动](http://v.youku.com/v_show/id_XMjU2NTM1MTU2.html)，[古典：生若夏花般灿烂](http://v.youku.com/v_show/id_XNjE5ODgzNjMy.html)，[一席：林曦《无用之美》](http://v.youku.com/v_show/id_XNjIyMDM4ODk2.html)，[一席：方励《感谢你给我机会上场》](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)，[Alain de Botton：温和的成功哲学](http://v.youku.com/v_show/id_XNDE1OTQ3NDgw.html)，[Tony Robbins: Why we do what we do](http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do)，[John Waters Commencement RISD 2015](http://v.youku.com/v_show/id_XMTI2NjE0MzY4OA==.html?spm=a2hzp.8253869.0.0&from=y1.7-2)，[【去你家可以吗】不择则已](https://www.bilibili.com/video/av43512809)，兰波迪许的最后一课
+- [伟大的领袖如何激励行动](http://v.youku.com/v_show/id_XMjU2NTM1MTU2.html)，[古典：生若夏花般灿烂](http://v.youku.com/v_show/id_XNjE5ODgzNjMy.html)，[一席：林曦《无用之美》](http://v.youku.com/v_show/id_XNjIyMDM4ODk2.html)，[一席：方励《感谢你给我机会上场》](http://v.youku.com/v_show/id_XNzg2MDQyNzYw.html)，[Alain de Botton：温和的成功哲学](http://v.youku.com/v_show/id_XNDE1OTQ3NDgw.html)，[Tony Robbins: Why we do what we do](http://www.ted.com/talks/tony_robbins_asks_why_we_do_what_we_do)，[John Waters Commencement RISD 2015](http://v.youku.com/v_show/id_XMTI2NjE0MzY4OA==.html?spm=a2hzp.8253869.0.0&from=y1.7-2)，兰波迪许的最后一课，[沃伦·巴菲特1998年佛罗里达大学演讲](https://www.bilibili.com/video/BV1uv411t7ao/)，[史蒂夫·乔布斯斯坦福大学毕业生演讲](https://www.youtube.com/watch?v=5xM0KfaYV_0)，[我爸有哈雷！for girls，for“懂事”的孩子们](https://www.bilibili.com/video/BV1jN411V7jj/)
 
 ## 视频
-- [Frank Warren: 弗兰克·沃伦：五十万个秘密](https://www.ted.com/talks/frank_warren_half_a_million_secrets?language=zh-cn#t-664787)、[查理·芒格 USC 毕业演讲](https://v.qq.com/x/page/d0536ndu1n7.html)、[乔治卡林 - 別太在乎](http://www.bilibili.com/video/av8184970/)、EBS纪录片 - 我们为什么要读大学 人才的诞生：[1.1](https://www.bilibili.com/video/av12617251)、[1.2](https://www.bilibili.com/video/av12638591)、[1.3](https://www.bilibili.com/video/av12665640)、[1.4](https://www.bilibili.com/video/av12704617)、[1.5](https://www.bilibili.com/video/av12741858)、[2.1](https://www.bilibili.com/video/av13132735)、[2.2](https://www.bilibili.com/video/av13178912)、[2.3](https://www.bilibili.com/video/av13220302)，[都筑响一：Tokyo Style](https://www.bilibili.com/video/av28755651/)
+- [Frank Warren: 弗兰克·沃伦：五十万个秘密](https://www.ted.com/talks/frank_warren_half_a_million_secrets?language=zh-cn#t-664787)，[查理·芒格 USC 毕业演讲](https://v.qq.com/x/page/d0536ndu1n7.html)、[乔治卡林 - 別太在乎](http://www.bilibili.com/video/av8184970/)，EBS纪录片 - 我们为什么要读大学 人才的诞生：[1.1](https://www.bilibili.com/video/av12617251)、[1.2](https://www.bilibili.com/video/av12638591)、[1.3](https://www.bilibili.com/video/av12665640)、[1.4](https://www.bilibili.com/video/av12704617)、[1.5](https://www.bilibili.com/video/av12741858)、[2.1](https://www.bilibili.com/video/av13132735)、[2.2](https://www.bilibili.com/video/av13178912)、[2.3](https://www.bilibili.com/video/av13220302)，[都筑响一：Tokyo Style](https://www.bilibili.com/video/av28755651/)
 
 ## 好音频
 - [Naval Ravikant on Reading, Happiness, Systems for Decision Making, Habits, Honesty and More](https://www.farnamstreetblog.com/2017/02/naval-ravikant-reading-decision-making/)
 
+## 本命动画、漫画
+
+- 猎人HunterxHunter，阿兰的战争，万物，棕色的世界，葬送的芙莉莲
+
+## 本命电影、剧集
+
+- 沙漏时镜下的疗养院，真探S1，更美好的事，横道世之介，有熊谷守一在的地方，重启人生
+
+## 本命书籍
+
+- 荒原狼，复杂，鹿之民，火花，鳄鱼街，赫尔佐格论赫尔佐格，活了100万次的猫，坛经
+
+## 本命偶像
+
+- 赫尔佐格，邱志杰，木心，Ted K，福柯，瓦尔达，树木希林
+
 ## 写作助益
+
 - [圆桌派 S03E21 细节：魔鬼藏在细节里](http://v.youku.com/v_show/id_XMzU0MzMwNjA4NA.html?&f=51474893)，[鲁豫有约大咖一日行 许渊冲](http://tv.cntv.cn/video/VSET100291977842/2adf5524eae83de1d490706a0a4e5c44)、[2017-06-19 浙江高考语文阅读理解引热议许子东陶杰共同解题](http://www.pcne.tv/v-23922-%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E9%98%85%E8%AF%BB%E7%90%86%E8%A7%A3%E5%BC%95%E7%83%AD%E8%AE%AE%20%E8%AE%B8%E5%AD%90%E4%B8%9C%E9%99%B6%E6%9D%B0%E5%85%B1%E5%90%8C%E8%A7%A3%E9%A2%98)，翻转电台 [语言学（上）](http://music.163.com/#/program/907568583/1622113/?userid=1220555)、[语言学（下）](http://music.163.com/#/program?id=907726641)，媒体食谱02 淡豹：写小说需要的细节，我从媒体中获得，[第三者NOWHERE 周轶君：我在新华社当编辑时学会了什么](https://mp.weixin.qq.com/s?__biz=MzI5NTc0MzI5MQ==&mid=2247483709&idx=1&sn=bd0f77a5b5ac5b2871af67da671cf833)
 
 ## 垃圾箱
