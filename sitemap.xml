@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/IndexOfWikiLibrary/</loc>
+    
+    <lastmod>2024-07-29T00:26:05.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Wiki/library/Original_SimoneWeil_LeBeauEtLeBien.html</loc>
+    
+    <lastmod>2024-07-29T00:23:21.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240727/</loc>
+    
+    <lastmod>2024-07-29T00:12:18.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/Wiki/self/OldAddressArchives.html</loc>
+    
+    <lastmod>2024-07-23T09:19:56.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240720/</loc>
     
     <lastmod>2024-07-23T07:39:32.000Z</lastmod>
@@ -96,13 +124,6 @@
     <loc>http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240615/</loc>
     
     <lastmod>2024-06-16T10:11:34.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/posts/IndexOfWikiLibrary/</loc>
-    
-    <lastmod>2024-06-16T09:50:22.000Z</lastmod>
     
   </url>
   
@@ -866,13 +887,6 @@
     <loc>http://z.arlmy.me/posts/ZArlmyMe/GoodTaste_1_2022041/</loc>
     
     <lastmod>2023-06-19T06:31:43.411Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/Wiki/self/OldAddressArchives.html</loc>
-    
-    <lastmod>2023-06-14T07:05:50.897Z</lastmod>
     
   </url>
   
@@ -5189,14 +5203,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/project/FiveMornings/FiveMornings_template.html</loc>
+    <loc>http://z.arlmy.me/project/FiveMornings/Pandemic_template.html</loc>
     
     <lastmod>2019-01-09T16:04:04.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/project/FiveMornings/Pandemic_template.html</loc>
+    <loc>http://z.arlmy.me/project/FiveMornings/FiveMornings_template.html</loc>
     
     <lastmod>2019-01-09T16:04:04.221Z</lastmod>
     
