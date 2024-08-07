@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_2024/</loc>
+    
+    <lastmod>2024-08-07T09:27:23.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/YearlyBooks/BookList_Anti-work/</loc>
+    
+    <lastmod>2024-08-07T09:16:47.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/posts/MastodonArchives/2024/MastodonTootsArchives_20240803/</loc>
+    
+    <lastmod>2024-08-05T14:15:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://z.arlmy.me/about/index.html</loc>
+    
+    <lastmod>2024-08-05T14:06:16.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://z.arlmy.me/posts/IndexOfWikiLibrary/</loc>
     
     <lastmod>2024-07-29T00:26:05.000Z</lastmod>
@@ -1069,13 +1097,6 @@
     <loc>http://z.arlmy.me/posts/hexo/Hexo_FeedRepair/</loc>
     
     <lastmod>2023-03-13T08:48:07.240Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://z.arlmy.me/about/index.html</loc>
-    
-    <lastmod>2023-03-13T08:45:29.308Z</lastmod>
     
   </url>
   
@@ -3460,14 +3481,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver1.html</loc>
+    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver2.html</loc>
     
     <lastmod>2020-05-24T13:53:20.130Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver2.html</loc>
+    <loc>http://z.arlmy.me/Writing/Japan-2/20200119_ver1.html</loc>
     
     <lastmod>2020-05-24T13:53:20.130Z</lastmod>
     
@@ -5203,14 +5224,14 @@
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/project/FiveMornings/Pandemic_template.html</loc>
+    <loc>http://z.arlmy.me/project/FiveMornings/FiveMornings_template.html</loc>
     
     <lastmod>2019-01-09T16:04:04.221Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://z.arlmy.me/project/FiveMornings/FiveMornings_template.html</loc>
+    <loc>http://z.arlmy.me/project/FiveMornings/Pandemic_template.html</loc>
     
     <lastmod>2019-01-09T16:04:04.221Z</lastmod>
     
